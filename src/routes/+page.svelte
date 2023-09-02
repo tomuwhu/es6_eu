@@ -1,5 +1,15 @@
-<h1>ES6.EU</h1>
+<h1 class="text-center mb-5 mt-4">ES6.EU</h1>
 
-<a href="https://szte.es6.eu">Egyetemi oktatás</a>
-<a href="https://sob.es6.eu">Szakképzési oldal</a>
-<a href="https://gyakg.es6.eu">Régi közoktatási oldal</a>
+<div class="container text-center">
+	<div class="row">
+		<div class="col m-2">
+			<a href="https://szte.es6.eu" target="_blank">Egyetemi&nbsp;oktatás</a>
+		</div>
+		<div class="col m-2">
+			<a href="https://sob.es6.eu" target="_blank">Szakképzési&nbsp;oldal</a>
+		</div>
+		<div class="col m-2">
+			<a href="https://gyakg.es6.eu" target="_blank">Régi&nbsp;közoktatási&nbsp;oldal</a>
+		</div>
+	</div>
+</div>
