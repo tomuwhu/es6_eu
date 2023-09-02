@@ -13,3 +13,19 @@
 		</div>
 	</div>
 </div>
+
+<div class="container text-center">
+	<div class="row m-5">
+		<div class="col m-2" />
+		<div class="col m-2">
+			<a href="https://github.com/tomuwhu/es6_eu" target="_blank">
+				<img
+					width="50px"
+					src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+					alt=""
+				/>
+			</a>
+		</div>
+		<div class="col m-2" />
+	</div>
+</div>
