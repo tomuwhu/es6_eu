@@ -11,11 +11,16 @@
 		<div class="col m-2">
 			<a href="https://gyakg.es6.eu" target="_blank">Régi&nbsp;közoktatási&nbsp;oldal</a>
 		</div>
+		<div class="col m-2">
+			<a href="https://www.inf.u-szeged.hu/~tnemeth" target="_blank"
+				>Régi&nbsp;egyetemi&nbsp;oldal</a
+			>
+		</div>
 	</div>
 </div>
 
 <div class="container text-center">
-	<div class="row m-5">
+	<div class="row mt-5">
 		<div class="col m-2" />
 		<div class="col m-2">
 			<a href="https://github.com/tomuwhu/es6_eu" target="_blank">
