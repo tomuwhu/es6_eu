@@ -2,16 +2,21 @@
 
 <div class="container text-center">
 	<div class="row">
-		<div class="col m-2">
+		<div class="col m-2 x">
 			<a href="https://szte.es6.eu" target="_blank">Egyetemi&nbsp;oktatás</a>
 		</div>
-		<div class="col m-2">
+		<div class="col m-2 x">
 			<a href="https://sob.es6.eu" target="_blank">Szakképzési&nbsp;oldal</a>
 		</div>
-		<div class="col m-2">
+		<div class="col m-2 x">
+			<a href="https://tomuwhu.github.io/sva/" target="_blank">Ságváris oktatás</a>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col m-2 x">
 			<a href="https://gyakg.es6.eu" target="_blank">Régi&nbsp;közoktatási&nbsp;oldal</a>
 		</div>
-		<div class="col m-2">
+		<div class="col m-2 x">
 			<a href="https://www.inf.u-szeged.hu/~tnemeth" target="_blank"
 				>Régi&nbsp;egyetemi&nbsp;oldal</a
 			>
@@ -34,3 +39,14 @@
 		<div class="col m-2" />
 	</div>
 </div>
+
+<style>
+	div.x {
+		border: solid 1px red;
+		border-radius: 6px;
+		background-color: aliceblue;
+	}
+	div.x a {
+		text-decoration: none;
+	}
+</style>
