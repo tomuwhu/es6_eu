@@ -3,10 +3,10 @@
 <div class="container text-center">
 	<div class="row">
 		<div class="col m-2 x">
-			<a href="https://szte.es6.eu" target="_blank">Egyetemi&nbsp;oktatás</a>
+			<a href="https://szte.es6.eu" target="_blank">Egyetemi oktatás</a>
 		</div>
 		<div class="col m-2 x">
-			<a href="https://sob.es6.eu" target="_blank">Szakképzési&nbsp;oldal</a>
+			<a href="https://sob.es6.eu" target="_blank">Szakképzési oldal</a>
 		</div>
 		<div class="col m-2 x">
 			<a href="https://tomuwhu.github.io/sva/" target="_blank">Ságváris oktatás</a>
@@ -14,12 +14,10 @@
 	</div>
 	<div class="row">
 		<div class="col m-2 x">
-			<a href="https://gyakg.es6.eu" target="_blank">Régi&nbsp;közoktatási&nbsp;oldal</a>
+			<a href="https://gyakg.es6.eu" target="_blank">Régi közoktatási oldal</a>
 		</div>
 		<div class="col m-2 x">
-			<a href="https://www.inf.u-szeged.hu/~tnemeth" target="_blank"
-				>Régi&nbsp;egyetemi&nbsp;oldal</a
-			>
+			<a href="https://www.inf.u-szeged.hu/~tnemeth" target="_blank">Régi egyetemi oldal</a>
 		</div>
 	</div>
 </div>
@@ -41,6 +39,9 @@
 </div>
 
 <style>
+	a {
+		white-space: nowrap;
+	}
 	div.x {
 		border: solid 1px red;
 		border-radius: 6px;
