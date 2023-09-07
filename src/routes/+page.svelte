@@ -20,6 +20,13 @@
 			<a href="https://www.inf.u-szeged.hu/~tnemeth" target="_blank">Régi egyetemi oldal</a>
 		</div>
 	</div>
+	<div class="row">
+		<div class="col m-2 y">
+			<a class="y" href="https://www.youtube.com/watch?v=A1BhOVW8qZU" target="_blank"
+				>Einstein Tile</a
+			>
+		</div>
+	</div>
 </div>
 
 <div class="container text-center">
@@ -42,12 +49,19 @@
 	a {
 		white-space: nowrap;
 	}
-	div.x {
+	div.x,
+	div.y {
 		border: solid 1px red;
 		border-radius: 6px;
 		background-color: aliceblue;
 	}
-	div.x a {
+	div a {
 		text-decoration: none;
+	}
+	div.y {
+		background-color: rgb(90, 6, 6);
+	}
+	div.y a {
+		color: pink;
 	}
 </style>
