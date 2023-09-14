@@ -19,6 +19,9 @@
 		<div class="col m-2 x">
 			<a href="https://www.inf.u-szeged.hu/~tnemeth" target="_blank">Régi egyetemi oldal</a>
 		</div>
+		<div class="col m-2 x">
+			<a href="emma" target="_blank">Emma</a>
+		</div>
 	</div>
 	<div class="row">
 		<div class="col m-2 y">
