@@ -57,12 +57,29 @@
 		border: solid 1px red;
 		border-radius: 6px;
 		background-color: aliceblue;
+		cursor: pointer;
+	}
+	div.x:hover {
+		background-color: bisque;
+		box-shadow: 1px 1px 3px black;
+	}
+	div.x:hover a {
+		color: rgb(36, 103, 112);
 	}
 	div a {
 		text-decoration: none;
+		color:rgb(90, 6, 6);
+		text-shadow: 1px 1px 3px gray;
 	}
 	div.y {
 		background-color: rgb(90, 6, 6);
+	}
+	div.y:hover {
+		background-color: rgb(85, 50, 8);
+		box-shadow: 1px 1px 3px rgb(0, 0, 0);
+	}
+	div.y:hover a {
+		color: rgb(160, 209, 215);
 	}
 	div.y a {
 		color: pink;
