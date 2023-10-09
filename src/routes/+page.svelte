@@ -36,7 +36,7 @@
 	<div class="row mt-5">
 		<div class="col m-2" />
 		<div class="col m-2">
-			<a href="https://github.com/tomuwhu/es6_eu" target="_blank">
+			<a href="https://github.com/tomuwhu/es6_eu" target="_blank" class="ghl">
 				<img
 					width="50px"
 					src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
@@ -55,26 +55,37 @@
 		border: solid 1px black;
 		border-radius: 6px;
 		padding: 6px;
-		width: 300px;
+		width: 250px;
 		background-color: rgb(179, 232, 214);
+	}
+	div.y a {
+		background-color: rgb(209, 197, 221);
 	}
 	a:hover {
 		background-color: aquamarine;
 	}
-	div.x a:hover {
+	a:hover {
 		color: rgb(32, 158, 175);
 	}
-	div.x a:hover {
+	a:hover {
 		color: rgb(36, 103, 112);
 	}
 	div a {
 		text-decoration: none;
 		color:rgb(90, 6, 6);
 	}
-	div.y a:hover {
-		color: rgb(160, 209, 215);
+	a.ghl {
+		background-color: white;
+		border: solid 1px gray;
 	}
-	div.y a {
-		color: rgb(90, 31, 41);
+	a.ghl:hover {
+		background-color: white;
+		border: solid 1px black;
+		box-shadow: 1px 1px 3px black;
+	}
+	a.ghl:active {
+		background-color: white;
+		border: solid 1px black;
+		box-shadow: 1px 1px 3px inset black;
 	}
 </style>

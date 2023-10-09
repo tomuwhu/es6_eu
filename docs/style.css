@@ -1,0 +1,8 @@
+body {
+    margin: 0px;
+    background-color: antiquewhite;
+}
+h1 {
+    color: rgb(10, 54, 70);
+    text-shadow: 1px 1px 3px gray;
+}
