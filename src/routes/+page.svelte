@@ -14,13 +14,13 @@
 	</div>
 	<div class="row">
 		<div class="col m-2 x">
+			<a href="gimn_progr" target="_blank">Programozás szakkör</a>
+		</div>
+		<div class="col m-2 x">
 			<a href="https://gyakg.es6.eu" target="_blank">Régi közoktatási oldal</a>
 		</div>
 		<div class="col m-2 x">
 			<a href="https://www.inf.u-szeged.hu/~tnemeth" target="_blank">Régi egyetemi oldal</a>
-		</div>
-		<div class="col m-2 x">
-			<a href="emma" target="_blank">Emma</a>
 		</div>
 	</div>
 	<div class="row">
@@ -50,38 +50,31 @@
 
 <style>
 	a {
+		display: inline-block;
 		white-space: nowrap;
-	}
-	div.x,
-	div.y {
-		border: solid 1px red;
+		border: solid 1px black;
 		border-radius: 6px;
-		background-color: aliceblue;
-		cursor: pointer;
+		padding: 6px;
+		width: 300px;
+		background-color: rgb(179, 232, 214);
 	}
-	div.x:hover {
-		background-color: bisque;
-		box-shadow: 1px 1px 3px black;
+	a:hover {
+		background-color: aquamarine;
 	}
-	div.x:hover a {
+	div.x a:hover {
+		color: rgb(32, 158, 175);
+	}
+	div.x a:hover {
 		color: rgb(36, 103, 112);
 	}
 	div a {
 		text-decoration: none;
 		color:rgb(90, 6, 6);
-		text-shadow: 1px 1px 3px gray;
 	}
-	div.y {
-		background-color: rgb(90, 6, 6);
-	}
-	div.y:hover {
-		background-color: rgb(85, 50, 8);
-		box-shadow: 1px 1px 3px rgb(0, 0, 0);
-	}
-	div.y:hover a {
+	div.y a:hover {
 		color: rgb(160, 209, 215);
 	}
 	div.y a {
-		color: pink;
+		color: rgb(90, 31, 41);
 	}
 </style>
