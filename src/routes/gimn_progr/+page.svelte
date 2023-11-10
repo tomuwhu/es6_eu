@@ -14,6 +14,8 @@
     <a class="btn btn-outline-success btn-sm" href="https://gyakg.es6.eu/ass/">Assembler szimulátor</a>
     <a class="btn btn-outline-success btn-sm" href="https://cses.fi/problemset/">CSES Problem Set</a>
     <a class="btn btn-warning btn-sm" href="https://gyakg.es6.eu/efntmego.html">Megoldások</a>
+    <a class="btn btn-warning btn-sm" href="https://tomuwhu.github.io/Aknakereso-/">Órai anyag: Aknakereső futtatása</a>
+    <a class="btn btn-warning btn-sm" href="https://github.com/tomuwhu/Aknakereso-/">Órai anyag: Aknakereső forrás</a>
 </div>
 <style>
     a {
