@@ -6,9 +6,9 @@
 			<a class="btn btn-outline-secondary btn-sm" href="https://tomuwhu.github.io/sva/" target="_blank">Ságváris oktatás</a>
 			<a class="btn btn-outline-primary btn-sm" href="gimn_progr" target="_blank">Programozás szakkör</a>
 			<a class="btn btn-outline-success btn-sm" href="https://gyakg.es6.eu" target="_blank">Közoktatási oldal</a>
-			<a class="btn btn-outline-secondary btn-sm" href="https://www.inf.u-szeged.hu/~tnemeth" target="_blank">Egyetemi oldal</a>
-			<a class="btn btn-outline-secondary btn-sm y" href="https://www.youtube.com/watch?v=A1BhOVW8qZU" target="_blank"
-				>Einstein Tile</a
+			<a class="btn btn-outline-secondary btn-sm" href="https://www.inf.u-szeged.hu/~tnemeth" target="_blank">Hivatalos egyetemi oldal</a>
+			<a class="btn btn-outline-secondary btn-sm y" href="https://www.icloud.com/keynote/04e0292UrpUeHh_zysssaLCGA#Alga2%5F2024%5FKF" target="_blank"
+				>Alga II gyak.</a
 			>
 </div>
 
