@@ -1,11 +1,14 @@
 <h1 class="text-center mb-5 mt-4">ES6.EU</h1>
 
 <div class="container text-center">
-			<a class="btn btn-outline-secondary btn-sm" href="https://szte.es6.eu" target="_blank">Egyetemi oktatás</a>
-			<a class="btn btn-outline-danger btn-sm" href="https://sob.es6.eu" target="_blank">Szakképzési oldal</a>
+			<h4>2024/25</h4>
+			<a class="btn btn-outline-danger btn-sm" href="https://szte.es6.eu" target="_blank">Egyetemi oktatás</a>
+			<a class="btn btn-outline-danger btn-sm" href="sob" target="_blank">Szakképzési oldal</a>
+			<h4>2023/24</h4>
+			<a class="btn btn-outline-success btn-sm" href="https://sob.es6.eu" target="_blank">Szakképzési oldal</a>
 			<a class="btn btn-outline-success btn-sm" href="https://gyakg.es6.eu" target="_blank">Közoktatási oldal</a>
 			<a class="btn btn-outline-secondary btn-sm" href="https://tomuwhu.github.io/sva/" target="_blank">Ságváris oktatás</a>
-			<a class="btn btn-outline-primary btn-sm" href="gimn_progr" target="_blank">Programozás szakkör</a>
+			<a class="btn btn-outline-secondary btn-sm" href="gimn_progr" target="_blank">Programozás szakkör</a>
 			<a class="btn btn-outline-secondary btn-sm y" href="https://tomuwhu.github.io/a2gyak24/" target="_blank">Alga II gyak.</a>
 </div>
 
@@ -20,6 +23,16 @@
 	</a>
 </div>
 <style>
+	h1 {
+		font-family: 'Courier New', Courier, monospace;
+		font-weight: bold;
+	}
+	h4 {
+		padding-top: 20px;
+		font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+		text-shadow: 1px 1px 4px gray;
+		color: rgb(37, 78, 95);
+	}
 	.btn {
 		white-space: nowrap;
 	}
