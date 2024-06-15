@@ -1,4 +1,4 @@
-<h1>Szakképzési oldal 2024/24</h1>
+<h1>Szakképzési oldal 2024/25</h1>
 <style>
     :global(body) {
         background-color: #d6dba9;
@@ -7,5 +7,6 @@
     }
     h1 {
         font-family: 'Courier New', Courier, monospace;
+        padding-top: 50px;
     }
 </style>
