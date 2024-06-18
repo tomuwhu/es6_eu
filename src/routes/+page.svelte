@@ -3,7 +3,8 @@
 <div class="container text-center">
 			<h4>2024/25</h4>
 			<a class="btn btn-outline-success btn-sm" href="https://szte.es6.eu" target="_blank">Egyetemi oktatás</a>
-			<a class="btn btn-outline-danger btn-sm" href="sob" target="_blank">Szakképzési oldal</a>
+			<a class="btn btn-outline-primary btn-sm" href="sob" target="_blank">Szakképzési statikus oldal</a>
+			<a class="btn btn-outline-danger btn-sm" href="https://sobes.netlify.app/" target="_blank">Új Szakképzési FullStack oldal</a>
 			<h4>2023/24</h4>
 			<a class="btn btn-outline-info btn-sm" href="https://sob.es6.eu" target="_blank">Szakképzési oldal</a>
 			<a class="btn btn-outline-primary btn-sm" href="https://gyakg.es6.eu" target="_blank">Közoktatási oldal</a>
