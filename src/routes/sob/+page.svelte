@@ -1,26 +1,46 @@
 <h1>Szakképzési oldal 2024/25</h1>
-<table>
+<table id="t1">
     <tr>
-        <th>Óra sorszáma</th>
-        <th>Dátum</th>
+        <th class="id">Óra sorszáma</th>
+        <th class="date">Dátum</th>
         <th>Forrás</th>
         <th>Online kipróbálható</th>
     </tr>
     <tr>
-        <td>1-3</td>
-        <td>2024.09.05.</td>
-        <a href="https://github.com/tomuwhu/2024szft_example01">HTML+CSS+JS</a>
-        <td><a href="https://tomuwhu.github.io/2024szft_example01/">Online</a></td>
+        <td class="id">1-3.</td>
+        <td class="date">2024.09.05.</td>
+        <td class="i1"><a target="_blank" href="https://github.com/tomuwhu/2024szft_example01">HTML+CSS+JS</a></td>
+        <td class="i2"><a target="_blank" href="https://tomuwhu.github.io/2024szft_example01/">Online</a></td>
     </tr>
 </table>
 <style>
     :global(body) {
         background-color: #d6dba9;
         text-align: center;
-        padding: 20px;
+        padding: 10px;
     }
     h1 {
         font-family: 'Courier New', Courier, monospace;
-        padding-top: 50px;
+        padding: 20px;
+    }
+    table#t1 {
+        margin: auto;
+        border-collapse: separate;
+        border-spacing: 20px 5px;
+    }
+    .id, .date {
+        text-align: right;
+    }
+    td.i1, td.i2 {
+        width: 200px;
+        border-radius: 5px;
+        box-shadow: 1px 1px 3px black;
+        background-color: #a9dbd4;
+    }
+    td.i1:hover, td.i2:hover {
+        background-color: #80b1ab;
+    }
+    a {
+        text-decoration: none;
     }
 </style>
