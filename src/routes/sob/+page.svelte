@@ -7,10 +7,16 @@
         <th>Online kipróbálható</th>
     </tr>
     <tr>
-        <td class="id">1-3.</td>
+        <td class="id">1-2.</td>
         <td class="date">2024.09.05.</td>
-        <td class="i1"><a target="_blank" href="https://github.com/tomuwhu/2024szft_example01">HTML+CSS+JS</a></td>
+        <td class="i1"><a target="_blank" href="https://github.com/tomuwhu/2024szft_example01">HTML+CSS</a></td>
         <td class="i2"><a target="_blank" href="https://tomuwhu.github.io/2024szft_example01/">Online</a></td>
+    </tr>
+    <tr>
+        <td class="id">3.</td>
+        <td class="date">2024.09.05.</td>
+        <td class="i1"><a target="_blank" href="https://github.com/tomuwhu/2024szft_example01/blob/main/p2/engine.js">JavaScript</a></td>
+        <td class="i2"><a target="_blank" href="https://tomuwhu.github.io/2024szft_example01/p2">Online</a></td>
     </tr>
 </table>
 <style>
