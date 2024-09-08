@@ -3,20 +3,23 @@
     <tr>
         <th class="id">Óra sorszáma</th>
         <th class="date">Dátum</th>
+        <th>Téma</th>
         <th>Forrás</th>
         <th>Online kipróbálható</th>
     </tr>
     <tr>
         <td class="id">1-2.</td>
         <td class="date">2024.09.05.</td>
-        <td class="i1"><a target="_blank" href="https://github.com/tomuwhu/2024szft_example01">HTML+CSS</a></td>
-        <td class="i2"><a target="_blank" href="https://tomuwhu.github.io/2024szft_example01/">Online</a></td>
+        <td class="t">HTML+CSS alap</td>
+        <td class="i1"><a target="_blank" href="https://github.com/tomuwhu/2024szft_example01">GitHub</a></td>
+        <td class="i2"><a target="_blank" href="https://tomuwhu.github.io/2024szft_example01/">Kipróbál</a></td>
     </tr>
     <tr>
         <td class="id">3.</td>
         <td class="date">2024.09.05.</td>
-        <td class="i1"><a target="_blank" href="https://github.com/tomuwhu/2024szft_example01/blob/main/p2/engine.js">JavaScript</a></td>
-        <td class="i2"><a target="_blank" href="https://tomuwhu.github.io/2024szft_example01/p2">Online</a></td>
+        <td class="t">JavaScript</td>
+        <td class="i1"><a target="_blank" href="https://github.com/tomuwhu/2024szft_example01/blob/main/p2/engine.js">GitHub</a></td>
+        <td class="i2"><a target="_blank" href="https://tomuwhu.github.io/2024szft_example01/p2">Kipróbál</a></td>
     </tr>
 </table>
 <style>
@@ -42,6 +45,11 @@
         border-radius: 5px;
         box-shadow: 1px 1px 3px black;
         background-color: #a9dbd4;
+    }
+    td.t {
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        text-shadow: 1px 1px 4px gray;
+        color: rgb(37, 78, 95);
     }
     td.i1:hover, td.i2:hover {
         background-color: #80b1ab;
