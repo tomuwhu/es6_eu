@@ -1,4 +1,7 @@
 <h1>Szakképzési oldal 2024/25</h1>
+<hr>
+<a class="x" href="https://discord.gg/q4G2k479Zw" target="_blank">Discord Server Invite: q4G2k479Zw</a>
+<hr>
 <table id="t1">
     <tr>
         <th class="id">Óra sorszáma</th>
@@ -56,5 +59,18 @@
     }
     a {
         text-decoration: none;
+    }
+    a.x {
+        padding: 10px;
+        margin:10px;
+        width: 200px;
+        border-radius: 10px;
+        box-shadow: 1px 1px 3px black;
+        background-color: #a9cedb;
+    }
+    a.x:hover {
+        background-color: #a9dbd4;
+        box-shadow: 1px 1px 5px black;
+        border: solid 3px rgb(159, 69, 69);
     }
 </style>
