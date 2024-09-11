@@ -24,6 +24,13 @@
         <td class="i1"><a target="_blank" href="https://github.com/tomuwhu/2024szft_example01/blob/main/p2/engine.js">GitHub</a></td>
         <td class="i2"><a target="_blank" href="https://tomuwhu.github.io/2024szft_example01/p2">Kipróbál</a></td>
     </tr>
+    <tr>
+        <td class="id">3.</td>
+        <td class="date">2024.09.11.</td>
+        <td class="t">JavaScript</td>
+        <td class="i1"><a target="_blank" href="https://github.com/tomuwhu/2024szft_example01/blob/main/p3/egy.js">GitHub</a></td>
+        <td class="i2"><a target="_blank" href="https://tomuwhu.github.io/2024szft_example01/p3">Kipróbál</a></td>
+    </tr>
 </table>
 <style>
     :global(body) {
