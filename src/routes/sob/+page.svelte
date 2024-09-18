@@ -51,9 +51,14 @@
 		>
 	</tr>
 	<tr>
-		<td class="id">8-10.</td>
+		<td class="id">8-11.</td>
 		<td class="date">2024.09.12.</td>
-		<td class="t">SvelteKit Static Site</td>
+		<td class="t" colspan=3>SvelteKit Static Site Generator</td>
+	</tr>
+	<tr>
+		<td class="id">11-14.</td>
+		<td class="date">2024.09.18.</td>
+		<td class="t">SvelteKit Számológép</td>
 		<td class="i1"
 			><a target="_blank" href="https://github.com/tomuwhu/sov02_sveltekit">GitHub</a></td
 		>
