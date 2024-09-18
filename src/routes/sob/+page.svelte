@@ -58,8 +58,7 @@
 			><a target="_blank" href="https://github.com/tomuwhu/sov02_sveltekit">GitHub</a></td
 		>
 		<td class="i2">
-			<a target="_blank" href="https://tomuwhu.github.io/sov02_sveltekit/">Eredményjelző</a> |
-			<a target="_blank" href="https://tomuwhu.github.io/sov02_sveltekit/f01">Mátrix</a>
+			<a target="_blank" href="https://tomuwhu.github.io/sov02_sveltekit/">Számológép</a>
 		</td>
 	</tr>
 </table>
