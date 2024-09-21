@@ -56,17 +56,10 @@ const data = [
 >
 <hr />
 <table id="t1">
-	<tr>
-		<th class="id">Óra sorszáma</th>
-		<th class="date">Dátum</th>
-		<th>Téma</th>
-		<th>Forrás</th>
-		<th>Online kipróbálható</th>
-	</tr>
     {#each data as item}
 	<tr>
         {#if item.sz[1]}
-		<td class="id">{item.sz[0]}. - {item.sz[1]}.</td>
+		<td class="id">{item.sz[0]}-{item.sz[1]}.</td>
         {:else}
         <td class="id">{item.sz[0]}.</td>
         {/if}
@@ -98,13 +91,15 @@ const data = [
 		margin: auto;
 		border-collapse: collapse;
 	}
-    td, th {
-        padding-left: 30px;
-        padding-right: 30px;
+    td {
+        padding-left: 10px;
+        padding-right: 10px;
     }
-	.id,
-	.date {
+	.id {
 		text-align: center;
+		font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+		white-space: nowrap;
+		color: rgb(101, 101, 43);
 	}
 	td.i1,
 	td.i2 {
