@@ -40,7 +40,7 @@ const data = [
     },
     {
         id: 5,
-        sz: [11,14],
+        sz: [15,17],
         date: '2024.09.19.',
         theme: 'Vite-Svelte Reversi',
         source: 'https://github.com/tomuwhu/reversi/blob/master/src/App.svelte',
