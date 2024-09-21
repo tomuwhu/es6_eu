@@ -34,7 +34,7 @@ const data = [
         id: 5,
         sz: [11,14],
         date: '2024.09.18.',
-        theme: 'SvelteKit Számológép',
+        theme: '<a href="https://kit.svelte.dev/" target="_blank">SvelteKit</a> Számológép',
         source: 'https://github.com/tomuwhu/sov02_sveltekit',
         online: 'https://tomuwhu.github.io/sov02_sveltekit/'
     },
@@ -42,7 +42,7 @@ const data = [
         id: 5,
         sz: [15,17],
         date: '2024.09.19.',
-        theme: 'Vite-Svelte Reversi',
+        theme: '<a href="https://vite.new/svelte" target="_blank">Vite-Svelte</a> Reversi',
         source: 'https://github.com/tomuwhu/reversi/blob/master/src/App.svelte',
         online: 'https://tomuwhu.github.io/reversi/'
     }
@@ -71,16 +71,14 @@ const data = [
         <td class="id">{item.sz[0]}.</td>
         {/if}
 		<td class="t">{item.date}</td>
-		<td class="t">{item.theme}</td>
+		<td class="t">{@html item.theme}</td>
         {#if item.source}
 		<td class="i1"
 			><a target="_blank" href={item.source}>👓</a></td
 		>
         {/if}
         {#if item.online}
-		<td class="i2"
-			><a target="_blank"  href={item.online}>💻</a></td
-		>
+		<td class="i2"><a target="_blank"  href={item.online}>💻</a></td>
         {/if}
 	</tr>
     {/each}
@@ -123,7 +121,7 @@ const data = [
 	td.i2:hover {
 		text-shadow: 1px 1px 4px black;
 	}
-	a {
+	:global(a) {
 		text-decoration: none;
 	}
 	a.x {
@@ -133,6 +131,7 @@ const data = [
 		border-radius: 10px;
 		box-shadow: 1px 1px 3px black;
 		background-color: #a9cedb;
+		text-decoration: none;
 	}
 	a.x:hover {
 		background-color: #a9dbd4;
