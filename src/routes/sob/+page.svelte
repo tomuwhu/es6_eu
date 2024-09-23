@@ -45,8 +45,15 @@ const data = [
         theme: '<a href="https://vite.new/svelte" target="_blank">Vite-Svelte</a> Reversi',
         source: 'https://github.com/tomuwhu/reversi/blob/master/src/App.svelte',
         online: 'https://tomuwhu.github.io/reversi/'
+    },
+    {
+        id: 6,
+        sz: ['-'],
+        date: '-',
+        theme: '<a href="https://vite.new/svelte" target="_blank">Vite-Svelte</a> Órarend generator',
+        source: 'https://github.com/tomuwhu/orarend_generator_svelte/blob/master/src/App.svelte',
+        online: 'https://tomuwhu.github.io/orarend_generator_svelte/'
     }
-
 ]   
 </script>
 <h1>Szakképzési oldal 2024/25</h1>

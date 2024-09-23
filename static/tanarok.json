@@ -1,14 +1,6 @@
 {
     "oktatok": [
         {
-            "ok": ".AZ",
-            "tit": " ",
-            "familyname": "Albert",
-            "firstname": "Zoltán",
-            "status": 6,
-            "beoszt": "tanár"
-        },
-        {
             "ok": ":AN",
             "tit": " ",
             "familyname": "Asbóth",
@@ -25,49 +17,12 @@
             "beoszt": "tanár"
         },
         {
-            "ok": ".BI",
-            "tit": " ",
-            "familyname": "Balázsfi",
-            "firstname": "István",
-            "status": 6,
-            "beoszt": "gyakorlatioktatás-vezető helyettes"
-        },
-        {
-            "ok": "BE",
-            "tit": " ",
-            "familyname": "Bánszki",
-            "firstname": "Edit",
-            "status": 6,
-            "beoszt": "tanár"
-        },
-        {
-            "ok": ".!BKE",
-            "familyname": "Baranyi Kostyalik",
-            "firstname": "Erzsébet",
-            "status": 6,
-            "beoszt": "könyvtáros"
-        },
-        {
             "ok": ":BA",
             "tit": " ",
             "familyname": "Berczik",
             "firstname": "Andrea",
             "status": 14,
             "beoszt": "tanár"
-        },
-        {
-            "ok": ".BT",
-            "familyname": "Berki",
-            "firstname": "Tibor",
-            "status": 1031,
-            "beoszt": "iskolapszichológus"
-        },
-        {
-            "ok": ".BG",
-            "familyname": "Bezdány",
-            "firstname": "Géza",
-            "status": 262,
-            "beoszt": "szakoktató"
         },
         {
             "ok": ":HBA",
@@ -86,32 +41,11 @@
             "beoszt": "tanár"
         },
         {
-            "ok": ".BF",
-            "familyname": "Bodó",
-            "firstname": "Ferenc",
-            "status": 6,
-            "beoszt": "Tanár"
-        },
-        {
-            "tit": " ",
-            "familyname": "Bucskó",
-            "firstname": "József",
-            "status": 2
-        },
-        {
             "ok": ":Bu",
             "tit": " ",
             "familyname": "Burkovics",
             "firstname": "Ferenc",
             "status": 262,
-            "beoszt": "tanár"
-        },
-        {
-            "ok": ":CsG",
-            "tit": " ",
-            "familyname": "Csányi",
-            "firstname": "Gizella",
-            "status": 6,
             "beoszt": "tanár"
         },
         {
