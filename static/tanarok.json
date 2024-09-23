@@ -195,12 +195,6 @@
             "beoszt": "szakoktató"
         },
         {
-            "familyname": "Gera",
-            "firstname": "Tamás",
-            "status": 63,
-            "beoszt": "rendszergazda"
-        },
-        {
             "ok": ".BM",
             "familyname": "Gergelyné Bodó",
             "firstname": "Mária",
@@ -941,20 +935,6 @@
             "beoszt": "tanár"
         },
         {
-            "familyname": "Urbán",
-            "firstname": "Éva",
-            "status": 4,
-            "beoszt": "tanár"
-        },
-        {
-            "ok": ":VSz",
-            "tit": " ",
-            "familyname": "Ványi",
-            "firstname": "Szilvia",
-            "status": 6,
-            "beoszt": "tanár"
-        },
-        {
             "ok": ".VKE",
             "familyname": "Váradiné",
             "firstname": "Kása Edit",
@@ -968,14 +948,6 @@
             "firstname": "Tamás",
             "status": 8190,
             "beoszt": "tanár"
-        },
-        {
-            "ok": ".VF",
-            "tit": " ",
-            "familyname": "Varga",
-            "firstname": "Ferenc",
-            "status": 6,
-            "beoszt": "óraadó"
         },
         {
             "ok": ":SVI",
@@ -1008,47 +980,11 @@
             "beoszt": "tanár"
         },
         {
-            "ok": ".VS",
-            "familyname": "Vilonya",
-            "firstname": "Sándor",
-            "status": 302,
-            "beoszt": "szakmai igazgatóhelyettes"
-        },
-        {
-            "ok": ".SzVK",
-            "tit": "dr.",
-            "familyname": "Szabóné Virág",
-            "firstname": "Katalin",
-            "status": 262,
-            "beoszt": "koordinációs igazgatóhelyettes"
-        },
-        {
             "ok": ":WA",
             "tit": " ",
             "familyname": "Weiner",
             "firstname": "András",
             "status": 14,
-            "beoszt": "tanár"
-        },
-        {
-            "ok": ".ZR",
-            "familyname": "Zánthó",
-            "firstname": "Róbert",
-            "status": 6,
-            "beoszt": "tanár"
-        },
-        {
-            "ok": ".ZI",
-            "familyname": "Zatykó",
-            "firstname": "István",
-            "status": 262,
-            "beoszt": "gyakorlatioktatás-vezető"
-        },
-        {
-            "ok": ".ZM",
-            "familyname": "Zimmer",
-            "firstname": "Márta",
-            "status": 6,
             "beoszt": "tanár"
         }
     ]
