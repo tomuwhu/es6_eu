@@ -1,0 +1,2600 @@
+51922	A	Cs	1	.Hne	mat	.11/D	Egész osztály	k203	dr.	Horváth Gyuláné		Matematika
+54060	A	Cs	1	.IK	mat	.9/3	13	f210 		Izsó	Katalin	Matematika
+53008	A	Cs	1	.KE	mat	.9/C	.9/C(V), .9/C(R2/2)	f130 		Kosara	Erika	Matematika
+59545	A	Cs	1	:HBA	önti	:10.B.	Egész osztály	T109	 	Hajduné Bihari	Ágnes	Ön- és társadalomismeret
+62245	A	Cs	1	:HG	rv	:10/6	Egész osztály	T214	 	Herczeg	Gabriella	Rajz és vizuális kultúra
+59245	A	Cs	1	:KoSK	po	:10/4	német II	T108	 	Komárominé Sipos	Katalin	Pályaorientáció
+60145	A	Cs	1	:LJne	mat	:9.B.	Egész osztály	T202	 	L?rincz	Jánosné	Matematika
+58945	A	Cs	1	:MTE	po	:9/4	1. csoport	T107	 	Mucsiné Turu	Erzsébet	Pályaorientáció
+60745	A	Cs	1	:Ne	mat	:9/4	2. csoport	T204	 	Neparáczkiné Kiss	Beatrix	Matematika
+60445	A	Cs	1	:NyM	mny	:9/5	2. csoport	T203	 	Nyári	Mariann	Magyar nyelv
+63445	A	Cs	1	:PZ	inf	:9/7	2. csoport	T303		Pataki	Zoltán	Informatika
+63745	A	Cs	1	:SzG	mny	:10/4	német I	T308	 	Szabó	Gábor	Magyar nyelv
+55129	A	Cs	2	.Hne	mat	.9/1	c2	f224	dr.	Horváth Gyuláné		Matematika
+53396	A	Cs	2	.JG	inf	.9/C	V	fI216		Janzsó	Gábor	Informatika
+53186	A	Cs	2	.KE	mat	.9/2	épít	f204 		Kosara	Erika	Matematika
+53372	A	Cs	2	.PTV	po	.9/1	c1	f206 		Tompa	Valéria	Pályaorientáció
+53090	A	Cs	2	.SM	inf	.10/3	c1	I1		Százné S?rés	Márta	Informatika
+59550	A	Cs	2	:HBA	önti	:10.B.	Egész osztály	T109	 	Hajduné Bihari	Ágnes	Ön- és társadalomismeret
+62250	A	Cs	2	:HG	rv	:10/6	Egész osztály	T214	 	Herczeg	Gabriella	Rajz és vizuális kultúra
+59250	A	Cs	2	:KoSK	po	:10/4	német II	T108	 	Komárominé Sipos	Katalin	Pályaorientáció
+62850	A	Cs	2	:MI	ak	:1/13B	kozm	T301	dr.	Molnár	István	Alkalmazott kémia
+62850	A	Cs	2	:MI	ak	:1/13B	kozm	T301	dr.	Molnár	István	Általános kémia
+58950	A	Cs	2	:MTE	po	:9/4	1. csoport	T107	 	Mucsiné Turu	Erzsébet	Pályaorientáció
+63750	A	Cs	2	:Ne	mat	:10/4	német I	T308	 	Neparáczkiné Kiss	Beatrix	Matematika
+61650	A	Cs	2	:NM	mat	:9/7	1. csoport	T208	 	Németh	Magdolna	Matematika
+63450	A	Cs	2	:PZ	inf	:9/7	2. csoport	T303		Pataki	Zoltán	Informatika
+60450	A	Cs	2	:Ra	mat	:9/6	2. csoport	T203	 	Radóczi	Tibor	Matematika
+60150	A	Cs	2	:SGyT	of	:9.B.	Egész osztály	T202	 	Siposné Gyarmati	Teréz	Osztályfőnöki
+61350	A	Cs	2	:SVI	mny	:9.A.	Egész osztály	T206	 	Székelyné Veres	Ilona	Magyar nyelv
+60455	A	Cs	3	.CsA	kém	:10/6	Egész osztály	T203		Csorba	Attila	Kémia
+55899	A	Cs	3	.Hne	mat	.12/C	Egész osztály	k201	dr.	Horváth Gyuláné		Matematika
+53874	A	Cs	3	.IK	mat	.9/2	elekt	f209 		Izsó	Katalin	Matematika
+53536	A	Cs	3	.JG	inf	.9/3	12	fI218		Janzsó	Gábor	Informatika
+52705	A	Cs	3	.PFne	rv	.11/C	Egész osztály	k207		Pálvölgyiné Szécsi	Valéria	Rajz és vizuális kultúra
+55534	A	Cs	3	.RZs	of	.2/10/2	Egész osztály	k108		Rabi	Zsolt	Osztályfőnöki
+61355	A	Cs	3	:BLne	mat	:9/5	2. csoport	T206	 	Baár	Lászlóné	Matematika
+64055	A	Cs	3	:GLK	mat	:12.B.	Egész osztály	T309	 	Geráné Lippay 	Klára	Matematika
+58355	A	Cs	3	:HK	mny	:10/8	Egész osztály	T7	dr.	Kertainé Hagyó	Klára	Magyar nyelv
+62255	A	Cs	3	:MSZ	mny	:10/7	Egész osztály	T214	 	Bönditzné Magyar	Szilvia	Magyar nyelv
+57755	A	Cs	3	:Ne	mat	:9/5	1. csoport	T4	 	Neparáczkiné Kiss	Beatrix	Matematika
+61055	A	Cs	3	:NyM	mny	:9/6	2. csoport	T205	 	Nyári	Mariann	Magyar nyelv
+63155	A	Cs	3	:PA	inf	:9/4	2. csoport	T302	 	Pásztor	Attila	Informatika
+58655	A	Cs	3	:PL	mny	:11.A.	Egész osztály	T106	 	Pozsik	László	Magyar nyelv
+63455	A	Cs	3	:PZ	inf	:11.B.	1. Csoport	T303		Pataki	Zoltán	Informatika
+60155	A	Cs	3	:SVI	mny	:9.A.	Egész osztály	T202	 	Székelyné Veres	Ilona	Magyar nyelv
+59255	A	Cs	3	:Sztne	fiz	:9.B.	Egész osztály	T108	 	Sztankovics	Józsefné	Fizika
+64355	A	Cs	3	:UM	mny	:9/7	1. csoport	T310	 	Urbán 	Marianna	Magyar nyelv
+53203	A	Cs	4	.CsA	of	.9/2	Egész osztály	f204 		Csorba	Attila	Osztályfőnöki
+55906	A	Cs	4	.Hne	mat	.12/C	Egész osztály	k201	dr.	Horváth Gyuláné		Matematika
+53590	A	Cs	4	.KE	mat	.10/C	Egész osztály	f207 		Kosara	Erika	Matematika
+52619	A	Cs	4	.MSzA	of	.10/D	Egész osztály	f110 		Miskolcziné Szilágyi	Andrea	Osztályfőnöki
+52431	A	Cs	4	.ZM	of	.1/9/3	.1/9/3(n1), .1/9/3(n2)	f109		Zimmer	Márta	Osztályfőnöki
+57460	A	Cs	4	:BA	inf	:9/5	1. csoport	T3	 	Berczik	Andrea	Informatika
+59260	A	Cs	4	:BLne	of	:9/4	Egész osztály	T108	 	Baár	Lászlóné	Osztályfőnöki
+60460	A	Cs	4	:HK	of	:10/8	Egész osztály	T203	dr.	Kertainé Hagyó	Klára	Osztályfőnöki
+61060	A	Cs	4	:MSM	mny	:12.B.	Egész osztály	T205	 	Máhigné Stefanovits	Márta	Magyar nyelv
+64360	A	Cs	4	:NyM	mny	:9/5	2. csoport	T310	 	Nyári	Mariann	Magyar nyelv
+63160	A	Cs	4	:PA	inf	:9/7	1. csoport	T302	 	Pásztor	Attila	Informatika
+58660	A	Cs	4	:PL	mny	:11.A.	Egész osztály	T106	 	Pozsik	László	Magyar nyelv
+63460	A	Cs	4	:PZ	inf	:11.B.	1. Csoport	T303		Pataki	Zoltán	Informatika
+57760	A	Cs	4	:SGyT	bio	:1/13B	kozm	T4	 	Siposné Gyarmati	Teréz	Biológia
+58360	A	Cs	4	:SVI	éz	:10/7	Egész osztály	T7	 	Székelyné Veres	Ilona	Ének-zene
+61660	A	Cs	4	:Sztne	mat	:9.A.	Egész osztály	T208	 	Sztankovics	Józsefné	Matematika
+63760	A	Cs	4	:TKG	mat	:9/7	2. csoport	T308		Tolnainé Kern	Gabriella	Matematika
+52625	A	Cs	5	.Hne	mat	.10/D	Egész osztály	f110 	dr.	Horváth Gyuláné		Matematika
+53552	A	Cs	5	.JG	inf	.9/1	c1	fI218		Janzsó	Gábor	Informatika
+53892	A	Cs	5	.KE	mat	.9/3	12	f209 		Kosara	Erika	Matematika
+51734	A	Cs	5	.MSzA	fizk	.12/C	V	f104		Miskolcziné Szilágyi	Andrea	Fizikai kémia
+54490	A	Cs	5	.MV	of	.2/10/5	Egész osztály	f214		Marton	Viktor	Osztályfőnöki
+54811	A	Cs	5	.PTV	mi	.12/D	Egész osztály	f215		Tompa	Valéria	Magyar irodalom
+52439	A	Cs	5	.VKE	köv	.10/3	Egész osztály	f109		Váradiné	Kása Edit	Környezetvédelem
+59265	A	Cs	5	:GLK	mat	:11.B.	Egész osztály	T108	 	Geráné Lippay 	Klára	Matematika
+57465	A	Cs	5	:KB	inf	:1/11E	Inf I	T3	 	Kazi	Balázs Róbert	Informatika
+59865	A	Cs	5	:MM	inf	:1/11C	1. Csoport	T111	 	Máté	Mária	Informatika
+63165	A	Cs	5	:PA	inf	:1/11E	Inf II	T302	 	Pásztor	Attila	Informatika
+63465	A	Cs	5	:PZ	inf	:9/R	Egész osztály	T303		Pataki	Zoltán	Informatika
+58665	A	Cs	5	:SGyT	kém	:9.B.	Egész osztály	T106	 	Siposné Gyarmati	Teréz	Kémia
+63765	A	Cs	5	:SzG	mny	:10/4	német I	T308	 	Szabó	Gábor	Magyar nyelv
+61665	A	Cs	5	:Sztne	mat	:10/4	német II	T208	 	Sztankovics	Józsefné	Matematika
+62265	A	Cs	5	:TKG	mat	:11.A.	Egész osztály	T214		Tolnainé Kern	Gabriella	Matematika
+64065	A	Cs	5	:WA	bio	:10/6	Egész osztály	T309	 	Weiner	András	Biológia
+61970	A	Cs	6	.CsA	kém	:10/7	Egész osztály	T212		Csorba	Attila	Kémia
+54335	A	Cs	6	.IK	mat	.9/D	.9/D(eá1), .9/D(eá2)	f212		Izsó	Katalin	Matematika
+52447	A	Cs	6	.JG	of	.12/D	Egész osztály	f109		Janzsó	Gábor	Osztályfőnöki
+53040	A	Cs	6	.KE	mat	.9/C	.9/C(R1), .9/C(R2/1)	f130 		Kosara	Erika	Matematika
+57470	A	Cs	6	:BA	inf	:10.B.	Inf I	T3	 	Berczik	Andrea	Informatika
+59270	A	Cs	6	:GLK	mat	:11.B.	Egész osztály	T108	 	Geráné Lippay 	Klára	Matematika
+61370	A	Cs	6	:HG	rv	:10/8	Egész osztály	T206	 	Herczeg	Gabriella	Rajz és vizuális kultúra
+62870	A	Cs	6	:JCsE	szai	:1/13A	Egész osztály	T301	 	Jovánné Császár	Edit	Szakmai alapismeret
+59870	A	Cs	6	:MM	inf	:1/11C	1. Csoport	T111	 	Máté	Mária	Informatika
+62270	A	Cs	6	:NM	mat	:9/7	1. csoport	T214	 	Németh	Magdolna	Matematika
+64070	A	Cs	6	:NyM	of	:9/6	Egész osztály	T309	 	Nyári	Mariann	Osztályfőnöki
+63170	A	Cs	6	:PA	inf	:1/11C	2. Csoport	T302	 	Pásztor	Attila	Informatika
+63470	A	Cs	6	:PZ	inf	:9/R	Egész osztály	T303		Pataki	Zoltán	Informatika
+60170	A	Cs	6	:SGyT	bio	:9.B.	Egész osztály	T202	 	Siposné Gyarmati	Teréz	Biológia
+61670	A	Cs	6	:Sztne	fiz	:9.A.	Egész osztály	T208	 	Sztankovics	Józsefné	Fizika
+63770	A	Cs	6	:TKG	mat	:9/7	2. csoport	T308		Tolnainé Kern	Gabriella	Matematika
+54337	A	Cs	7	.PSz	of	.1/9/1	Egész osztály	f212	 	Pappné Pap	Szilvia	Osztályfőnöki
+57475	A	Cs	7	:BA	inf	:10/7	1. csoport	T3	 	Berczik	Andrea	Informatika
+64075	A	Cs	7	:CsL	of	:1/11E	Egész osztály	T309	 	Cseh	László	Osztályfőnöki
+61375	A	Cs	7	:HG	rv	:10/8	Egész osztály	T206	 	Herczeg	Gabriella	Rajz és vizuális kultúra
+63175	A	Cs	7	:KB	inf	:10/7	2. csoport	T302	 	Kazi	Balázs Róbert	Informatika
+59575	A	Cs	7	:MI	ak	:1/13A	Egész osztály	T109	dr.	Molnár	István	Alkalmazott kémia
+59575	A	Cs	7	:MI	ak	:1/13A	Egész osztály	T109	dr.	Molnár	István	Általános kémia
+59875	A	Cs	7	:MM	inf	:12.B.	Inf II	T111	 	Máté	Mária	Informatika
+58375	A	Cs	7	:MSM	mny	:12.A.	Egész osztály	T7	 	Máhigné Stefanovits	Márta	Magyar nyelv
+63475	A	Cs	7	:PZ	inf	:12.B.	Inf I	T303		Pataki	Zoltán	Informatika
+60175	A	Cs	7	:SGyT	ak	:11.B.	Egész osztály	T202	 	Siposné Gyarmati	Teréz	Alkalmazott kémia
+60175	A	Cs	7	:SGyT	ak	:11.B.	Egész osztály	T202	 	Siposné Gyarmati	Teréz	Általános kémia
+58675	A	Cs	7	:UM	of	:9/7	Egész osztály	T106	 	Urbán 	Marianna	Osztályfőnöki
+59280	A	Cs	8	:JCsE	of	:1/11B	Egész osztály	T108	 	Jovánné Császár	Edit	Osztályfőnöki
+59880	A	Cs	8	:MM	inf	:12.B.	Inf II	T111	 	Máté	Mária	Informatika
+63480	A	Cs	8	:PZ	inf	:12.B.	Inf I	T303		Pataki	Zoltán	Informatika
+57485	A	Cs	9	:KB	inf	:1/13B	kiadv	T3	 	Kazi	Balázs Róbert	Informatika
+63185	A	Cs	9	:UM	mh	:2/12E	Gepirok	T302	 	Urbán 	Marianna	Magyar helyesírás
+62890	A	Cs	10	:AN	of	:1/13A	Egész osztály	T301	 	Asbóth	Norbert	Osztályfőnöki
+59890	A	Cs	10	:TBZS	inf	:1/11D	Inf II	T111	 	Tóthné Bíró	Zsuzsanna	Informatika
+63490	A	Cs	10	:TI	inf	:1/11D	Inf I	T303	 	Tóth	István János	Informatika
+63190	A	Cs	10	:UM	mh	:2/12E	Gepirok	T302	 	Urbán 	Marianna	Magyar helyesírás
+62895	A	Cs	11	:AN	bio	:1/13A	Egész osztály	T301	 	Asbóth	Norbert	Biológia
+63195	A	Cs	11	:KLE	gépír	:2/12E	Gepirok	T302	 	Kajáriné Lestár	Erzsébet	Gépírás
+59895	A	Cs	11	:TBZS	inf	:1/11D	Inf II	T111	 	Tóthné Bíró	Zsuzsanna	Informatika
+63495	A	Cs	11	:TI	inf	:1/11D	Inf I	T303	 	Tóth	István János	Informatika
+63200	A	Cs	12	:KLE	gépír	:2/12E	Gepirok	T302	 	Kajáriné Lestár	Erzsébet	Gépírás
+63205	A	Cs	13	:KLE	gépír	:2/12E	Gepirok	T302	 	Kajáriné Lestár	Erzsébet	Gépírás
+55209	A	H	0	.VeI	heg	.1/9/2	bgy	fheg	 	Vetró	István	Hegesztés 
+61042	A	H	1	.CsA	kém	:10/6	Egész osztály	T205		Csorba	Attila	Kémia
+60442	A	H	1	.FK	mny	:9/4	1. csoport	T203		Fejes	Katalin Lilla	Magyar nyelv
+53512	A	H	1	.JG	inf	.1/9/1	.1/9/1(gepl1), .1/9/1(gepl2)	fI218		Janzsó	Gábor	Informatika
+53170	A	H	1	.KE	mat	.9/2	épít	f204 		Kosara	Erika	Matematika
+53394	A	H	1	.KGK	inf++	.11/D	A1	fI216		Kálmánné Gát	Klára	Informatika fakultáció
+51810	A	H	1	.NT	inf++	.12/C	inf1	f222		Németh	Tamás	Informatika fakultáció
+52404	A	H	1	.SET	of	.3/11/2	Egész osztály	f109	 	Sáróné Erdei	Tünde	Osztályfőnöki
+53081	A	H	1	.SzJ	inf	.9/3	13	I1		Szikora	János	Informatika
+51923	A	H	1	.TJ	of	.10/1	Egész osztály	f106		Telek	János	Osztályfőnöki
+52849	A	H	1	.TM	po	.9/3	12	f112 		Törköly	Magdolna	Pályaorientáció
+55213	A	H	1	.VeI	heg	.1/9/2	bgy	fheg	 	Vetró	István	Hegesztés 
+58342	A	H	1	:MSZ	of	:10/7	Egész osztály	T7	 	Bönditzné Magyar	Szilvia	Osztályfőnöki
+63142	A	H	1	:PA	inf	:10/8	2. csoport	T302	 	Pásztor	Attila	Informatika
+60142	A	H	1	:SGyT	kém	:10.B.	Egész osztály	T202	 	Siposné Gyarmati	Teréz	Kémia
+61342	A	H	1	:SzG	mny	:10/4	német I	T206	 	Szabó	Gábor	Magyar nyelv
+59542	A	H	1	:Sztne	mat	:10/4	német II	T109	 	Sztankovics	Józsefné	Matematika
+61642	A	H	1	:UM	mny	:9/7	1. csoport	T208	 	Urbán 	Marianna	Magyar nyelv
+61047	A	H	2	.FZs	fiz	:10/6	Egész osztály	T205	dr.	Tóthné Farkas	Zsuzsanna	Fizika
+52853	A	H	2	.Hne	mat	.10/D	Egész osztály	f112 	dr.	Horváth Gyuláné		Matematika
+53858	A	H	2	.IK	mat	.9/D	.9/D(eá1), .9/D(eá2)	f209 		Izsó	Katalin	Matematika
+53369	A	H	2	.KE	mat	.9/3	12	f206 		Kosara	Erika	Matematika
+53522	A	H	2	.KGK	inf	.10/C	R2	fI218		Kálmánné Gát	Klára	Informatika
+54783	A	H	2	.PTV	mi	.12/D	Egész osztály	f215		Tompa	Valéria	Magyar irodalom
+55520	A	H	2	.RZs	of	.2/10/2	Egész osztály	k108		Rabi	Zsolt	Osztályfőnöki
+53084	A	H	2	.SzJ	inf	.10/C	R1	I1		Szikora	János	Informatika
+55219	A	H	2	.VeI	heg	.1/9/2	bgy	fheg	 	Vetró	István	Hegesztés 
+60447	A	H	2	:BLne	mat	:9/4	1. csoport	T203	 	Baár	Lászlóné	Matematika
+51924	A	H	2	:HG	rv	.11/D	Egész osztály	k203	 	Herczeg	Gabriella	Rajz és vizuális kultúra
+59847	A	H	2	:MM	inf	:10/4	német I	T111	 	Máté	Mária	Informatika
+61947	A	H	2	:Ne	mat	:10/7	Egész osztály	T212	 	Neparáczkiné Kiss	Beatrix	Matematika
+63147	A	H	2	:PA	inf	:9/4	2. csoport	T302	 	Pásztor	Attila	Informatika
+60147	A	H	2	:SGyT	bio	:10.A.	Egész osztály	T202	 	Siposné Gyarmati	Teréz	Biológia
+58347	A	H	2	:SVI	éz	:10.B.	Egész osztály	T7	 	Székelyné Veres	Ilona	Ének-zene
+59547	A	H	2	:Sztne	mat	:10/4	német II	T109	 	Sztankovics	Józsefné	Matematika
+64047	A	H	2	:TKG	mat	:10/8	Egész osztály	T309		Tolnainé Kern	Gabriella	Matematika
+61647	A	H	2	:UM	mny	:9/7	1. csoport	T208	 	Urbán 	Marianna	Magyar nyelv
+51932	A	H	3	.Hne	mat	.11/D	Egész osztály	k203	dr.	Horváth Gyuláné		Matematika
+51943	A	H	3	.IK	mat	.10/1	Egész osztály	f106		Izsó	Katalin	Matematika
+54317	A	H	3	.KE	mat	.9/D	.9/D(ég1), .9/D(ég2)	f212		Kosara	Erika	Matematika
+53530	A	H	3	.KGK	inf	.10/C	R2	fI218		Kálmánné Gát	Klára	Informatika
+53016	A	H	3	.MV	of	.2/10/5	Egész osztály	f130 		Marton	Viktor	Osztályfőnöki
+55895	A	H	3	.PFne	rv	.12/C	Egész osztály	k201		Pálvölgyiné Szécsi	Valéria	Rajz és vizuális kultúra
+54793	A	H	3	.PTV	mi	.12/D	Egész osztály	f215		Tompa	Valéria	Magyar irodalom
+53400	A	H	3	.SM	inf	.10/C	V	fI216		Százné S?rés	Márta	Informatika
+53094	A	H	3	.SzJ	inf	.10/C	R1	I1		Szikora	János	Informatika
+55225	A	H	3	.VeI	heg	.1/9/2	bgy	fheg	 	Vetró	István	Hegesztés 
+60152	A	H	3	:AN	bio	:9.A.	Egész osztály	T202	 	Asbóth	Norbert	Biológia
+64052	A	H	3	:BLne	mat	:10/6	Egész osztály	T309	 	Baár	Lászlóné	Matematika
+57452	A	H	3	:KB	inf	:10/5	2. Csoport	T3	 	Kazi	Balázs Róbert	Informatika
+61352	A	H	3	:SVI	mny	:11.B.	Egész osztály	T206	 	Székelyné Veres	Ilona	Magyar nyelv
+59252	A	H	3	:Sztne	mat	:12.A.	Egész osztály	T108	 	Sztankovics	Józsefné	Matematika
+60452	A	H	3	:TBZS	of	:10/4	Egész osztály	T203	 	Tóthné Bíró	Zsuzsanna	Osztályfőnöki
+51942	A	H	4	.Hne	mat	.11/D	Egész osztály	k203	dr.	Horváth Gyuláné		Matematika
+51953	A	H	4	.IK	mat	.10/2	Egész osztály	f106		Izsó	Katalin	Matematika
+53406	A	H	4	.JG	inf	.9/3	12	fI216		Janzsó	Gábor	Informatika
+53876	A	H	4	.KE	mat	.10/3	Egész osztály	f209 		Kosara	Erika	Matematika
+55231	A	H	4	.VeI	heg	.1/9/2	bgy	fheg	 	Vetró	István	Hegesztés 
+53584	A	H	4	.VL	of	.10/C	Egész osztály	f207 		Vér	László	Osztályfőnöki
+58357	A	H	4	:HK	mny	:10/8	Egész osztály	T7	dr.	Kertainé Hagyó	Klára	Magyar nyelv
+57457	A	H	4	:KB	inf	:10/4	német II	T3	 	Kazi	Balázs Róbert	Informatika
+59257	A	H	4	:LO	of	:10/5	Egész osztály	T108	 	Luczay 	Orsolya	Osztályfőnöki
+64057	A	H	4	:MSM	mny	:12.A.	Egész osztály	T309	 	Máhigné Stefanovits	Márta	Magyar nyelv
+63757	A	H	4	:Ne	mat	:10/4	német I	T308	 	Neparáczkiné Kiss	Beatrix	Matematika
+63157	A	H	4	:PA	inf	:9/7	1. csoport	T302	 	Pásztor	Attila	Informatika
+60157	A	H	4	:SGyT	kém	:9.B.	Egész osztály	T202	 	Siposné Gyarmati	Teréz	Kémia
+61957	A	H	4	:Sztne	mat	:9.A.	Egész osztály	T212	 	Sztankovics	Józsefné	Matematika
+57757	A	H	4	:TKG	mat	:9/7	2. csoport	T4		Tolnainé Kern	Gabriella	Matematika
+61657	A	H	4	:TZs	ügyv	:11.B.	Egész osztály	T208	 	Tatár	Zsuzsanna	Ügyvitel
+59857	A	H	4	:WA	bio	:10/7	Egész osztály	T111	 	Weiner	András	Biológia
+51950	A	H	5	.Hne	mat	.12/C	Egész osztály	k203	dr.	Horváth Gyuláné		Matematika
+54807	A	H	5	.IK	mat	.12/D	Egész osztály	f215		Izsó	Katalin	Matematika
+53412	A	H	5	.JG	inf	.10/2	.10/2(eá1), .10/2(eá2)	fI216		Janzsó	Gábor	Informatika
+51728	A	H	5	.MSzA	fizk	.11/C	vegy	f104		Miskolcziné Szilágyi	Andrea	Fizikai kémia
+55235	A	H	5	.VeI	heg	.1/9/2	bgy	fheg	 	Vetró	István	Hegesztés 
+57462	A	H	5	:BA	inf	:9.A.	inf 1	T3	 	Berczik	Andrea	Informatika
+59562	A	H	5	:BLne	fiz	:10/7	Egész osztály	T109	 	Baár	Lászlóné	Fizika
+60462	A	H	5	:KoSK	mny	:10.A.	Egész osztály	T203	 	Komárominé Sipos	Katalin	Magyar nyelv
+60762	A	H	5	:MSM	mny	:10/5	2. Csoport	T204	 	Máhigné Stefanovits	Márta	Magyar nyelv
+63162	A	H	5	:PA	inf	:10/5	1. Csoport	T302	 	Pásztor	Attila	Informatika
+60162	A	H	5	:SGyT	bio	:10/8	Egész osztály	T202	 	Siposné Gyarmati	Teréz	Biológia
+58362	A	H	5	:SVI	mny	:10.B.	Egész osztály	T7	 	Székelyné Veres	Ilona	Magyar nyelv
+63462	A	H	5	:TI	inf	:9.A.	inf 2	T303	 	Tóth	István János	Informatika
+58662	A	H	5	:TKG	mat	:11.A.	Egész osztály	T106		Tolnainé Kern	Gabriella	Matematika
+52727	A	H	6	.Hne	mat	.11/C	Egész osztály	k207	dr.	Horváth Gyuláné		Matematika
+54815	A	H	6	.IK	mat	.12/D	Egész osztály	f215		Izsó	Katalin	Matematika
+53556	A	H	6	.KGK	inf	.10/3	c2	fI218		Kálmánné Gát	Klára	Informatika
+51737	A	H	6	.MSzA	fizk	.12/C	V	f104		Miskolcziné Szilágyi	Andrea	Fizikai kémia
+54100	A	H	6	.PSz	of	.1/9/1	Egész osztály	f210 	 	Pappné Pap	Szilvia	Osztályfőnöki
+59267	A	H	6	.TM	po	:9/7	2. csoport	T108		Törköly	Magdolna	Pályaorientáció
+55241	A	H	6	.VeI	heg	.1/9/2	bgy	fheg	 	Vetró	István	Hegesztés 
+57467	A	H	6	:BA	inf	:9.A.	inf 1	T3	 	Berczik	Andrea	Informatika
+58667	A	H	6	:GLK	mat	:11.B.	Egész osztály	T106	 	Geráné Lippay 	Klára	Matematika
+51960	A	H	6	:HG	rv	.10/2	Egész osztály	k203	 	Herczeg	Gabriella	Rajz és vizuális kultúra
+59867	A	H	6	:KB	inf	:10/4	német II	T111	 	Kazi	Balázs Róbert	Informatika
+60467	A	H	6	:PL	mny	:11.A.	Egész osztály	T203	 	Pozsik	László	Magyar nyelv
+60167	A	H	6	:SGyT	bio	:9.B.	Egész osztály	T202	 	Siposné Gyarmati	Teréz	Biológia
+58367	A	H	6	:SVI	mny	:10.B.	Egész osztály	T7	 	Székelyné Veres	Ilona	Magyar nyelv
+63467	A	H	6	:TI	inf	:9.A.	inf 2	T303	 	Tóth	István János	Informatika
+61367	A	H	6	:TKG	mat	:10.A.	Egész osztály	T206		Tolnainé Kern	Gabriella	Matematika
+61672	A	H	7	.FK	mny	:9/4	1. csoport	T208		Fejes	Katalin Lilla	Magyar nyelv
+61372	A	H	7	.PTV	po	:9/4	2. csoport	T206		Tompa	Valéria	Pályaorientáció
+53562	A	H	7	.SM	inf++	.12/C	inf1	fI218		Százné S?rés	Márta	Informatika fakultáció
+53122	A	H	7	.SzJ	inf++	.12/D, .12/C	.12/D(Szt), .12/C(inf2)	I1		Szikora	János	Informatika fakultáció
+59272	A	H	7	.TM	po	:9/7	2. csoport	T108		Törköly	Magdolna	Pályaorientáció
+55249	A	H	7	.VeI	heg	.1/9/2	bgy	fheg	 	Vetró	István	Hegesztés 
+57472	A	H	7	:BA	inf	:9.B.	Inf I	T3	 	Berczik	Andrea	Informatika
+63772	A	H	7	:CsL	szai	:1/11E	fenyezo	T308	 	Cseh	László	Szakmai alapismeret
+59872	A	H	7	:KB	inf	:9.B.	Inf II	T111	 	Kazi	Balázs Róbert	Informatika
+59572	A	H	7	:KoSK	mny	:10/4	német II	T109	 	Komárominé Sipos	Katalin	Magyar nyelv
+58372	A	H	7	:SVI	éz	:9.A.	Egész osztály	T7	 	Székelyné Veres	Ilona	Ének-zene
+64072	A	H	7	:SzG	mny	:10/4	német I	T309	 	Szabó	Gábor	Magyar nyelv
+51743	A	H	8	.MSzA	köv	.2/14/T	vegy	f104		Miskolcziné Szilágyi	Andrea	Környezetvédelem
+61377	A	H	8	.PTV	po	:9/4	2. csoport	T206		Tompa	Valéria	Pályaorientáció
+53568	A	H	8	.SM	inf++	.12/C	inf1	fI218		Százné S?rés	Márta	Informatika fakultáció
+53127	A	H	8	.SzJ	inf++	.12/D, .12/C	.12/D(Szt), .12/C(inf2)	I1		Szikora	János	Informatika fakultáció
+57477	A	H	8	:BA	inf	:9.B.	Inf I	T3	 	Berczik	Andrea	Informatika
+63777	A	H	8	:CsL	szai	:1/11E	fenyezo	T308	 	Cseh	László	Szakmai alapismeret
+59877	A	H	8	:KB	inf	:10.B.	Inf II	T111	 	Kazi	Balázs Róbert	Informatika
+60177	A	H	8	:NyM	mny	:9/7	2. csoport	T202	 	Nyári	Mariann	Magyar nyelv
+59277	A	H	8	:PME	anyá	:1/11D	karpitos	T108	 	Perényiné Miskolczi	Erzsébet	Általános nyomdaipari alapismeretek
+51746	A	H	9	.MSzA	fizk	.2/14/T	vegy	f104		Miskolcziné Szilágyi	Andrea	Fizikai kémia
+63782	A	H	9	:CsL	szai	:1/11E	fenyezo	T308	 	Cseh	László	Szakmai alapismeret
+51752	A	H	10	.MSzA	fizk	.2/14/T	vegy	f104		Miskolcziné Szilágyi	Andrea	Fizikai kémia
+63787	A	H	10	:CsL	szai	:1/11E	fenyezo	T308	 	Cseh	László	Szakmai alapismeret
+54148	A	H	11	.MSzA	fizk	.1/13/T	vegy	fFsz6		Miskolcziné Szilágyi	Andrea	Fizikai kémia
+63492	A	H	11	:KLE	gépír	:1/11D	gepiro	T303	 	Kajáriné Lestár	Erzsébet	Gépírás
+63497	A	H	12	:KLE	gépír	:1/11D	gepiro	T303	 	Kajáriné Lestár	Erzsébet	Gépírás
+63502	A	H	13	:KLE	gépír	:1/11D	gepiro	T303	 	Kajáriné Lestár	Erzsébet	Gépírás
+59302	A	H	13	:PME	szai	:1/11D	karpitos	T108	 	Perényiné Miskolczi	Erzsébet	Szakmai alapismeret
+57743	A	K	1	.FK	mny	:9/6	1. csoport	T4		Fejes	Katalin Lilla	Magyar nyelv
+52685	A	K	1	.Hne	mat	.11/C	Egész osztály	k207	dr.	Horváth Gyuláné		Matematika
+53514	A	K	1	.JG	inf	.2/10/2	.2/10/2(víz1), .2/10/2(víz2)	fI218		Janzsó	Gábor	Informatika
+53559	A	K	1	.KE	mat	.10/C	Egész osztály	f207 		Kosara	Erika	Matematika
+63443	A	K	1	.SM	inf	:1/11A	2. Csoport	T303		Százné S?rés	Márta	Informatika
+53082	A	K	1	.SzJ	inf	.2/10/2	gáz	I1		Szikora	János	Informatika
+57443	A	K	1	:BA	inf	:10/7	1. csoport	T3	 	Berczik	Andrea	Informatika
+61943	A	K	1	:BLne	mat	:9/5	2. csoport	T212	 	Baár	Lászlóné	Matematika
+61043	A	K	1	:LJne	mat	:10.B.	Egész osztály	T205	 	L?rincz	Jánosné	Matematika
+58943	A	K	1	:MTE	po	:10/4	német I	T107	 	Mucsiné Turu	Erzsébet	Pályaorientáció
+60743	A	K	1	:Ne	mat	:9/5	1. csoport	T204	 	Neparáczkiné Kiss	Beatrix	Matematika
+63743	A	K	1	:NM	mat	:9/7	1. csoport	T308	 	Németh	Magdolna	Matematika
+63143	A	K	1	:PA	inf	:1/11A	1. Csoport	T302	 	Pásztor	Attila	Informatika
+60143	A	K	1	:SGyT	kém	:10.A.	Egész osztály	T202	 	Siposné Gyarmati	Teréz	Kémia
+61643	A	K	1	:SVI	of	:11.B.	Egész osztály	T208	 	Székelyné Veres	Ilona	Osztályfőnöki
+52693	A	K	2	.Hne	mat	.11/C	Egész osztály	k207	dr.	Horváth Gyuláné		Matematika
+53524	A	K	2	.KGK	inf	.2/10/5	vill	fI218		Kálmánné Gát	Klára	Informatika
+54313	A	K	2	.PG	of	.1/9/5	Egész osztály	f212		Prihoda	Gábor	Osztályfőnöki
+53086	A	K	2	.SzJ	inf	.2/10/2	gáz	I1		Szikora	János	Informatika
+57448	A	K	2	:BA	inf	:12.A.	Inf I	T3	 	Berczik	Andrea	Informatika
+57748	A	K	2	:BLne	mat	:9/6	1. csoport	T4	 	Baár	Lászlóné	Matematika
+60748	A	K	2	:Bu	mny	:10/5	1. Csoport	T204	 	Burkovics	Ferenc	Magyar nyelv
+62548	A	K	2	:KoSK	mny	:10/4	német II	T215	 	Komárominé Sipos	Katalin	Magyar nyelv
+61048	A	K	2	:LJne	fiz	:10.B.	Egész osztály	T205	 	L?rincz	Jánosné	Fizika
+58948	A	K	2	:MTE	po	:10/4	német I	T107	 	Mucsiné Turu	Erzsébet	Pályaorientáció
+62248	A	K	2	:Ne	mat	:10/7	Egész osztály	T214	 	Neparáczkiné Kiss	Beatrix	Matematika
+58348	A	K	2	:NyM	mny	:9/6	2. csoport	T7	 	Nyári	Mariann	Magyar nyelv
+63148	A	K	2	:PA	inf	:1/11E	Inf II	T302	 	Pásztor	Attila	Informatika
+60148	A	K	2	:SGyT	kém	:10/8	Egész osztály	T202	 	Siposné Gyarmati	Teréz	Kémia
+61648	A	K	2	:SVI	mny	:11.B.	Egész osztály	T208	 	Székelyné Veres	Ilona	Magyar nyelv
+63448	A	K	2	:TI	inf	:12.A.	Inf II	T303	 	Tóth	István János	Informatika
+58648	A	K	2	:TKG	mat	:10.A.	Egész osztály	T106		Tolnainé Kern	Gabriella	Matematika
+53375	A	K	3	.DT	of	.2/10/4	Egész osztály	f206 		Dani	Tibor	Osztályfőnöki
+51945	A	K	3	.IK	mat	.10/1	Egész osztály	f106		Izsó	Katalin	Matematika
+53532	A	K	3	.KGK	inf	.2/10/5	vill	fI218		Kálmánné Gát	Klára	Informatika
+58953	A	K	3	.PTV	po	:9/5	2. csoport	T107		Tompa	Valéria	Pályaorientáció
+59253	A	K	3	.SM	fiz	:10/8	Egész osztály	T108		Százné S?rés	Márta	Fizika
+59853	A	K	3	:Bu	mny	:10/5	1. Csoport	T111	 	Burkovics	Ferenc	Magyar nyelv
+61353	A	K	3	:HG	rv	:11.A.	Egész osztály	T206	 	Herczeg	Gabriella	Rajz és vizuális kultúra
+64053	A	K	3	:LJne	mat	:9.B.	Egész osztály	T309	 	L?rincz	Jánosné	Matematika
+57753	A	K	3	:MSM	mny	:10/5	2. Csoport	T4	 	Máhigné Stefanovits	Márta	Magyar nyelv
+60153	A	K	3	:SGyT	ak	:11.B.	Egész osztály	T202	 	Siposné Gyarmati	Teréz	Alkalmazott kémia
+60153	A	K	3	:SGyT	ak	:11.B.	Egész osztály	T202	 	Siposné Gyarmati	Teréz	Általános kémia
+61653	A	K	3	:SVI	mi	:10/6	Egész osztály	T208	 	Székelyné Veres	Ilona	Magyar irodalom
+61053	A	K	3	:Sztne	mat	:9.A.	Egész osztály	T205	 	Sztankovics	Józsefné	Matematika
+59558	A	K	4	.CsA	kém	:10/7	Egész osztály	T109		Csorba	Attila	Kémia
+53878	A	K	4	.KE	mat	.10/3	Egész osztály	f209 		Kosara	Erika	Matematika
+53542	A	K	4	.KGK	inf	.2/10/4	k?m	fI218		Kálmánné Gát	Klára	Informatika
+58958	A	K	4	.PTV	po	:9/5	2. csoport	T107		Tompa	Valéria	Pályaorientáció
+53102	A	K	4	.SzJ	inf	.1/9/5	gumi	I1		Szikora	János	Informatika
+57458	A	K	4	:BA	inf	:9/5	1. csoport	T3	 	Berczik	Andrea	Informatika
+62258	A	K	4	:Bu	mny	:9.B.	Egész osztály	T214	 	Burkovics	Ferenc	Magyar nyelv
+60158	A	K	4	:HBA	pszi	:11.B.	Egész osztály	T202	 	Hajduné Bihari	Ágnes	Pszichológia
+61358	A	K	4	:HG	rv	:11.A.	Egész osztály	T206	 	Herczeg	Gabriella	Rajz és vizuális kultúra
+59258	A	K	4	:KoSK	mny	:10.A.	Egész osztály	T108	 	Komárominé Sipos	Katalin	Magyar nyelv
+58658	A	K	4	:MSM	mny	:12.B.	Egész osztály	T106	 	Máhigné Stefanovits	Márta	Magyar nyelv
+63758	A	K	4	:Ne	mat	:10/4	német I	T308	 	Neparáczkiné Kiss	Beatrix	Matematika
+61658	A	K	4	:SGyT	bio	:10.B.	Egész osztály	T208	 	Siposné Gyarmati	Teréz	Biológia
+64058	A	K	4	:SVI	mny	:9.A.	Egész osztály	T309	 	Székelyné Veres	Ilona	Magyar nyelv
+64358	A	K	4	:Sztne	mat	:10/4	német II	T310	 	Sztankovics	Józsefné	Matematika
+61058	A	K	4	:WA	bio	:10/6	Egész osztály	T205	 	Weiner	András	Biológia
+62563	A	K	5	.FK	mny	:9/5	1. csoport	T215		Fejes	Katalin Lilla	Magyar nyelv
+53888	A	K	5	.KE	mat	.10/3	Egész osztály	f209 		Kosara	Erika	Matematika
+53550	A	K	5	.KGK	inf	.2/10/4	k?m	fI218		Kálmánné Gát	Klára	Informatika
+53110	A	K	5	.SzJ	inf	.1/9/5	gumi	I1		Szikora	János	Informatika
+57463	A	K	5	:BA	inf	:10.B.	Inf I	T3	 	Berczik	Andrea	Informatika
+58363	A	K	5	:BLne	mat	:10/6	Egész osztály	T7	 	Baár	Lászlóné	Matematika
+62263	A	K	5	:Bu	mny	:9.B.	Egész osztály	T214	 	Burkovics	Ferenc	Magyar nyelv
+60163	A	K	5	:HBA	pszi	:11.B.	Egész osztály	T202	 	Hajduné Bihari	Ágnes	Pszichológia
+63463	A	K	5	:KB	inf	:10.B.	Inf II	T303	 	Kazi	Balázs Róbert	Informatika
+59263	A	K	5	:KoSK	mny	:10.A.	Egész osztály	T108	 	Komárominé Sipos	Katalin	Magyar nyelv
+59863	A	K	5	:MM	inf	:10/8	1. csoport	T111	 	Máté	Mária	Informatika
+58663	A	K	5	:MSM	mny	:12.B.	Egész osztály	T106	 	Máhigné Stefanovits	Márta	Magyar nyelv
+64363	A	K	5	:MTE	po	:9/7	1. csoport	T310	 	Mucsiné Turu	Erzsébet	Pályaorientáció
+63763	A	K	5	:Ne	mat	:10/4	német I	T308	 	Neparáczkiné Kiss	Beatrix	Matematika
+63163	A	K	5	:PA	inf	:9/5	2. csoport	T302	 	Pásztor	Attila	Informatika
+61063	A	K	5	:PL	mny	:11.A.	Egész osztály	T205	 	Pozsik	László	Magyar nyelv
+52729	A	K	6	.KB	of	.12/C	Egész osztály	k207		Klucsai	Barna	Osztályfőnöki
+53389	A	K	6	.KE	mat	.9/C	.9/C(R1), .9/C(R2/1)	f206 		Kosara	Erika	Matematika
+53558	A	K	6	.KGK	inf++	.11/C	inf1	fI218		Kálmánné Gát	Klára	Informatika fakultáció
+53414	A	K	6	.SM	inf++	.11/C, .11/D	inf2	fI216		Százné S?rés	Márta	Informatika fakultáció
+53116	A	K	6	.SzJ	inf++	.11/D	inf1	I1		Szikora	János	Informatika fakultáció
+57468	A	K	6	:BA	inf	:10.A.	Inf I	T3	 	Berczik	Andrea	Informatika
+58668	A	K	6	:HBA	hpv	:10.B.	Egész osztály	T106	 	Hajduné Bihari	Ágnes	Humán pályák világa
+63468	A	K	6	:MM	inf	:10/4	német I	T303	 	Máté	Mária	Informatika
+64368	A	K	6	:MTE	po	:9/7	1. csoport	T310	 	Mucsiné Turu	Erzsébet	Pályaorientáció
+61368	A	K	6	:Ne	mat	:10/5	1. Csoport	T206	 	Neparáczkiné Kiss	Beatrix	Matematika
+62268	A	K	6	:PL	of	:11.A.	Egész osztály	T214	 	Pozsik	László	Osztályfőnöki
+59868	A	K	6	:PME	of	:1/11D	Egész osztály	T111	 	Perényiné Miskolczi	Erzsébet	Osztályfőnöki
+60168	A	K	6	:SVI	mny	:10/6	Egész osztály	T202	 	Székelyné Veres	Ilona	Magyar nyelv
+53564	A	K	7	.KGK	inf++	.11/C	inf1	fI218		Kálmánné Gát	Klára	Informatika fakultáció
+51977	A	K	7	.MSzA	of	.2/14/T	Egész osztály	f106		Miskolcziné Szilágyi	Andrea	Osztályfőnöki
+53418	A	K	7	.SM	inf++	.11/C, .11/D	inf2	fI216		Százné S?rés	Márta	Informatika fakultáció
+53124	A	K	7	.SzJ	inf++	.11/D	inf1	I1		Szikora	János	Informatika fakultáció
+58673	A	K	7	:HBA	hpv	:10.B.	Egész osztály	T106	 	Hajduné Bihari	Ágnes	Humán pályák világa
+62873	A	K	7	:JCsE	szai	:1/13A	Egész osztály	T301	 	Jovánné Császár	Edit	Szakmai alapismeret
+59873	A	K	7	:MM	inf	:11.B.	2. Csoport	T111	 	Máté	Mária	Informatika
+55938	A	K	8	.CsNE	szk	.12/C	A	k201	dr.	Csotó Nagy	Erzsébet	Szerves kémia I
+52636	A	K	8	.DA	szai	.1/9/5	heg	f110 	 	Dávid	Attila	Szakmai alapismeret
+63478	A	K	8	:KB	inf	:1/11E	Inf I	T303	 	Kazi	Balázs Róbert	Informatika
+59878	A	K	8	:MM	inf	:11.B.	2. Csoport	T111	 	Máté	Mária	Informatika
+54134	A	K	9	.MSzA	fizk	.1/13/T	vegy	fFsz6		Miskolcziné Szilágyi	Andrea	Fizikai kémia
+57483	A	K	9	:KB	inf	:1/13B	tv, vill	T3	 	Kazi	Balázs Róbert	Informatika
+54142	A	K	10	.MSzA	fizk	.1/13/T	vegy	fFsz6		Miskolcziné Szilágyi	Andrea	Fizikai kémia
+54150	A	K	11	.MSzA	köv	.1/13/T	vegy	fFsz6		Miskolcziné Szilágyi	Andrea	Környezetvédelem
+62893	A	K	11	:JCsE	szai	:1/13A	Egész osztály	T301	 	Jovánné Császár	Edit	Szakmai alapismeret
+63193	A	K	11	:KLE	gépír	:2/12E	Gepirok	T302	 	Kajáriné Lestár	Erzsébet	Gépírás
+63198	A	K	12	:KLE	gépír	:2/12E	Gepirok	T302	 	Kajáriné Lestár	Erzsébet	Gépírás
+63203	A	K	13	:KLE	gépír	:2/12E	Gepirok	T302	 	Kajáriné Lestár	Erzsébet	Gépírás
+58646	A	P	1	.FK	mny	:9/4	1. csoport	T106		Fejes	Katalin Lilla	Magyar nyelv
+52193	A	P	1	.Hne	mat	.9/1	c2	f107	dr.	Horváth Gyuláné		Matematika
+54781	A	P	1	.IK	mat	.12/D	Egész osztály	f215		Izsó	Katalin	Matematika
+52591	A	P	1	.KE	mat	.9/C	.9/C(R1), .9/C(R2/1)	f110 		Kosara	Erika	Matematika
+53520	A	P	1	.KGK	inf	.10/2	ép	fI218		Kálmánné Gát	Klára	Informatika
+55883	A	P	1	.PFne	rv	.12/C	Egész osztály	k201		Pálvölgyiné Szécsi	Valéria	Rajz és vizuális kultúra
+53856	A	P	1	.PTV	po	.9/3	13	f209 		Tompa	Valéria	Pályaorientáció
+57446	A	P	1	:BA	inf	:12.A.	Inf I	T3	 	Berczik	Andrea	Informatika
+58346	A	P	1	:Bu	éz	:9.B.	Egész osztály	T7	 	Burkovics	Ferenc	Ének-zene
+59546	A	P	1	:GLK	mat	:12.B.	Egész osztály	T109	 	Geráné Lippay 	Klára	Matematika
+61346	A	P	1	:KoSK	mny	:10.A.	Egész osztály	T206	 	Komárominé Sipos	Katalin	Magyar nyelv
+64046	A	P	1	:MTE	po	:9/6	1. csoport	T309	 	Mucsiné Turu	Erzsébet	Pályaorientáció
+60446	A	P	1	:Ne	mat	:9/4	2. csoport	T203	 	Neparáczkiné Kiss	Beatrix	Matematika
+61046	A	P	1	:SVI	mny	:10.B.	Egész osztály	T205	 	Székelyné Veres	Ilona	Magyar nyelv
+59846	A	P	1	:TI	inf	:12.A.	Inf II	T111	 	Tóth	István János	Informatika
+53373	A	P	2	.Hne	of	.9/1	Egész osztály	f206 	dr.	Horváth Gyuláné		Osztályfőnöki
+55131	A	P	2	.IK	mat	.9/D	.9/D(eá1), .9/D(eá2)	f224		Izsó	Katalin	Matematika
+53398	A	P	2	.JG	inf	.1/9/1	.1/9/1(gepl1), .1/9/1(gepl2)	fI216		Janzsó	Gábor	Informatika
+54791	A	P	2	.KE	mat	.9/D	.9/D(ég1), .9/D(ég2)	f215		Kosara	Erika	Matematika
+53528	A	P	2	.KGK	inf	.10/C	R2	fI218		Kálmánné Gát	Klára	Informatika
+53866	A	P	2	.PTV	po	.9/3	13	f209 		Tompa	Valéria	Pályaorientáció
+63451	A	P	2	.SM	inf	:1/11A	2. Csoport	T303		Százné S?rés	Márta	Informatika
+53092	A	P	2	.SzJ	inf	.10/C	R1	I1		Szikora	János	Informatika
+54072	A	P	2	.TM	po	.9/3	12	f210 		Törköly	Magdolna	Pályaorientáció
+57451	A	P	2	:BA	inf	:12.A.	Inf I	T3	 	Berczik	Andrea	Informatika
+60751	A	P	2	:BLne	mat	:9/4	1. csoport	T204	 	Baár	Lászlóné	Matematika
+60451	A	P	2	:GLK	mat	:12.B.	Egész osztály	T203	 	Geráné Lippay 	Klára	Matematika
+62851	A	P	2	:KoSK	of	:10.A.	Egész osztály	T301	 	Komárominé Sipos	Katalin	Osztályfőnöki
+61951	A	P	2	:MSZ	mny	:10/7	Egész osztály	T212	 	Bönditzné Magyar	Szilvia	Magyar nyelv
+64051	A	P	2	:MTE	po	:9/6	1. csoport	T309	 	Mucsiné Turu	Erzsébet	Pályaorientáció
+63151	A	P	2	:PA	inf	:1/11A	1. Csoport	T302	 	Pásztor	Attila	Informatika
+63751	A	P	2	:PL	mny	:9/4	2. csoport	T308	 	Pozsik	László	Magyar nyelv
+60151	A	P	2	:SGyT	kém	:10/8	Egész osztály	T202	 	Siposné Gyarmati	Teréz	Kémia
+61051	A	P	2	:SVI	mny	:10.B.	Egész osztály	T205	 	Székelyné Veres	Ilona	Magyar nyelv
+59851	A	P	2	:TI	inf	:12.A.	Inf II	T111	 	Tóth	István János	Informatika
+58351	A	P	2	:WA	of	:10/6	Egész osztály	T7	 	Weiner	András	Osztályfőnöki
+63756	A	P	3	.FK	mny	:9/6	1. csoport	T308		Fejes	Katalin Lilla	Magyar nyelv
+55349	A	P	3	.Hne	mat	.10/D	Egész osztály	k106	dr.	Horváth Gyuláné		Matematika
+54082	A	P	3	.IK	mat	.9/2	elekt	f210 		Izsó	Katalin	Matematika
+53404	A	P	3	.JG	inf	.1/9/5	vill	fI216		Janzsó	Gábor	Informatika
+52188	A	P	3	.KE	mat	.9/3	12	k204		Kosara	Erika	Matematika
+53538	A	P	3	.SM	inf	.1/9/5	heg	fI218		Százné S?rés	Márta	Informatika
+53098	A	P	3	.SzJ	inf	.9/3	13	I1		Szikora	János	Informatika
+60156	A	P	3	:AN	kém	:9.A.	Egész osztály	T202	 	Asbóth	Norbert	Kémia
+57456	A	P	3	:BA	inf	:10.A.	Inf I	T3	 	Berczik	Andrea	Informatika
+60756	A	P	3	:BLne	mat	:9/4	1. csoport	T204	 	Baár	Lászlóné	Matematika
+61356	A	P	3	:HG	rv	:10/7	Egész osztály	T206	 	Herczeg	Gabriella	Rajz és vizuális kultúra
+61056	A	P	3	:KoSK	mny	:10/4	német II	T205	 	Komárominé Sipos	Katalin	Magyar nyelv
+59556	A	P	3	:LJne	of	:10.B.	Egész osztály	T109	 	L?rincz	Jánosné	Osztályfőnöki
+58956	A	P	3	:Ra	mat	:9/6	2. csoport	T107	 	Radóczi	Tibor	Matematika
+61956	A	P	3	:SGyT	bio	:10/8	Egész osztály	T212	 	Siposné Gyarmati	Teréz	Biológia
+58356	A	P	3	:SVI	mi	:10/6	Egész osztály	T7	 	Székelyné Veres	Ilona	Magyar irodalom
+58656	A	P	3	:Sztne	mat	:12.A.	Egész osztály	T106	 	Sztankovics	Józsefné	Matematika
+63456	A	P	3	:TI	inf	:10.A.	Inf II	T303	 	Tóth	István János	Informatika
+55143	A	P	4	.BM	of	.9/D	Egész osztály	f224		Gergelyné Bodó	Mária	Osztályfőnöki
+52221	A	P	4	.HK	of	.1/9/2	Egész osztály	f107		Huszár	Károly	Osztályfőnöki
+53383	A	P	4	.Hne	mat	.9/1	c1	f206 	dr.	Horváth Gyuláné		Matematika
+53410	A	P	4	.JG	inf	.1/9/5	vill	fI216		Janzsó	Gábor	Informatika
+53592	A	P	4	.KE	mat	.10/C	Egész osztály	f207 		Kosara	Erika	Matematika
+51725	A	P	4	.MSzA	fizk	.11/C	vegy	f104		Miskolcziné Szilágyi	Andrea	Fizikai kémia
+53546	A	P	4	.SM	inf	.1/9/5	heg	fI218		Százné S?rés	Márta	Informatika
+53106	A	P	4	.SzJ	inf	.9/2	épít	I1		Szikora	János	Informatika
+61061	A	P	4	:BLne	mat	:9/6	1. csoport	T205	 	Baár	Lászlóné	Matematika
+61361	A	P	4	:HG	rv	:10/7	Egész osztály	T206	 	Herczeg	Gabriella	Rajz és vizuális kultúra
+59561	A	P	4	:LJne	mat	:10.B.	Egész osztály	T109	 	L?rincz	Jánosné	Matematika
+59861	A	P	4	:MM	inf	:9/6	2. csoport	T111	 	Máté	Mária	Informatika
+57761	A	P	4	:MTE	po	:9/5	1. csoport	T4	 	Mucsiné Turu	Erzsébet	Pályaorientáció
+63161	A	P	4	:PA	inf	:9/5	2. csoport	T302	 	Pásztor	Attila	Informatika
+60761	A	P	4	:PL	mny	:9/4	2. csoport	T204	 	Pozsik	László	Magyar nyelv
+60161	A	P	4	:SGyT	bio	:10.A.	Egész osztály	T202	 	Siposné Gyarmati	Teréz	Biológia
+58361	A	P	4	:SVI	éz	:10/6	Egész osztály	T7	 	Székelyné Veres	Ilona	Ének-zene
+58661	A	P	4	:Sztne	mat	:9.A.	Egész osztály	T106	 	Sztankovics	Józsefné	Matematika
+64061	A	P	4	:TKG	mat	:10/8	Egész osztály	T309		Tolnainé Kern	Gabriella	Matematika
+52725	A	P	5	.Hne	mat	.11/C	Egész osztály	k207	dr.	Horváth Gyuláné		Matematika
+51958	A	P	5	.IK	mat	.9/3	13	k203		Izsó	Katalin	Matematika
+55149	A	P	5	.KE	of	.9/C	Egész osztály	f224		Kosara	Erika	Osztályfőnöki
+53388	A	P	5	.PTV	po	.9/1	c1	f206 		Tompa	Valéria	Pályaorientáció
+53114	A	P	5	.SzJ	inf	.1/9/1	klíma	I1		Szikora	János	Informatika
+53215	A	P	5	.TM	po	.9/1	c2	f204 		Törköly	Magdolna	Pályaorientáció
+58366	A	P	5	:AN	bio	:9.A.	Egész osztály	T7	 	Asbóth	Norbert	Biológia
+57466	A	P	5	:BA	inf	:10/6	1. csoport	T3	 	Berczik	Andrea	Informatika
+60466	A	P	5	:Bu	mny	:9.B.	Egész osztály	T203	 	Burkovics	Ferenc	Magyar nyelv
+61366	A	P	5	:HG	rv	:12.A.	Egész osztály	T206	 	Herczeg	Gabriella	Rajz és vizuális kultúra
+61066	A	P	5	:HK	mny	:10/8	Egész osztály	T205	dr.	Kertainé Hagyó	Klára	Magyar nyelv
+59866	A	P	5	:MM	inf	:9/4	1. csoport	T111	 	Máté	Mária	Informatika
+57766	A	P	5	:MTE	po	:9/5	1. csoport	T4	 	Mucsiné Turu	Erzsébet	Pályaorientáció
+60166	A	P	5	:Ne	mat	:9/4	2. csoport	T202	 	Neparáczkiné Kiss	Beatrix	Matematika
+63466	A	P	5	:PA	inf	:10/5	1. Csoport	T303	 	Pásztor	Attila	Informatika
+64066	A	P	5	:SVI	mny	:11.B.	Egész osztály	T309	 	Székelyné Veres	Ilona	Magyar nyelv
+62866	A	P	5	:Sztne	mat	:10/5	2. Csoport	T301	 	Sztankovics	Józsefné	Matematika
+59566	A	P	5	:WA	bio	:10/7	Egész osztály	T109	 	Weiner	András	Biológia
+51968	A	P	6	.FE	of	.11/D	Egész osztály	k203		Figura	Eszter	Osztályfőnöki
+51975	A	P	6	.IK	mat	.10/2	Egész osztály	f106		Izsó	Katalin	Matematika
+55157	A	P	6	.KE	mat	.9/C	.9/C(V), .9/C(R2/2)	f224		Kosara	Erika	Matematika
+64371	A	P	6	.PTV	po	:9/6	2. csoport	T310		Tompa	Valéria	Pályaorientáció
+61071	A	P	6	.SM	fiz	:10/8	Egész osztály	T205		Százné S?rés	Márta	Fizika
+53120	A	P	6	.SzJ	inf	.10/D	vill	I1		Szikora	János	Informatika
+64071	A	P	6	:AN	bio	:1/13A	Egész osztály	T309	 	Asbóth	Norbert	Biológia
+60171	A	P	6	:BLne	mat	:10/6	Egész osztály	T202	 	Baár	Lászlóné	Matematika
+57771	A	P	6	:Bu	mny	:10/5	1. Csoport	T4	 	Burkovics	Ferenc	Magyar nyelv
+61371	A	P	6	:HG	rv	:12.A.	Egész osztály	T206	 	Herczeg	Gabriella	Rajz és vizuális kultúra
+59571	A	P	6	:LJne	fiz	:10.A.	Egész osztály	T109	 	L?rincz	Jánosné	Fizika
+59871	A	P	6	:MM	inf	:12.B.	Inf II	T111	 	Máté	Mária	Informatika
+63471	A	P	6	:PA	inf	:1/11C	2. Csoport	T303	 	Pásztor	Attila	Informatika
+58971	A	P	6	:PME	anyá	:1/11D	karpitos	T107	 	Perényiné Miskolczi	Erzsébet	Általános nyomdaipari alapismeretek
+57471	A	P	6	:PZ	inf	:12.B.	Inf I	T3		Pataki	Zoltán	Informatika
+59271	A	P	6	:Sztne	of	:9.A.	Egész osztály	T108	 	Sztankovics	Józsefné	Osztályfőnöki
+61971	A	P	6	:TKG	mat	:11.A.	Egész osztály	T212		Tolnainé Kern	Gabriella	Matematika
+60176	A	P	7	.CsA	kém	:10/6	Egész osztály	T202		Csorba	Attila	Kémia
+53906	A	P	7	.DA	szai	.1/9/5	heg	f209 	 	Dávid	Attila	Szakmai alapismeret
+64376	A	P	7	.PTV	po	:9/6	2. csoport	T310		Tompa	Valéria	Pályaorientáció
+58676	A	P	7	:BLne	mat	:9/5	2. csoport	T106	 	Baár	Lászlóné	Matematika
+58376	A	P	7	:Bu	éz	:10.A.	Egész osztály	T7	 	Burkovics	Ferenc	Ének-zene
+58976	A	P	7	:PME	anyá	:1/11D	karpitos	T107	 	Perényiné Miskolczi	Erzsébet	Általános nyomdaipari alapismeretek
+59276	A	P	7	:Sztne	fiz	:9.A.	Egész osztály	T108	 	Sztankovics	Józsefné	Fizika
+60181	A	P	8	:MI	ak	:1/13B	kozm	T202	dr.	Molnár	István	Alkalmazott kémia
+60181	A	P	8	:MI	ak	:1/13B	kozm	T202	dr.	Molnár	István	Általános kémia
+58981	A	P	8	:PME	szai	:1/11D	karpitos	T107	 	Perényiné Miskolczi	Erzsébet	Szakmai alapismeret
+59281	A	P	8	:VT	of	:1/11C	Egész osztály	T108	 	Varga	Tamás	Osztályfőnöki
+64086	A	P	9	:MI	ak	:1/13A	Egész osztály	T309	dr.	Molnár	István	Alkalmazott kémia
+64086	A	P	9	:MI	ak	:1/13A	Egész osztály	T309	dr.	Molnár	István	Általános kémia
+58986	A	P	9	:PME	szai	:1/11D	karpitos	T107	 	Perényiné Miskolczi	Erzsébet	Szakmai alapismeret
+58991	A	P	10	:PME	szai	:1/11D	karpitos	T107	 	Perényiné Miskolczi	Erzsébet	Szakmai alapismeret
+51927	A	Sz	1	.IK	mat	.12/D	Egész osztály	f106		Izsó	Katalin	Matematika
+53083	A	Sz	1	.JG	inf	.2/10/2	.2/10/2(víz1), .2/10/2(víz2)	I1		Janzsó	Gábor	Informatika
+53006	A	Sz	1	.KE	mat	.9/C	.9/C(V), .9/C(R2/2)	f130 		Kosara	Erika	Matematika
+53516	A	Sz	1	.KGK	inf	.10/D	gé	fI218		Kálmánné Gát	Klára	Informatika
+52851	A	Sz	1	.PG	of	.1/9/5	Egész osztály	f112 		Prihoda	Gábor	Osztályfőnöki
+60444	A	Sz	1	.PTV	po	:10/5	1. Csoport	T203		Tompa	Valéria	Pályaorientáció
+53174	A	Sz	1	.TM	po	.9/1	c2	f204 		Törköly	Magdolna	Pályaorientáció
+57444	A	Sz	1	:BA	inf	:11.A.	Inf I	T3	 	Berczik	Andrea	Informatika
+63444	A	Sz	1	:KB	inf	:9.B.	Inf II	T303	 	Kazi	Balázs Róbert	Informatika
+59844	A	Sz	1	:MSM	mny	:10/5	2. Csoport	T111	 	Máhigné Stefanovits	Márta	Magyar nyelv
+61344	A	Sz	1	:Ne	mat	:9/5	1. csoport	T206	 	Neparáczkiné Kiss	Beatrix	Matematika
+58644	A	Sz	1	:NyM	mny	:9/5	2. csoport	T106	 	Nyári	Mariann	Magyar nyelv
+63144	A	Sz	1	:PA	inf	:11.A.	Inf II	T302	 	Pásztor	Attila	Informatika
+52597	A	Sz	2	.DT	of	.2/10/4	Egész osztály	f110 		Dani	Tibor	Osztályfőnöki
+52413	A	Sz	2	.Hne	mat	.9/1	c1	f109	dr.	Horváth Gyuláné		Matematika
+52857	A	Sz	2	.IK	mat	.9/2	elekt	f112 		Izsó	Katalin	Matematika
+53184	A	Sz	2	.KE	mat	.9/2	épít	f204 		Kosara	Erika	Matematika
+60449	A	Sz	2	.PTV	po	:10/5	1. Csoport	T203		Tompa	Valéria	Pályaorientáció
+53088	A	Sz	2	.SM	inf	.9/1	c2	I1		Százné S?rés	Márta	Informatika
+52695	A	Sz	2	.SzE	of	.11/C	Egész osztály	k207		Szilágyi	Emese	Osztályfőnöki
+57449	A	Sz	2	:BA	inf	:11.A.	Inf I	T3	 	Berczik	Andrea	Informatika
+61049	A	Sz	2	:BLne	fiz	:10/7	Egész osztály	T205	 	Baár	Lászlóné	Fizika
+58349	A	Sz	2	:Bu	mny	:9.B.	Egész osztály	T7	 	Burkovics	Ferenc	Magyar nyelv
+63449	A	Sz	2	:KB	inf	:10/5	2. Csoport	T303	 	Kazi	Balázs Róbert	Informatika
+59849	A	Sz	2	:MM	inf	:9/4	1. csoport	T111	 	Máté	Mária	Informatika
+58649	A	Sz	2	:MSM	mny	:12.A.	Egész osztály	T106	 	Máhigné Stefanovits	Márta	Magyar nyelv
+61649	A	Sz	2	:Ne	of	:9/5	Egész osztály	T208	 	Neparáczkiné Kiss	Beatrix	Osztályfőnöki
+63149	A	Sz	2	:PA	inf	:11.A.	Inf II	T302	 	Pásztor	Attila	Informatika
+60149	A	Sz	2	:PL	mny	:9/4	2. csoport	T202	 	Pozsik	László	Magyar nyelv
+61349	A	Sz	2	:Ra	mat	:9/6	2. csoport	T206	 	Radóczi	Tibor	Matematika
+62249	A	Sz	2	:TKG	mat	:10/8	Egész osztály	T214		Tolnainé Kern	Gabriella	Matematika
+53534	A	Sz	3	.JG	inf	.2/10/4	burk	fI218		Janzsó	Gábor	Informatika
+53402	A	Sz	3	.KGK	inf	.9/C	.9/C(R2/1), .9/C(R2/2)	fI216		Kálmánné Gát	Klára	Informatika
+53096	A	Sz	3	.SzJ	inf	.9/C	R1	I1		Szikora	János	Informatika
+52209	A	Sz	3	.VPZs	of	.10/2	Egész osztály	f107		Vámos-Poljak Zsolt		Osztályfőnöki
+57454	A	Sz	3	:BA	inf	:9/6	1. csoport	T3	 	Berczik	Andrea	Informatika
+61054	A	Sz	3	:BLne	mat	:10/6	Egész osztály	T205	 	Baár	Lászlóné	Matematika
+60154	A	Sz	3	:GLK	mat	:12.B.	Egész osztály	T202	 	Geráné Lippay 	Klára	Matematika
+63454	A	Sz	3	:KB	inf	:10/7	2. csoport	T303	 	Kazi	Balázs Róbert	Informatika
+58354	A	Sz	3	:LJne	fiz	:10.A.	Egész osztály	T7	 	L?rincz	Jánosné	Fizika
+59854	A	Sz	3	:MM	inf	:10/8	1. csoport	T111	 	Máté	Mária	Informatika
+58654	A	Sz	3	:MSM	of	:12.A.	Egész osztály	T106	 	Máhigné Stefanovits	Márta	Osztályfőnöki
+62854	A	Sz	3	:Ne	mat	:10/5	1. Csoport	T301	 	Neparáczkiné Kiss	Beatrix	Matematika
+62254	A	Sz	3	:NyM	mny	:9/7	2. csoport	T214	 	Nyári	Mariann	Magyar nyelv
+63154	A	Sz	3	:PA	inf	:10/8	2. csoport	T302	 	Pásztor	Attila	Informatika
+64054	A	Sz	3	:SGyT	bio	:10.B.	Egész osztály	T309	 	Siposné Gyarmati	Teréz	Biológia
+61354	A	Sz	3	:SVI	mny	:11.B.	Egész osztály	T206	 	Székelyné Veres	Ilona	Magyar nyelv
+59254	A	Sz	3	:Sztne	mat	:10/5	2. Csoport	T108	 	Sztankovics	Józsefné	Matematika
+60454	A	Sz	3	:TKG	mat	:11.A.	Egész osztály	T203		Tolnainé Kern	Gabriella	Matematika
+52217	A	Sz	4	.IK	mat	.10/2	Egész osztály	f107		Izsó	Katalin	Matematika
+53544	A	Sz	4	.JG	inf	.2/10/4	burk	fI218		Janzsó	Gábor	Informatika
+55141	A	Sz	4	.KE	mat	.9/D	.9/D(ég1), .9/D(ég2)	f224		Kosara	Erika	Matematika
+53104	A	Sz	4	.SzJ	inf	.9/D	.9/D(eá1), .9/D(eá2)	I1		Szikora	János	Informatika
+57459	A	Sz	4	:BA	inf	:10/6	1. csoport	T3	 	Berczik	Andrea	Informatika
+64059	A	Sz	4	:GLK	mat	:11.B.	Egész osztály	T309	 	Geráné Lippay 	Klára	Matematika
+62259	A	Sz	4	:KA	of	:1/11A	Egész osztály	T214	 	Kovács	Attila	Osztályfőnöki
+63459	A	Sz	4	:KB	inf	:10/6	2. csoport	T303	 	Kazi	Balázs Róbert	Informatika
+59859	A	Sz	4	:MM	inf	:9/6	2. csoport	T111	 	Máté	Mária	Informatika
+59259	A	Sz	4	:MSM	mny	:12.B.	Egész osztály	T108	 	Máhigné Stefanovits	Márta	Magyar nyelv
+61059	A	Sz	4	:Ne	mat	:10/7	Egész osztály	T205	 	Neparáczkiné Kiss	Beatrix	Matematika
+60159	A	Sz	4	:SGyT	kém	:10.B.	Egész osztály	T202	 	Siposné Gyarmati	Teréz	Kémia
+58359	A	Sz	4	:SVI	éz	:10/8	Egész osztály	T7	 	Székelyné Veres	Ilona	Ének-zene
+61359	A	Sz	4	:Sztne	mat	:12.A.	Egész osztály	T206	 	Sztankovics	Józsefné	Matematika
+63764	A	Sz	5	.FK	mny	:9/6	1. csoport	T308		Fejes	Katalin Lilla	Magyar nyelv
+55914	A	Sz	5	.Hne	mat	.12/C	Egész osztály	k201	dr.	Horváth Gyuláné		Matematika
+58364	A	Sz	5	.SM	fiz	:10/8	Egész osztály	T7		Százné S?rés	Márta	Fizika
+53112	A	Sz	5	.SzJ	inf	.1/9/1	klíma	I1		Szikora	János	Informatika
+54096	A	Sz	5	.TM	of	.9/3	Egész osztály	f210 		Törköly	Magdolna	Osztályfőnöki
+64364	A	Sz	5	:Bu	mny	:10/5	1. Csoport	T310	 	Burkovics	Ferenc	Magyar nyelv
+61064	A	Sz	5	:GLK	of	:12.B.	Egész osztály	T205	 	Geráné Lippay 	Klára	Osztályfőnöki
+63464	A	Sz	5	:KB	inf	:1/11B	1. Csoport	T303	 	Kazi	Balázs Róbert	Informatika
+60164	A	Sz	5	:LJne	mat	:9.B.	Egész osztály	T202	 	L?rincz	Jánosné	Matematika
+59264	A	Sz	5	:MSM	mny	:10/5	2. Csoport	T108	 	Máhigné Stefanovits	Márta	Magyar nyelv
+59564	A	Sz	5	:MSZ	mny	:10/7	Egész osztály	T109	 	Bönditzné Magyar	Szilvia	Magyar nyelv
+60464	A	Sz	5	:NyM	mny	:9/7	2. csoport	T203	 	Nyári	Mariann	Magyar nyelv
+57464	A	Sz	5	:PA	inf	:1/11B	2. Csoport	T3	 	Pásztor	Attila	Informatika
+61364	A	Sz	5	:Sztne	mat	:12.A.	Egész osztály	T206	 	Sztankovics	Józsefné	Matematika
+58664	A	Sz	5	:TKG	mat	:10.A.	Egész osztály	T106		Tolnainé Kern	Gabriella	Matematika
+64369	A	Sz	6	.FK	mny	:9/5	1. csoport	T310		Fejes	Katalin Lilla	Magyar nyelv
+58369	A	Sz	6	.FZs	fiz	:10/6	Egész osztály	T7	dr.	Tóthné Farkas	Zsuzsanna	Fizika
+52731	A	Sz	6	.Hne	mat	.11/D	Egész osztály	k207	dr.	Horváth Gyuláné		Matematika
+53560	A	Sz	6	.JG	inf	.1/9/3	n2	fI218		Janzsó	Gábor	Informatika
+53898	A	Sz	6	.PTV	of	.10/3	Egész osztály	f209 		Tompa	Valéria	Osztályfőnöki
+53416	A	Sz	6	.SM	inf	.9/D	.9/D(ég1), .9/D(ég2)	fI216		Százné S?rés	Márta	Informatika
+53118	A	Sz	6	.SzJ	inf	.1/9/3	n1	I1		Szikora	János	Informatika
+59869	A	Sz	6	:BA	inf	:9/6	1. csoport	T111	 	Berczik	Andrea	Informatika
+62869	A	Sz	6	:Bu	of	:1/13B	tv, vill	T301	 	Burkovics	Ferenc	Osztályfőnöki
+63469	A	Sz	6	:KB	inf	:1/11B	1. Csoport	T303	 	Kazi	Balázs Róbert	Informatika
+60169	A	Sz	6	:LJne	fiz	:10.B.	Egész osztály	T202	 	L?rincz	Jánosné	Fizika
+61369	A	Sz	6	:MSM	mny	:12.A.	Egész osztály	T206	 	Máhigné Stefanovits	Márta	Magyar nyelv
+58969	A	Sz	6	:Ne	mat	:10/5	1. Csoport	T107	 	Neparáczkiné Kiss	Beatrix	Matematika
+57769	A	Sz	6	:NyM	mny	:9/6	2. csoport	T4	 	Nyári	Mariann	Magyar nyelv
+57469	A	Sz	6	:PA	inf	:1/11B	2. Csoport	T3	 	Pásztor	Attila	Informatika
+60469	A	Sz	6	:Sztne	mat	:10/5	2. Csoport	T203	 	Sztankovics	Józsefné	Matematika
+63169	A	Sz	6	:TI	inf	:10.A.	Inf II	T302	 	Tóth	István János	Informatika
+55932	A	Sz	7	.CsNE	szk	.12/C	A	k201	dr.	Csotó Nagy	Erzsébet	Szerves kémia I
+64374	A	Sz	7	.FK	mny	:9/5	1. csoport	T310		Fejes	Katalin Lilla	Magyar nyelv
+53566	A	Sz	7	.JG	inf	.1/9/3	n2	fI218		Janzsó	Gábor	Informatika
+52633	A	Sz	7	.SET	of	.3/11/2	Egész osztály	f110 	 	Sáróné Erdei	Tünde	Osztályfőnöki
+55161	A	Sz	7	.SzE	of	.1/13/T	Egész osztály	f224		Szilágyi	Emese	Osztályfőnöki
+53126	A	Sz	7	.SzJ	inf	.1/9/3	n1	I1		Szikora	János	Informatika
+58974	A	Sz	7	:BLne	mat	:9/6	1. csoport	T107	 	Baár	Lászlóné	Matematika
+53904	A	Sz	7	:HG	rv	.10/3	Egész osztály	f209 	 	Herczeg	Gabriella	Rajz és vizuális kultúra
+57474	A	Sz	7	:KB	inf	:10/6	2. csoport	T3	 	Kazi	Balázs Róbert	Informatika
+58674	A	Sz	7	:NyM	mh	:1/11D	gepiro	T106	 	Nyári	Mariann	Magyar helyesírás
+59574	A	Sz	7	:Sztne	fiz	:9.B.	Egész osztály	T109	 	Sztankovics	Józsefné	Fizika
+62879	A	Sz	8	:JCsE	szai	:1/13A	Egész osztály	T301	 	Jovánné Császár	Edit	Szakmai alapismeret
+61679	A	Sz	8	:LJne	mat	:10.B.	Egész osztály	T208	 	L?rincz	Jánosné	Matematika
+58979	A	Sz	8	:PME	anyá	:1/11D	karpitos	T107	 	Perényiné Miskolczi	Erzsébet	Általános nyomdaipari alapismeretek
+61079	A	Sz	8	:SGyT	bio	:1/13B	kozm	T205	 	Siposné Gyarmati	Teréz	Biológia
+63784	A	Sz	9	:CsL	szai	:1/11E	fenyezo	T308	 	Cseh	László	Szakmai alapismeret
+62884	A	Sz	9	:JCsE	szai	:1/13A	Egész osztály	T301	 	Jovánné Császár	Edit	Szakmai alapismeret
+58984	A	Sz	9	:PME	szai	:1/11D	karpitos	T107	 	Perényiné Miskolczi	Erzsébet	Szakmai alapismeret
+63789	A	Sz	10	:CsL	szai	:1/11E	fenyezo	T308	 	Cseh	László	Szakmai alapismeret
+62889	A	Sz	10	:JCsE	szai	:1/13A	Egész osztály	T301	 	Jovánné Császár	Edit	Szakmai alapismeret
+58989	A	Sz	10	:PME	szai	:1/11D	karpitos	T107	 	Perényiné Miskolczi	Erzsébet	Szakmai alapismeret
+63189	A	Sz	10	:UM	mh	:2/12E	Gepirok	T302	 	Urbán 	Marianna	Magyar helyesírás
+63794	A	Sz	11	:CsL	szai	:1/11E	fenyezo	T308	 	Cseh	László	Szakmai alapismeret
+63494	A	Sz	11	:KLE	gépír	:1/11D	gepiro	T303	 	Kajáriné Lestár	Erzsébet	Gépírás
+58994	A	Sz	11	:PME	szai	:1/11D	karpitos	T107	 	Perényiné Miskolczi	Erzsébet	Szakmai alapismeret
+63799	A	Sz	12	:CsL	szai	:1/11E	fenyezo	T308	 	Cseh	László	Szakmai alapismeret
+63499	A	Sz	12	:KLE	gépír	:1/11D	gepiro	T303	 	Kajáriné Lestár	Erzsébet	Gépírás
+63504	A	Sz	13	:KLE	gépír	:1/11D	gepiro	T303	 	Kajáriné Lestár	Erzsébet	Gépírás
+52878	B	Cs	1	.CsF	of	.2/10/1	Egész osztály	f112 	 	Cseh	Ferenc	Osztályfőnöki
+55617	B	Cs	1	.HK	of	.1/9/2	Egész osztály	k108		Huszár	Károly	Osztályfőnöki
+53239	B	Cs	1	.IK	mat	.9/D	.9/D(eá1), .9/D(eá2)	f204 		Izsó	Katalin	Matematika
+53621	B	Cs	1	.KE	mat	.9/D	.9/D(ég1), .9/D(ég2)	f207 		Kosara	Erika	Matematika
+53422	B	Cs	1	.KGK	inf++	.12/C	R	fI216		Kálmánné Gát	Klára	Informatika fakultáció
+54831	B	Cs	1	.PFne	rv	.12/D	Egész osztály	f215		Pálvölgyiné Szécsi	Valéria	Rajz és vizuális kultúra
+64420	B	Cs	1	.PTV	po	:9/5	2. csoport	T310		Tompa	Valéria	Pályaorientáció
+53137	B	Cs	1	.SM	inf	.10/1	A1 	I1		Százné S?rés	Márta	Informatika
+61420	B	Cs	1	:HBA	önti	:10.B.	Egész osztály	T206	 	Hajduné Bihari	Ágnes	Ön- és társadalomismeret
+60520	B	Cs	1	:MTE	po	:9/5	1. csoport	T203	 	Mucsiné Turu	Erzsébet	Pályaorientáció
+63520	B	Cs	1	:PZ	inf	:9/R	Egész osztály	T303		Pataki	Zoltán	Informatika
+64120	B	Cs	1	:SGyT	bio	:10.A.	Egész osztály	T309	 	Siposné Gyarmati	Teréz	Biológia
+60220	B	Cs	1	:SVI	mny	:9.A.	Egész osztály	T202	 	Székelyné Veres	Ilona	Magyar nyelv
+52759	B	Cs	2	.Hne	mat	.11/C	Egész osztály	k207	dr.	Horváth Gyuláné		Matematika
+54839	B	Cs	2	.IK	mat	.12/D	Egész osztály	f215		Izsó	Katalin	Matematika
+53147	B	Cs	2	.JG	inf	.2/10/3	fest?2	I1		Janzsó	Gábor	Informatika
+53247	B	Cs	2	.KE	mat	.9/2	épít	f204 		Kosara	Erika	Matematika
+53428	B	Cs	2	.KGK	inf	.2/10/3	fest?1	fI216		Kálmánné Gát	Klára	Informatika
+64425	B	Cs	2	.PTV	po	:9/5	2. csoport	T310		Tompa	Valéria	Pályaorientáció
+53631	B	Cs	2	.VL	of	.10/C	Egész osztály	f207 		Vér	László	Osztályfőnöki
+61725	B	Cs	2	:AN	bio	:9.A.	Egész osztály	T208	 	Asbóth	Norbert	Biológia
+61425	B	Cs	2	:HBA	önti	:10.B.	Egész osztály	T206	 	Hajduné Bihari	Ágnes	Ön- és társadalomismeret
+57525	B	Cs	2	:MM	inf	:9/4	1. csoport	T3	 	Máté	Mária	Informatika
+60525	B	Cs	2	:MTE	po	:9/5	1. csoport	T203	 	Mucsiné Turu	Erzsébet	Pályaorientáció
+59925	B	Cs	2	:PA	inf	:9/4	2. csoport	T111	 	Pásztor	Attila	Informatika
+63525	B	Cs	2	:PZ	inf	:9/R	Egész osztály	T303		Pataki	Zoltán	Informatika
+58425	B	Cs	2	:Ra	of	:3/13A	Egész osztály	T7	 	Radóczi	Tibor	Osztályfőnöki
+60225	B	Cs	2	:SGyT	bio	:9.B.	Egész osztály	T202	 	Siposné Gyarmati	Teréz	Biológia
+64125	B	Cs	2	:TKG	mat	:10.A.	Egész osztály	T309		Tolnainé Kern	Gabriella	Matematika
+61130	B	Cs	3	.FK	mny	:9/5	1. csoport	T205		Fejes	Katalin Lilla	Magyar nyelv
+54137	B	Cs	3	.IK	mat	.9/3	13	f210 		Izsó	Katalin	Matematika
+53157	B	Cs	3	.JG	inf	.2/10/3	fest?2	I1		Janzsó	Gábor	Informatika
+53062	B	Cs	3	.KE	mat	.9/3	12	f130 		Kosara	Erika	Matematika
+52264	B	Cs	3	.PTV	po	.9/1	c1	f107		Tompa	Valéria	Pályaorientáció
+53598	B	Cs	3	.SM	inf	.9/1	c2	fI218		Százné S?rés	Márta	Informatika
+63830	B	Cs	3	:BLne	mat	:9/5	2. csoport	T308	 	Baár	Lászlóné	Matematika
+59330	B	Cs	3	:CsL	szai	:2/12F	fenyezo	T108	 	Cseh	László	Szakmai alapismeret
+61730	B	Cs	3	:GLK	mat	:11.B.	Egész osztály	T208	 	Geráné Lippay 	Klára	Matematika
+57530	B	Cs	3	:MM	inf	:12.B.	Inf II	T3	 	Máté	Mária	Informatika
+63230	B	Cs	3	:PA	inf	:9/7	1. csoport	T302	 	Pásztor	Attila	Informatika
+63530	B	Cs	3	:PZ	inf	:12.B.	Inf I	T303		Pataki	Zoltán	Informatika
+60230	B	Cs	3	:SGyT	kém	:10.A.	Egész osztály	T202	 	Siposné Gyarmati	Teréz	Kémia
+58430	B	Cs	3	:SVI	éz	:9.A.	Egész osztály	T7	 	Székelyné Veres	Ilona	Ének-zene
+59030	B	Cs	3	:TKG	mat	:9/7	2. csoport	T107		Tolnainé Kern	Gabriella	Matematika
+51739	B	Cs	4	.Hne	mat	.12/C	Egész osztály	k201	dr.	Horváth Gyuláné		Matematika
+54147	B	Cs	4	.IK	mat	.9/3	13	f210 		Izsó	Katalin	Matematika
+53645	B	Cs	4	.KE	mat	.10/C	Egész osztály	f207 		Kosara	Erika	Matematika
+53606	B	Cs	4	.KGK	inf	.10/1	A2 	fI218		Kálmánné Gát	Klára	Informatika
+52673	B	Cs	4	.TM	po	.9/3	12	f110 		Törköly	Magdolna	Pályaorientáció
+58435	B	Cs	4	:Bu	éz	:9.B.	Egész osztály	T7	 	Burkovics	Ferenc	Ének-zene
+59335	B	Cs	4	:CsL	szai	:2/12F	fenyezo	T108	 	Cseh	László	Szakmai alapismeret
+61735	B	Cs	4	:GLK	mat	:11.B.	Egész osztály	T208	 	Geráné Lippay 	Klára	Matematika
+64135	B	Cs	4	:KoSK	mny	:10.A.	Egész osztály	T309	 	Komárominé Sipos	Katalin	Magyar nyelv
+57535	B	Cs	4	:MM	inf	:12.B.	Inf II	T3	 	Máté	Mária	Informatika
+58135	B	Cs	4	:NM	mat	:9/7	1. csoport	T6	 	Németh	Magdolna	Matematika
+61135	B	Cs	4	:NyM	mny	:9/6	2. csoport	T205	 	Nyári	Mariann	Magyar nyelv
+63535	B	Cs	4	:PZ	inf	:12.B.	Inf I	T303		Pataki	Zoltán	Informatika
+62935	B	Cs	4	:SGyT	bio	:2/14B	:2/14B(kozm1), :2/14B(kozm2)	T301	 	Siposné Gyarmati	Teréz	Biológia
+60235	B	Cs	4	:SVI	mny	:10.B.	Egész osztály	T202	 	Székelyné Veres	Ilona	Magyar nyelv
+57835	B	Cs	4	:SzH	ák	:2/14B	elektr	T4	 	Szöll?si	Huba	Alkalmazott kémia
+57835	B	Cs	4	:SzH	ák	:2/14B	elektr	T4	 	Szöll?si	Huba	Általános kémia
+51751	B	Cs	5	.Hne	mat	.12/C	Egész osztály	k201	dr.	Horváth Gyuláné		Matematika
+53272	B	Cs	5	.IK	mat	.9/2	elekt	f204 		Izsó	Katalin	Matematika
+54861	B	Cs	5	.KE	mat	.9/C	.9/C(R1), .9/C(R2/1)	f215		Kosara	Erika	Matematika
+53616	B	Cs	5	.KGK	inf	.10/2	ép	fI218		Kálmánné Gát	Klára	Informatika
+67140	B	Cs	5	.SM	fiz	:10/8	Egész osztály	k209		Százné S?rés	Márta	Fizika
+52485	B	Cs	5	.TM	po	.9/1	c2	f109		Törköly	Magdolna	Pályaorientáció
+53948	B	Cs	5	.VKE	köv	.10/3	Egész osztály	f209 		Váradiné	Kása Edit	Környezetvédelem
+58740	B	Cs	5	:Bu	mny	:9.B.	Egész osztály	T106	 	Burkovics	Ferenc	Magyar nyelv
+59340	B	Cs	5	:CsL	szai	:2/12F	fenyezo	T108	 	Cseh	László	Szakmai alapismeret
+60240	B	Cs	5	:LJne	fiz	:10.B.	Egész osztály	T202	 	L?rincz	Jánosné	Fizika
+57540	B	Cs	5	:MM	inf	:3/13A	1. Csoport	T3	 	Máté	Mária	Informatika
+64140	B	Cs	5	:MSM	mny	:12.B.	Egész osztály	T309	 	Máhigné Stefanovits	Márta	Magyar nyelv
+63240	B	Cs	5	:PA	inf	:3/13A	2. Csoport	T302	 	Pásztor	Attila	Informatika
+62340	B	Cs	5	:PL	mny	:11.A.	Egész osztály	T214	 	Pozsik	László	Magyar nyelv
+63540	B	Cs	5	:PZ	inf	:9/7	2. csoport	T303		Pataki	Zoltán	Informatika
+60540	B	Cs	5	:SGyT	bio	:2/14A	Egész osztály	T203	 	Siposné Gyarmati	Teréz	Biológia
+61740	B	Cs	5	:SVI	mny	:11.B.	Egész osztály	T208	 	Székelyné Veres	Ilona	Magyar nyelv
+63840	B	Cs	5	:SzG	mny	:10/4	német I	T308	 	Szabó	Gábor	Magyar nyelv
+53280	B	Cs	6	.CsA	of	.9/2	Egész osztály	f204 		Csorba	Attila	Osztályfőnöki
+54377	B	Cs	6	.IK	mat	.10/1	Egész osztály	f212		Izsó	Katalin	Matematika
+54865	B	Cs	6	.JG	of	.12/D	Egész osztály	f215		Janzsó	Gábor	Osztályfőnöki
+58445	B	Cs	6	:Bu	éz	:10.A.	Egész osztály	T7	 	Burkovics	Ferenc	Ének-zene
+59345	B	Cs	6	:CsL	szai	:2/12F	fenyezo	T108	 	Cseh	László	Szakmai alapismeret
+64145	B	Cs	6	:GLK	mat	:12.B.	Egész osztály	T309	 	Geráné Lippay 	Klára	Matematika
+60245	B	Cs	6	:LJne	mat	:10.B.	Egész osztály	T202	 	L?rincz	Jánosné	Matematika
+57545	B	Cs	6	:MM	inf	:3/13A	1. Csoport	T3	 	Máté	Mária	Informatika
+63245	B	Cs	6	:PA	inf	:3/13A	2. Csoport	T302	 	Pásztor	Attila	Informatika
+63545	B	Cs	6	:PZ	inf	:9/7	2. csoport	T303		Pataki	Zoltán	Informatika
+60545	B	Cs	6	:SGyT	bio	:10/8	Egész osztály	T203	 	Siposné Gyarmati	Teréz	Biológia
+62945	B	Cs	6	:Si	of	:2/14A	Egész osztály	T301	dr.	Simoncsics Jánosné		Osztályfőnöki
+63845	B	Cs	6	:SzG	mny	:10/4	német I	T308	 	Szabó	Gábor	Magyar nyelv
+61145	B	Cs	6	:TKG	mat	:11.A.	Egész osztály	T205		Tolnainé Kern	Gabriella	Matematika
+58750	B	Cs	7	.CsA	kém	:10/7	Egész osztály	T106		Csorba	Attila	Kémia
+53634	B	Cs	7	.KGK	inf	.1/9/2	n	fI218		Kálmánné Gát	Klára	Informatika
+57850	B	Cs	7	.TM	po	:9/7	2. csoport	T4		Törköly	Magdolna	Pályaorientáció
+56416	B	Cs	7	.VeI	heg	.1/9/5	h2	Deri1	 	Vetró	István	Hegesztés 
+59950	B	Cs	7	:BLne	mat	:10/6	Egész osztály	T111	 	Baár	Lászlóné	Matematika
+59350	B	Cs	7	:CsL	szai	:2/12F	fenyezo	T108	 	Cseh	László	Szakmai alapismeret
+58450	B	Cs	7	:HK	mny	:10/8	Egész osztály	T7	dr.	Kertainé Hagyó	Klára	Magyar nyelv
+58150	B	Cs	7	:KoSK	mny	:10/4	német II	T6	 	Komárominé Sipos	Katalin	Magyar nyelv
+59050	B	Cs	7	:PME	anyá	:2/12E	karpit	T107	 	Perényiné Miskolczi	Erzsébet	Általános nyomdaipari alapismeretek
+63550	B	Cs	7	:PZ	inf	:11.B.	Inf I	T303		Pataki	Zoltán	Informatika
+62350	B	Cs	7	:SGyT	bio	:10.B.	Egész osztály	T214	 	Siposné Gyarmati	Teréz	Biológia
+63850	B	Cs	7	:SzG	mny	:10/4	német I	T308	 	Szabó	Gábor	Magyar nyelv
+61150	B	Cs	7	:TKG	mat	:11.A.	Egész osztály	T205		Tolnainé Kern	Gabriella	Matematika
+53640	B	Cs	8	.KGK	inf	.1/9/2	n	fI218		Kálmánné Gát	Klára	Informatika
+57855	B	Cs	8	.TM	po	:9/7	2. csoport	T4		Törköly	Magdolna	Pályaorientáció
+56421	B	Cs	8	.VeI	heg	.1/9/5	h2	Deri1	 	Vetró	István	Hegesztés 
+58455	B	Cs	8	:BLne	fiz	:10/7	Egész osztály	T7	 	Baár	Lászlóné	Fizika
+59955	B	Cs	8	:KB	inf	:10/4	német II	T111	 	Kazi	Balázs Róbert	Informatika
+59055	B	Cs	8	:MTE	anyá	:2/12A	noi	T107	 	Mucsiné Turu	Erzsébet	Általános nyomdaipari alapismeretek
+64455	B	Cs	8	:NyM	mh	:1/11D	gepiro	T310	 	Nyári	Mariann	Magyar helyesírás
+58755	B	Cs	8	:PL	mny	:11.A.	Egész osztály	T106	 	Pozsik	László	Magyar nyelv
+60255	B	Cs	8	:PME	anyá	:2/12E	karpit	T202	 	Perényiné Miskolczi	Erzsébet	Általános nyomdaipari alapismeretek
+63555	B	Cs	8	:PZ	inf	:11.B.	Inf I	T303		Pataki	Zoltán	Informatika
+59355	B	Cs	8	:TKG	mat	:10/8	Egész osztály	T108		Tolnainé Kern	Gabriella	Matematika
+56426	B	Cs	9	.VeI	heg	.1/9/5	h2	Deri1	 	Vetró	István	Hegesztés 
+58760	B	Cs	9	:Bu	of	:2/14B	Egész osztály	T106	 	Burkovics	Ferenc	Osztályfőnöki
+59960	B	Cs	9	:KB	inf	:10/6	2. csoport	T111	 	Kazi	Balázs Róbert	Informatika
+58460	B	Cs	9	:MSZ	mny	:10/7	Egész osztály	T7	 	Bönditzné Magyar	Szilvia	Magyar nyelv
+62660	B	Cs	9	:MTE	anyá	:2/12A	noi	T215	 	Mucsiné Turu	Erzsébet	Általános nyomdaipari alapismeretek
+64460	B	Cs	9	:NyM	mh	:1/11D	gepiro	T310	 	Nyári	Mariann	Magyar helyesírás
+60260	B	Cs	9	:PME	anyá	:2/12E	karpit	T202	 	Perényiné Miskolczi	Erzsébet	Általános nyomdaipari alapismeretek
+56431	B	Cs	10	.VeI	heg	.1/9/5	h2	Deri1	 	Vetró	István	Hegesztés 
+57565	B	Cs	10	:BA	inf	:10/6	1. csoport	T3	 	Berczik	Andrea	Informatika
+63265	B	Cs	10	:KB	inf	:10/6	2. csoport	T302	 	Kazi	Balázs Róbert	Informatika
+59965	B	Cs	10	:MM	inf	:2/12B	1. Csoport	T111	 	Máté	Mária	Informatika
+58465	B	Cs	10	:MSZ	of	:10/7	Egész osztály	T7	 	Bönditzné Magyar	Szilvia	Osztályfőnöki
+56436	B	Cs	11	.VeI	heg	.1/9/5	h2	Deri1	 	Vetró	István	Hegesztés 
+57570	B	Cs	11	:BA	inf	:10/7	1. csoport	T3	 	Berczik	Andrea	Informatika
+63270	B	Cs	11	:KB	inf	:10/7	2. csoport	T302	 	Kazi	Balázs Róbert	Informatika
+63570	B	Cs	11	:KLE	gépír	:1/11D	gepiro	T303	 	Kajáriné Lestár	Erzsébet	Gépírás
+58470	B	Cs	11	:Sztne	mat	:10/4	német II	T7	 	Sztankovics	Józsefné	Matematika
+59370	B	Cs	11	:WA	bio	:10/6	Egész osztály	T108	 	Weiner	András	Biológia
+56441	B	Cs	12	.VeI	heg	.1/9/5	h2	Deri1	 	Vetró	István	Hegesztés 
+57575	B	Cs	12	:BA	inf	:10/7	1. csoport	T3	 	Berczik	Andrea	Informatika
+63275	B	Cs	12	:KB	inf	:10/7	2. csoport	T302	 	Kazi	Balázs Róbert	Informatika
+63575	B	Cs	12	:KLE	gépír	:1/11D	gepiro	T303	 	Kajáriné Lestár	Erzsébet	Gépírás
+59075	B	Cs	12	:PME	szai	:2/12A	noi	T107	 	Perényiné Miskolczi	Erzsébet	Szakmai alapismeret
+58475	B	Cs	12	:Sztne	mat	:10/4	német II	T7	 	Sztankovics	Józsefné	Matematika
+59375	B	Cs	12	:WA	of	:10/6	Egész osztály	T108	 	Weiner	András	Osztályfőnöki
+56446	B	Cs	13	.VeI	heg	.1/9/5	h2	Deri1	 	Vetró	István	Hegesztés 
+63580	B	Cs	13	:KLE	gépír	:1/11D	gepiro	T303	 	Kajáriné Lestár	Erzsébet	Gépírás
+58780	B	Cs	13	:PME	szai	:2/12A	noi	T106	 	Perényiné Miskolczi	Erzsébet	Szakmai alapismeret
+55942	B	H	1	.CsNE	szk	.12/C	R	k201	dr.	Csotó Nagy	Erzsébet	Szerves kémia I
+53044	B	H	1	.Hne	mat	.9/1	c1	f130 	dr.	Horváth Gyuláné		Matematika
+52645	B	H	1	.HT	of	.1/9/4	Egész osztály	f110 		Habók	Tamás	Osztályfőnöki
+53615	B	H	1	.KE	mat	.10/C	Egész osztály	f207 		Kosara	Erika	Matematika
+64117	B	H	1	:BLne	mat	:9/6	1. csoport	T309	 	Baár	Lászlóné	Matematika
+63217	B	H	1	:PA	inf	:2/14A	1. Csoport	T302	 	Pásztor	Attila	Informatika
+61117	B	H	1	:PL	mny	:9/4	2. csoport	T205	 	Pozsik	László	Magyar nyelv
+53050	B	H	2	.Hne	of	.9/1	Egész osztály	f130 	dr.	Horváth Gyuláné		Osztályfőnöki
+54835	B	H	2	.IK	mat	.12/D	Egész osztály	f215		Izsó	Katalin	Matematika
+53424	B	H	2	.JG	inf	.1/9/4	burk	fI216		Janzsó	Gábor	Informatika
+53625	B	H	2	.KE	mat	.9/D	.9/D(ég1), .9/D(ég2)	f207 		Kosara	Erika	Matematika
+51814	B	H	2	.NT	inf++	.12/C	inf1	f222		Németh	Tamás	Informatika fakultáció
+64122	B	H	2	:BLne	mat	:9/6	1. csoport	T309	 	Baár	Lászlóné	Matematika
+59322	B	H	2	:GLK	of	:12.B.	Egész osztály	T108	 	Geráné Lippay 	Klára	Osztályfőnöki
+51990	B	H	2	:HG	rv	.10/1	Egész osztály	k203	 	Herczeg	Gabriella	Rajz és vizuális kultúra
+59922	B	H	2	:MM	inf	:9/6	2. csoport	T111	 	Máté	Mária	Informatika
+60222	B	H	2	:NyM	mny	:9/7	2. csoport	T202	 	Nyári	Mariann	Magyar nyelv
+63222	B	H	2	:PA	inf	:2/14A	1. Csoport	T302	 	Pásztor	Attila	Informatika
+61422	B	H	2	:SVI	mny	:10.B.	Egész osztály	T206	 	Székelyné Veres	Ilona	Magyar nyelv
+59622	B	H	2	:Sztne	mat	:12.A.	Egész osztály	T109	 	Sztankovics	Józsefné	Matematika
+61722	B	H	2	:UM	mny	:9/7	1. csoport	T208	 	Urbán 	Marianna	Magyar nyelv
+59327	B	H	3	.FK	mny	:9/4	1. csoport	T108		Fejes	Katalin Lilla	Magyar nyelv
+52763	B	H	3	.Hne	mat	.11/C	Egész osztály	k207	dr.	Horváth Gyuláné		Matematika
+53432	B	H	3	.JG	inf	.9/1	c1	fI216		Janzsó	Gábor	Informatika
+52661	B	H	3	.KA	of	.3/11/3	Egész osztály	f110 		Kiss	Antal	Osztályfőnöki
+53926	B	H	3	.PTV	po	.9/3	13	f209 		Tompa	Valéria	Pályaorientáció
+64127	B	H	3	:GLK	mat	:12.B.	Egész osztály	T309	 	Geráné Lippay 	Klára	Matematika
+60227	B	H	3	:NyM	mny	:9/7	2. csoport	T202	 	Nyári	Mariann	Magyar nyelv
+63227	B	H	3	:PA	inf	:9/7	1. csoport	T302	 	Pásztor	Attila	Informatika
+60527	B	H	3	:PL	mny	:11.A.	Egész osztály	T203	 	Pozsik	László	Magyar nyelv
+61427	B	H	3	:SVI	mny	:10.B.	Egész osztály	T206	 	Székelyné Veres	Ilona	Magyar nyelv
+59627	B	H	3	:Sztne	mat	:12.A.	Egész osztály	T109	 	Sztankovics	Józsefné	Matematika
+61432	B	H	4	.FK	mny	:9/6	1. csoport	T206		Fejes	Katalin Lilla	Magyar nyelv
+53257	B	H	4	.Hne	mat	.9/1	c2	f204 	dr.	Horváth Gyuláné		Matematika
+52010	B	H	4	.IK	mat	.10/1	Egész osztály	k203		Izsó	Katalin	Matematika
+53602	B	H	4	.KGK	inf	.9/2	elekt	fI218		Kálmánné Gát	Klára	Informatika
+52896	B	H	4	.PTV	po	.9/1	c1	f112 		Tompa	Valéria	Pályaorientáció
+53161	B	H	4	.SzJ	inf	.9/3	13	I1		Szikora	János	Informatika
+54357	B	H	4	.TM	po	.9/3	12	f212		Törköly	Magdolna	Pályaorientáció
+61132	B	H	4	:Bu	mny	:9.B.	Egész osztály	T205	 	Burkovics	Ferenc	Magyar nyelv
+64132	B	H	4	:GLK	mat	:12.B.	Egész osztály	T309	 	Geráné Lippay 	Klára	Matematika
+52268	B	H	4	:HG	rv	.11/D	Egész osztály	f107	 	Herczeg	Gabriella	Rajz és vizuális kultúra
+59932	B	H	4	:MM	inf	:3/13B	2. Csoport	T111	 	Máté	Mária	Informatika
+60232	B	H	4	:MSM	mny	:12.A.	Egész osztály	T202	 	Máhigné Stefanovits	Márta	Magyar nyelv
+63832	B	H	4	:NyM	mny	:9/6	2. csoport	T308	 	Nyári	Mariann	Magyar nyelv
+63232	B	H	4	:PA	inf	:3/13B	1. Csoport	T302	 	Pásztor	Attila	Informatika
+60532	B	H	4	:PL	mny	:11.A.	Egész osztály	T203	 	Pozsik	László	Magyar nyelv
+59632	B	H	4	:SVI	mny	:11.B.	Egész osztály	T109	 	Székelyné Veres	Ilona	Magyar nyelv
+59332	B	H	4	:Sztne	fiz	:9.A.	Egész osztály	T108	 	Sztankovics	Józsefné	Fizika
+52278	B	H	5	.Hne	mat	.11/D	Egész osztály	f107	dr.	Horváth Gyuláné		Matematika
+53167	B	H	5	.JG	inf	.9/3	12	I1		Janzsó	Gábor	Informatika
+53266	B	H	5	.KE	mat	.9/2	épít	f204 		Kosara	Erika	Matematika
+53610	B	H	5	.KGK	inf	.10/1	A2 	fI218		Kálmánné Gát	Klára	Informatika
+51797	B	H	5	.MSzA	fizk	.11/C	vegy	f104		Miskolcziné Szilágyi	Andrea	Fizikai kémia
+63837	B	H	5	.PTV	po	:9/6	2. csoport	T308		Tompa	Valéria	Pályaorientáció
+52481	B	H	5	.VI	of	.2/10/3	Egész osztály	f109		Vidákovics	István	Osztályfőnöki
+53429	B	H	5	.ZM	of	.1/9/3	.1/9/3(n1), .1/9/3(n2)	f206 		Zimmer	Márta	Osztályfőnöki
+57537	B	H	5	:BA	inf	:9/6	1. csoport	T3	 	Berczik	Andrea	Informatika
+64137	B	H	5	:GLK	mat	:11.B.	Egész osztály	T309	 	Geráné Lippay 	Klára	Matematika
+61437	B	H	5	:LJne	mat	:9.B.	Egész osztály	T206	 	L?rincz	Jánosné	Matematika
+59937	B	H	5	:MM	inf	:3/13B	2. Csoport	T111	 	Máté	Mária	Informatika
+61737	B	H	5	:MSM	of	:12.A.	Egész osztály	T208	 	Máhigné Stefanovits	Márta	Osztályfőnöki
+62337	B	H	5	:MSZ	mny	:10/7	Egész osztály	T214	 	Bönditzné Magyar	Szilvia	Magyar nyelv
+63237	B	H	5	:PA	inf	:3/13B	1. Csoport	T302	 	Pásztor	Attila	Informatika
+62037	B	H	5	:RJ	of	:2/12F	Egész osztály	T212	 	Rózsa	János	Osztályfőnöki
+58437	B	H	5	:SVI	éz	:10.B.	Egész osztály	T7	 	Székelyné Veres	Ilona	Ének-zene
+59337	B	H	5	:Sztne	mat	:9.A.	Egész osztály	T108	 	Sztankovics	Józsefné	Matematika
+53276	B	H	6	.IK	mat	.9/3	13	f204 		Izsó	Katalin	Matematika
+53620	B	H	6	.KGK	inf	.9/2	elekt	fI218		Kálmánné Gát	Klára	Informatika
+63842	B	H	6	.PTV	po	:9/6	2. csoport	T308		Tompa	Valéria	Pályaorientáció
+53173	B	H	6	.SzJ	inf	.9/2	épít	I1		Szikora	János	Informatika
+61742	B	H	6	:AN	kém	:9.A.	Egész osztály	T208	 	Asbóth	Norbert	Kémia
+57542	B	H	6	:BA	inf	:12.A.	Inf I	T3	 	Berczik	Andrea	Informatika
+61442	B	H	6	:MSM	mny	:12.B.	Egész osztály	T206	 	Máhigné Stefanovits	Márta	Magyar nyelv
+59942	B	H	6	:PA	inf	:10/5	1. Csoport	T111	 	Pásztor	Attila	Informatika
+60242	B	H	6	:SGyT	kém	:10/8	Egész osztály	T202	 	Siposné Gyarmati	Teréz	Kémia
+63242	B	H	6	:TI	inf	:12.A.	Inf II	T302	 	Tóth	István János	Informatika
+53630	B	H	7	.JG	inf	.2/10/1	szell	fI218		Janzsó	Gábor	Informatika
+51819	B	H	7	.NT	inf++	.11/D	inf1	f222		Németh	Tamás	Informatika fakultáció
+53444	B	H	7	.SM	inf++	.12/C	inf1	fI216		Százné S?rés	Márta	Informatika fakultáció
+53179	B	H	7	.SzJ	inf++	.12/D, .12/C	.12/D(Szt), .12/C(inf2)	I1		Szikora	János	Informatika fakultáció
+56413	B	H	7	.VeI	heg	.1/9/5	h2	Deri1	 	Vetró	István	Hegesztés 
+57547	B	H	7	:PA	inf	:10/5	1. Csoport	T3	 	Pásztor	Attila	Informatika
+63847	B	H	7	:Ra	mat	:9/6	2. csoport	T308	 	Radóczi	Tibor	Matematika
+61447	B	H	7	:SVI	mi	:10/6	Egész osztály	T206	 	Székelyné Veres	Ilona	Magyar irodalom
+60247	B	H	7	:Sztne	mat	:10/5	2. Csoport	T202	 	Sztankovics	Józsefné	Matematika
+51804	B	H	8	.MSzA	fizk	.2/14/T	vegy	f104		Miskolcziné Szilágyi	Andrea	Fizikai kémia
+53448	B	H	8	.SM	inf++	.12/C	inf1	fI216		Százné S?rés	Márta	Informatika fakultáció
+53185	B	H	8	.SzJ	inf++	.12/D, .12/C	.12/D(Szt), .12/C(inf2)	I1		Szikora	János	Informatika fakultáció
+56418	B	H	8	.VeI	heg	.1/9/5	h2	Deri1	 	Vetró	István	Hegesztés 
+59952	B	H	8	:BA	inf	:9.B.	Inf I	T111	 	Berczik	Andrea	Informatika
+61152	B	H	8	:Ne	mat	:10/5	1. Csoport	T205	 	Neparáczkiné Kiss	Beatrix	Matematika
+61452	B	H	8	:SVI	mi	:10/6	Egész osztály	T206	 	Székelyné Veres	Ilona	Magyar irodalom
+60252	B	H	8	:Sztne	mat	:10/5	2. Csoport	T202	 	Sztankovics	Józsefné	Matematika
+57552	B	H	8	:TI	inf	:9.A.	inf 2	T3	 	Tóth	István János	Informatika
+58452	B	H	8	:TKG	mat	:10/8	Egész osztály	T7		Tolnainé Kern	Gabriella	Matematika
+58757	B	H	9	.FZs	fiz	:10/6	Egész osztály	T106	dr.	Tóthné Farkas	Zsuzsanna	Fizika
+51807	B	H	9	.MSzA	fizk	.2/14/T	vegy	f104		Miskolcziné Szilágyi	Andrea	Fizikai kémia
+56423	B	H	9	.VeI	heg	.1/9/5	h2	Deri1	 	Vetró	István	Hegesztés 
+59357	B	H	9	:MSM	mny	:10/5	2. Csoport	T108	 	Máhigné Stefanovits	Márta	Magyar nyelv
+61157	B	H	9	:Ne	mat	:10/5	1. Csoport	T205	 	Neparáczkiné Kiss	Beatrix	Matematika
+58457	B	H	9	:SVI	éz	:10/8	Egész osztály	T7	 	Székelyné Veres	Ilona	Ének-zene
+59962	B	H	10	.CsA	kém	:10/6	Egész osztály	T111		Csorba	Attila	Kémia
+54188	B	H	10	.MSzA	köv	.1/13/T	vegy	fFsz6		Miskolcziné Szilágyi	Andrea	Környezetvédelem
+56428	B	H	10	.VeI	heg	.1/9/5	h2	Deri1	 	Vetró	István	Hegesztés 
+60562	B	H	10	:HK	of	:10/8	Egész osztály	T203	dr.	Kertainé Hagyó	Klára	Osztályfőnöki
+58462	B	H	10	:Ne	mat	:10/7	Egész osztály	T7	 	Neparáczkiné Kiss	Beatrix	Matematika
+54194	B	H	11	.MSzA	fizk	.1/13/T	vegy	fFsz6		Miskolcziné Szilágyi	Andrea	Fizikai kémia
+56433	B	H	11	.VeI	heg	.1/9/5	h2	Deri1	 	Vetró	István	Hegesztés 
+60567	B	H	11	:HK	mny	:10/8	Egész osztály	T203	dr.	Kertainé Hagyó	Klára	Magyar nyelv
+63267	B	H	11	:KLE	gépír	:2/12E	Gepirok	T302	 	Kajáriné Lestár	Erzsébet	Gépírás
+59367	B	H	11	:LO	of	:10/5	Egész osztály	T108	 	Luczay 	Orsolya	Osztályfőnöki
+58467	B	H	11	:Ne	mat	:10/7	Egész osztály	T7	 	Neparáczkiné Kiss	Beatrix	Matematika
+54200	B	H	12	.MSzA	fizk	.1/13/T	vegy	fFsz6		Miskolcziné Szilágyi	Andrea	Fizikai kémia
+56438	B	H	12	.VeI	heg	.1/9/5	h2	Deri1	 	Vetró	István	Hegesztés 
+60572	B	H	12	:HK	mny	:10/8	Egész osztály	T203	dr.	Kertainé Hagyó	Klára	Magyar nyelv
+63272	B	H	12	:KLE	gépír	:2/12E	Gepirok	T302	 	Kajáriné Lestár	Erzsébet	Gépírás
+56443	B	H	13	.VeI	heg	.1/9/5	h2	Deri1	 	Vetró	István	Hegesztés 
+63277	B	H	13	:KLE	gépír	:2/12E	Gepirok	T302	 	Kajáriné Lestár	Erzsébet	Gépírás
+53133	B	K	0	.KGK	inf++	.12/C	inf1	I1		Kálmánné Gát	Klára	Informatika fakultáció
+52247	B	K	1	.CsNE	szk	.12/C	R	f107	dr.	Csotó Nagy	Erzsébet	Szerves kémia I
+61118	B	K	1	.FK	mny	:9/5	1. csoport	T205		Fejes	Katalin Lilla	Magyar nyelv
+51989	B	K	1	.Hne	mat	.10/D	Egész osztály	f106	dr.	Horváth Gyuláné		Matematika
+51985	B	K	1	.IK	mat	.10/1	Egész osztály	k203		Izsó	Katalin	Matematika
+53420	B	K	1	.JG	inf	.1/9/4	burk	fI216		Janzsó	Gábor	Informatika
+53573	B	K	1	.KGK	inf	.2/10/1	gépl	fI218		Kálmánné Gát	Klára	Informatika
+53135	B	K	1	.SzJ	inf	.9/C	R1	I1		Szikora	János	Informatika
+57518	B	K	1	:BA	inf	:10.A.	Inf I	T3	 	Berczik	Andrea	Informatika
+64418	B	K	1	:CsL	szai	:2/12F	fenyezo	T310	 	Cseh	László	Szakmai alapismeret
+63518	B	K	1	:KB	inf	:10.B.	Inf II	T303	 	Kazi	Balázs Róbert	Informatika
+59018	B	K	1	:MTE	po	:9/7	1. csoport	T107	 	Mucsiné Turu	Erzsébet	Pályaorientáció
+58718	B	K	1	:Ne	mat	:9/4	2. csoport	T106	 	Neparáczkiné Kiss	Beatrix	Matematika
+63218	B	K	1	:PA	inf	:9/5	2. csoport	T302	 	Pásztor	Attila	Informatika
+59918	B	K	1	:TI	inf	:10.A.	Inf II	T111	 	Tóth	István János	Informatika
+52882	B	K	2	.Hne	mat	.11/D	Egész osztály	f112 	dr.	Horváth Gyuláné		Matematika
+52252	B	K	2	.IK	mat	.10/2	Egész osztály	f107		Izsó	Katalin	Matematika
+53143	B	K	2	.JG	inf	.9/C	V	I1		Janzsó	Gábor	Informatika
+53583	B	K	2	.KGK	inf	.2/10/1	gépl	fI218		Kálmánné Gát	Klára	Informatika
+51783	B	K	2	.MSzA	fizk	.12/C	V	f104		Miskolcziné Szilágyi	Andrea	Fizikai kémia
+52755	B	K	2	.PFne	rv	.11/C	Egész osztály	k207		Pálvölgyiné Szécsi	Valéria	Rajz és vizuális kultúra
+53426	B	K	2	.SM	inf	.1/9/4	k?m	fI216		Százné S?rés	Márta	Informatika
+52459	B	K	2	.VI	of	.2/10/3	Egész osztály	f109		Vidákovics	István	Osztályfőnöki
+57523	B	K	2	:BA	inf	:10.B.	Inf I	T3	 	Berczik	Andrea	Informatika
+59923	B	K	2	:KB	inf	:10.B.	Inf II	T111	 	Kazi	Balázs Róbert	Informatika
+59323	B	K	2	:LJne	fiz	:10.A.	Egész osztály	T108	 	L?rincz	Jánosné	Fizika
+59023	B	K	2	:MTE	po	:9/7	1. csoport	T107	 	Mucsiné Turu	Erzsébet	Pályaorientáció
+63223	B	K	2	:PA	inf	:9/4	2. csoport	T302	 	Pásztor	Attila	Informatika
+62023	B	K	2	:Sztne	mat	:12.A.	Egész osztály	T212	 	Sztankovics	Józsefné	Matematika
+51722	B	K	3	.Hne	mat	.12/C	Egész osztály	k201	dr.	Horváth Gyuláné		Matematika
+52260	B	K	3	.IK	mat	.10/2	Egész osztály	f107		Izsó	Katalin	Matematika
+52007	B	K	3	.KE	mat	.9/C	.9/C(V), .9/C(R2/2)	f106		Kosara	Erika	Matematika
+53593	B	K	3	.KGK	inf	.1/9/2	a	fI218		Kálmánné Gát	Klára	Informatika
+53928	B	K	3	.PTV	of	.10/3	Egész osztály	f209 		Tompa	Valéria	Osztályfőnöki
+53434	B	K	3	.SM	inf	.1/9/4	k?m	fI216		Százné S?rés	Márta	Informatika
+52765	B	K	3	.SzE	of	.11/C	Egész osztály	k207		Szilágyi	Emese	Osztályfőnöki
+53153	B	K	3	.SzJ	inf	.9/D	.9/D(eá1), .9/D(eá2)	I1		Szikora	János	Informatika
+57528	B	K	3	:BA	inf	:9/6	1. csoport	T3	 	Berczik	Andrea	Informatika
+60228	B	K	3	:LJne	mat	:10.B.	Egész osztály	T202	 	L?rincz	Jánosné	Matematika
+59928	B	K	3	:MM	inf	:11.B.	Inf II	T111	 	Máté	Mária	Informatika
+61428	B	K	3	:MSM	mny	:12.A.	Egész osztály	T206	 	Máhigné Stefanovits	Márta	Magyar nyelv
+63228	B	K	3	:PA	inf	:9/7	1. csoport	T302	 	Pásztor	Attila	Informatika
+61728	B	K	3	:SGyT	bio	:10.A.	Egész osztály	T208	 	Siposné Gyarmati	Teréz	Biológia
+64128	B	K	3	:SVI	mny	:9.A.	Egész osztály	T309	 	Székelyné Veres	Ilona	Magyar nyelv
+57828	B	K	3	:SzH	ák	:2/14B	elektr	T4	 	Szöll?si	Huba	Alkalmazott kémia
+57828	B	K	3	:SzH	ák	:2/14B	elektr	T4	 	Szöll?si	Huba	Általános kémia
+61128	B	K	3	:TKG	mat	:11.A.	Egész osztály	T205		Tolnainé Kern	Gabriella	Matematika
+53421	B	K	4	.Hne	mat	.9/1	c2	f206 	dr.	Horváth Gyuláné		Matematika
+53440	B	K	4	.JG	inf	.2/10/1	szell	fI216		Janzsó	Gábor	Informatika
+53938	B	K	4	.KE	mat	.10/3	Egész osztály	f209 		Kosara	Erika	Matematika
+53604	B	K	4	.KGK	inf	.10/C	R2	fI218		Kálmánné Gát	Klára	Informatika
+52017	B	K	4	.MSzA	of	.10/D	Egész osztály	f106		Miskolcziné Szilágyi	Andrea	Osztályfőnöki
+53163	B	K	4	.SzJ	inf	.10/C	R1	I1		Szikora	János	Informatika
+57533	B	K	4	:BA	inf	:11.A.	Inf I	T3	 	Berczik	Andrea	Informatika
+52012	B	K	4	:HG	rv	.10/1	Egész osztály	k203	 	Herczeg	Gabriella	Rajz és vizuális kultúra
+59933	B	K	4	:MM	inf	:11.B.	Inf II	T111	 	Máté	Mária	Informatika
+63233	B	K	4	:PA	inf	:11.A.	Inf II	T302	 	Pásztor	Attila	Informatika
+62033	B	K	4	:PL	mny	:9/4	2. csoport	T212	 	Pozsik	László	Magyar nyelv
+60233	B	K	4	:SGyT	kém	:10.A.	Egész osztály	T202	 	Siposné Gyarmati	Teréz	Kémia
+57833	B	K	4	:SzH	ák	:2/14B	elektr	T4	 	Szöll?si	Huba	Alkalmazott kémia
+57833	B	K	4	:SzH	ák	:2/14B	elektr	T4	 	Szöll?si	Huba	Általános kémia
+58433	B	K	4	:Sztne	fiz	:9.B.	Egész osztály	T7	 	Sztankovics	Józsefné	Fizika
+59033	B	K	4	:TKG	mat	:9/7	2. csoport	T107		Tolnainé Kern	Gabriella	Matematika
+58738	B	K	5	.FK	mny	:9/6	1. csoport	T106		Fejes	Katalin Lilla	Magyar nyelv
+55193	B	K	5	.IK	mat	.9/D	.9/D(eá1), .9/D(eá2)	f224		Izsó	Katalin	Matematika
+52678	B	K	5	.KA	of	.3/11/3	Egész osztály	f110 		Kiss	Antal	Osztályfőnöki
+54153	B	K	5	.KE	mat	.9/D	.9/D(ég1), .9/D(ég2)	f210 		Kosara	Erika	Matematika
+53612	B	K	5	.KGK	inf	.10/3	c2	fI218		Kálmánné Gát	Klára	Informatika
+59938	B	K	5	:BA	inf	:9.B.	Inf I	T111	 	Berczik	Andrea	Informatika
+63538	B	K	5	:KB	inf	:9.B.	Inf II	T303	 	Kazi	Balázs Róbert	Informatika
+61738	B	K	5	:MSM	mny	:12.B.	Egész osztály	T208	 	Máhigné Stefanovits	Márta	Magyar nyelv
+59038	B	K	5	:MTE	anyá	:2/12A	noi	T107	 	Mucsiné Turu	Erzsébet	Általános nyomdaipari alapismeretek
+62638	B	K	5	:NyM	mny	:9/5	2. csoport	T215	 	Nyári	Mariann	Magyar nyelv
+63238	B	K	5	:PA	inf	:2/12E	2. Csoport	T302	 	Pásztor	Attila	Informatika
+62938	B	K	5	:SGyT	bio	:2/14B	:2/14B(kozm1), :2/14B(kozm2)	T301	 	Siposné Gyarmati	Teréz	Biológia
+62038	B	K	5	:SVI	mny	:11.B.	Egész osztály	T212	 	Székelyné Veres	Ilona	Magyar nyelv
+57838	B	K	5	:SzH	ák	:2/14B	elektr	T4	 	Szöll?si	Huba	Alkalmazott kémia
+57838	B	K	5	:SzH	ák	:2/14B	elektr	T4	 	Szöll?si	Huba	Általános kémia
+59338	B	K	5	:Sztne	mat	:9.A.	Egész osztály	T108	 	Sztankovics	Józsefné	Matematika
+60238	B	K	5	:TKG	mat	:10.A.	Egész osztály	T202		Tolnainé Kern	Gabriella	Matematika
+52037	B	K	6	.Hne	mat	.9/1	c1	f106	dr.	Horváth Gyuláné		Matematika
+53079	B	K	6	.KE	of	.9/C	Egész osztály	f130 		Kosara	Erika	Osztályfőnöki
+53622	B	K	6	.KGK	inf	.10/D	gé	fI218		Kálmánné Gát	Klára	Informatika
+53442	B	K	6	.SM	inf++	.11/C, .11/D	inf2	fI216		Százné S?rés	Márta	Informatika fakultáció
+53175	B	K	6	.SzJ	inf++	.11/D	inf1	I1		Szikora	János	Informatika fakultáció
+57543	B	K	6	:BA	inf	:9.A.	inf 1	T3	 	Berczik	Andrea	Informatika
+64443	B	K	6	:CsL	szai	:2/12F	fenyezo	T310	 	Cseh	László	Szakmai alapismeret
+63543	B	K	6	:KB	inf	:9.B.	Inf II	T303	 	Kazi	Balázs Róbert	Informatika
+59943	B	K	6	:MM	inf	:9/4	1. csoport	T111	 	Máté	Mária	Informatika
+61143	B	K	6	:MSM	mny	:12.A.	Egész osztály	T205	 	Máhigné Stefanovits	Márta	Magyar nyelv
+59043	B	K	6	:MTE	anyá	:2/12A	noi	T107	 	Mucsiné Turu	Erzsébet	Általános nyomdaipari alapismeretek
+63243	B	K	6	:PA	inf	:2/12E	2. Csoport	T302	 	Pásztor	Attila	Informatika
+62043	B	K	6	:SVI	of	:11.B.	Egész osztály	T212	 	Székelyné Veres	Ilona	Osztályfőnöki
+57843	B	K	6	:SzH	ák	:2/14B	elektr	T4	 	Szöll?si	Huba	Alkalmazott kémia
+57843	B	K	6	:SzH	ák	:2/14B	elektr	T4	 	Szöll?si	Huba	Általános kémia
+61748	B	K	7	.CsA	kém	:10/7	Egész osztály	T208		Csorba	Attila	Kémia
+54577	B	K	7	.HK	of	.3/11/1	Egész osztály	f214		Huszár	Károly	Osztályfőnöki
+53632	B	K	7	.KGK	inf	.9/C	.9/C(R2/1), .9/C(R2/2)	fI218		Kálmánné Gát	Klára	Informatika
+53446	B	K	7	.SM	inf++	.11/C, .11/D	inf2	fI216		Százné S?rés	Márta	Informatika fakultáció
+53181	B	K	7	.SzJ	inf++	.11/D	inf1	I1		Szikora	János	Informatika fakultáció
+56414	B	K	7	.VeI	heg	.1/9/5	h2	Deri1	 	Vetró	István	Hegesztés 
+57548	B	K	7	:BA	inf	:10/6	1. csoport	T3	 	Berczik	Andrea	Informatika
+59948	B	K	7	:MM	inf	:10/8	1. csoport	T111	 	Máté	Mária	Informatika
+63248	B	K	7	:PA	inf	:10/8	2. csoport	T302	 	Pásztor	Attila	Informatika
+60548	B	K	7	:PME	anyá	:3/13A	noi	T203	 	Perényiné Miskolczi	Erzsébet	Általános nyomdaipari alapismeretek
+60248	B	K	7	:SGyT	kém	:10.B.	Egész osztály	T202	 	Siposné Gyarmati	Teréz	Kémia
+58448	B	K	7	:TKG	mat	:10.A.	Egész osztály	T7		Tolnainé Kern	Gabriella	Matematika
+56419	B	K	8	.VeI	heg	.1/9/5	h2	Deri1	 	Vetró	István	Hegesztés 
+63253	B	K	8	:KB	inf	:10/4	német II	T302	 	Kazi	Balázs Róbert	Informatika
+58453	B	K	8	:KoSK	mny	:10.A.	Egész osztály	T7	 	Komárominé Sipos	Katalin	Magyar nyelv
+59953	B	K	8	:MM	inf	:10/4	német I	T111	 	Máté	Mária	Informatika
+59353	B	K	8	:SVI	mny	:10/6	Egész osztály	T108	 	Székelyné Veres	Ilona	Magyar nyelv
+64153	B	K	8	:WA	bio	:10/7	Egész osztály	T309	 	Weiner	András	Biológia
+56424	B	K	9	.VeI	heg	.1/9/5	h2	Deri1	 	Vetró	István	Hegesztés 
+61758	B	K	9	:BLne	fiz	:10/7	Egész osztály	T208	 	Baár	Lászlóné	Fizika
+61158	B	K	9	:KoSK	po	:10/4	német II	T205	 	Komárominé Sipos	Katalin	Pályaorientáció
+59958	B	K	9	:MM	inf	:10/4	német I	T111	 	Máté	Mária	Informatika
+61458	B	K	9	:MSM	mny	:10/5	2. Csoport	T206	 	Máhigné Stefanovits	Márta	Magyar nyelv
+58458	B	K	9	:SVI	éz	:10/6	Egész osztály	T7	 	Székelyné Veres	Ilona	Ének-zene
+58758	B	K	9	:TZs	of	:2/12E	Egész osztály	T106	 	Tatár	Zsuzsanna	Osztályfőnöki
+56429	B	K	10	.VeI	heg	.1/9/5	h2	Deri1	 	Vetró	István	Hegesztés 
+58763	B	K	10	:Bu	mny	:10/5	1. Csoport	T106	 	Burkovics	Ferenc	Magyar nyelv
+61163	B	K	10	:KoSK	po	:10/4	német II	T205	 	Komárominé Sipos	Katalin	Pályaorientáció
+59963	B	K	10	:MM	inf	:2/12C	aszt	T111	 	Máté	Mária	Informatika
+61463	B	K	10	:MSM	mny	:10/5	2. Csoport	T206	 	Máhigné Stefanovits	Márta	Magyar nyelv
+58463	B	K	10	:SVI	éz	:10/7	Egész osztály	T7	 	Székelyné Veres	Ilona	Ének-zene
+56434	B	K	11	.VeI	heg	.1/9/5	h2	Deri1	 	Vetró	István	Hegesztés 
+58768	B	K	11	:Bu	mny	:10/5	1. Csoport	T106	 	Burkovics	Ferenc	Magyar nyelv
+63568	B	K	11	:KLE	gépír	:1/11D	gepiro	T303	 	Kajáriné Lestár	Erzsébet	Gépírás
+59968	B	K	11	:TBZS	inf	:2/12E	1. Csoport	T111	 	Tóthné Bíró	Zsuzsanna	Informatika
+58468	B	K	11	:WA	bio	:10/6	Egész osztály	T7	 	Weiner	András	Biológia
+56439	B	K	12	.VeI	heg	.1/9/5	h2	Deri1	 	Vetró	István	Hegesztés 
+58773	B	K	12	:BLne	mat	:10/6	Egész osztály	T106	 	Baár	Lászlóné	Matematika
+63573	B	K	12	:KLE	gépír	:1/11D	gepiro	T303	 	Kajáriné Lestár	Erzsébet	Gépírás
+59973	B	K	12	:TBZS	inf	:2/12E	1. Csoport	T111	 	Tóthné Bíró	Zsuzsanna	Informatika
+57573	B	K	12	:TI	inf	:2/12B	2. Csoport	T3	 	Tóth	István János	Informatika
+63273	B	K	12	:VT	inf	:2/12A	2. Csoport	T302	 	Varga	Tamás	Informatika
+56444	B	K	13	.VeI	heg	.1/9/5	h2	Deri1	 	Vetró	István	Hegesztés 
+58778	B	K	13	:BLne	mat	:10/6	Egész osztály	T106	 	Baár	Lászlóné	Matematika
+63578	B	K	13	:KLE	gépír	:1/11D	gepiro	T303	 	Kajáriné Lestár	Erzsébet	Gépírás
+63278	B	K	13	:VT	inf	:2/12A	2. Csoport	T302	 	Varga	Tamás	Informatika
+55265	B	P	0	.Ho	heg	.1/9/1	klíma	fheg		Hoffmann László		Hegesztés 
+61121	B	P	1	.FK	mny	:9/5	1. csoport	T205		Fejes	Katalin Lilla	Magyar nyelv
+52751	B	P	1	.Hne	mat	.11/C	Egész osztály	k207	dr.	Horváth Gyuláné		Matematika
+55275	B	P	1	.Ho	heg	.1/9/1	klíma	fheg		Hoffmann László		Hegesztés 
+51993	B	P	1	.IK	mat	.10/2	Egész osztály	f106		Izsó	Katalin	Matematika
+52651	B	P	1	.KE	mat	.9/C	.9/C(R1), .9/C(R2/1)	f110 		Kosara	Erika	Matematika
+59021	B	P	1	.PTV	po	:9/4	2. csoport	T107		Tompa	Valéria	Pályaorientáció
+53579	B	P	1	.SM	inf	.10/C	V	fI218		Százné S?rés	Márta	Informatika
+53139	B	P	1	.SzJ	inf	.10/D	vill	I1		Szikora	János	Informatika
+53397	B	P	1	.TM	po	.9/1	c2	f206 		Törköly	Magdolna	Pályaorientáció
+57521	B	P	1	:BA	inf	:10.B.	Inf I	T3	 	Berczik	Andrea	Informatika
+61421	B	P	1	:HBA	pszi	:11.B.	Egész osztály	T206	 	Hajduné Bihari	Ágnes	Pszichológia
+58421	B	P	1	:LJne	fiz	:10.A.	Egész osztály	T7	 	L?rincz	Jánosné	Fizika
+62921	B	P	1	:MTE	po	:9/4	1. csoport	T301	 	Mucsiné Turu	Erzsébet	Pályaorientáció
+63221	B	P	1	:PA	inf	:2/14B	kozm1	T302	 	Pásztor	Attila	Informatika
+58721	B	P	1	:PME	szai	:2/12E	karpit	T106	 	Perényiné Miskolczi	Erzsébet	Szakmai alapismeret
+60221	B	P	1	:SGyT	bio	:9.B.	Egész osztály	T202	 	Siposné Gyarmati	Teréz	Biológia
+63521	B	P	1	:TI	inf	:2/14B	kozm2	T303	 	Tóth	István János	Informatika
+52003	B	P	2	.Hne	mat	.11/D	Egész osztály	f106	dr.	Horváth Gyuláné		Matematika
+55285	B	P	2	.Ho	heg	.1/9/1	klíma	fheg		Hoffmann László		Hegesztés 
+53430	B	P	2	.JG	inf	.10/2	.10/2(eá1), .10/2(eá2)	fI216		Janzsó	Gábor	Informatika
+52659	B	P	2	.KE	mat	.9/C	.9/C(R1), .9/C(R2/1)	f110 		Kosara	Erika	Matematika
+54841	B	P	2	.PFne	rv	.12/D	Egész osztály	f215		Pálvölgyiné Szécsi	Valéria	Rajz és vizuális kultúra
+59026	B	P	2	.PTV	po	:9/4	2. csoport	T107		Tompa	Valéria	Pályaorientáció
+53589	B	P	2	.SM	inf	.9/D	.9/D(ég1), .9/D(ég2)	fI218		Százné S?rés	Márta	Informatika
+53149	B	P	2	.SzJ	inf	.9/3	13	I1		Szikora	János	Informatika
+57526	B	P	2	:BA	inf	:9/5	1. csoport	T3	 	Berczik	Andrea	Informatika
+61426	B	P	2	:HBA	pszi	:11.B.	Egész osztály	T206	 	Hajduné Bihari	Ágnes	Pszichológia
+64126	B	P	2	:KoSK	of	:10.A.	Egész osztály	T309	 	Komárominé Sipos	Katalin	Osztályfőnöki
+61126	B	P	2	:LJne	mat	:10.B.	Egész osztály	T205	 	L?rincz	Jánosné	Matematika
+59926	B	P	2	:MM	inf	:2/12C	aszt	T111	 	Máté	Mária	Informatika
+62926	B	P	2	:MTE	po	:9/4	1. csoport	T301	 	Mucsiné Turu	Erzsébet	Pályaorientáció
+62626	B	P	2	:NyM	mny	:9/5	2. csoport	T215	 	Nyári	Mariann	Magyar nyelv
+63226	B	P	2	:PA	inf	:2/14B	kozm1	T302	 	Pásztor	Attila	Informatika
+58726	B	P	2	:PME	szai	:2/12E	karpit	T106	 	Perényiné Miskolczi	Erzsébet	Szakmai alapismeret
+62326	B	P	2	:Ra	mat	:9/6	2. csoport	T214	 	Radóczi	Tibor	Matematika
+60226	B	P	2	:SGyT	kém	:9.B.	Egész osztály	T202	 	Siposné Gyarmati	Teréz	Kémia
+58426	B	P	2	:SVI	mny	:9.A.	Egész osztály	T7	 	Székelyné Veres	Ilona	Magyar nyelv
+63526	B	P	2	:TI	inf	:2/14B	kozm2	T303	 	Tóth	István János	Informatika
+59931	B	P	3	.FK	mny	:9/4	1. csoport	T111		Fejes	Katalin Lilla	Magyar nyelv
+54139	B	P	3	.Hne	mat	.10/D	Egész osztály	f210 	dr.	Horváth Gyuláné		Matematika
+55295	B	P	3	.Ho	heg	.1/9/1	klíma	fheg		Hoffmann László		Hegesztés 
+55040	B	P	3	.IK	mat	.9/2	elekt	f217		Izsó	Katalin	Matematika
+53438	B	P	3	.JG	inf	.9/1	c1	fI216		Janzsó	Gábor	Informatika
+53417	B	P	3	.KE	mat	.9/2	épít	f206 		Kosara	Erika	Matematika
+53600	B	P	3	.KGK	inf	.10/C	R2	fI218		Kálmánné Gát	Klára	Informatika
+53159	B	P	3	.SzJ	inf	.10/C	R1	I1		Szikora	János	Informatika
+57531	B	P	3	:BA	inf	:11.A.	Inf I	T3	 	Berczik	Andrea	Informatika
+61731	B	P	3	:BLne	mat	:9/6	1. csoport	T208	 	Baár	Lászlóné	Matematika
+61431	B	P	3	:HG	rv	:11.B.	Egész osztály	T206	 	Herczeg	Gabriella	Rajz és vizuális kultúra
+64131	B	P	3	:KoSK	mny	:10.A.	Egész osztály	T309	 	Komárominé Sipos	Katalin	Magyar nyelv
+62331	B	P	3	:LJne	of	:10.B.	Egész osztály	T214	 	L?rincz	Jánosné	Osztályfőnöki
+62631	B	P	3	:Ne	mat	:9/5	1. csoport	T215	 	Neparáczkiné Kiss	Beatrix	Matematika
+63831	B	P	3	:NyM	mny	:9/5	2. csoport	T308	 	Nyári	Mariann	Magyar nyelv
+63231	B	P	3	:PA	inf	:11.A.	Inf II	T302	 	Pásztor	Attila	Informatika
+62931	B	P	3	:PL	mny	:9/4	2. csoport	T301	 	Pozsik	László	Magyar nyelv
+58731	B	P	3	:PME	szai	:2/12E	karpit	T106	 	Perényiné Miskolczi	Erzsébet	Szakmai alapismeret
+60231	B	P	3	:SGyT	bio	:2/14A	Egész osztály	T202	 	Siposné Gyarmati	Teréz	Biológia
+62031	B	P	3	:SVI	mny	:9.A.	Egész osztály	T212	 	Székelyné Veres	Ilona	Magyar nyelv
+61131	B	P	3	:Sztne	fiz	:9.B.	Egész osztály	T205	 	Sztankovics	Józsefné	Fizika
+58431	B	P	3	:UM	of	:9/7	Egész osztály	T7	 	Urbán 	Marianna	Osztályfőnöki
+52276	B	P	4	.BM	of	.9/D	Egész osztály	f107		Gergelyné Bodó	Mária	Osztályfőnöki
+52023	B	P	4	.FE	of	.11/D	Egész osztály	f106		Figura	Eszter	Osztályfőnöki
+53264	B	P	4	.Hne	mat	.9/1	c2	f204 	dr.	Horváth Gyuláné		Matematika
+55303	B	P	4	.Ho	heg	.1/9/1	klíma	fheg		Hoffmann László		Hegesztés 
+53944	B	P	4	.KE	mat	.10/3	Egész osztály	f209 		Kosara	Erika	Matematika
+53608	B	P	4	.KGK	inf	.10/C	R2	fI218		Kálmánné Gát	Klára	Informatika
+51795	B	P	4	.MSzA	fizk	.12/C	V	f104		Miskolcziné Szilágyi	Andrea	Fizikai kémia
+54855	B	P	4	.PTV	mi	.12/D	Egész osztály	f215		Tompa	Valéria	Magyar irodalom
+53165	B	P	4	.SzJ	inf	.10/C	R1	I1		Szikora	János	Informatika
+57536	B	P	4	:BA	inf	:9/6	1. csoport	T3	 	Berczik	Andrea	Informatika
+63836	B	P	4	:BLne	mat	:9/5	2. csoport	T308	 	Baár	Lászlóné	Matematika
+61436	B	P	4	:HG	rv	:11.B.	Egész osztály	T206	 	Herczeg	Gabriella	Rajz és vizuális kultúra
+62936	B	P	4	:LJne	fiz	:10.B.	Egész osztály	T301	 	L?rincz	Jánosné	Fizika
+59936	B	P	4	:MM	inf	:9/6	2. csoport	T111	 	Máté	Mária	Informatika
+62036	B	P	4	:Ne	mat	:9/5	1. csoport	T212	 	Neparáczkiné Kiss	Beatrix	Matematika
+59036	B	P	4	:NM	mat	:9/7	1. csoport	T107	 	Németh	Magdolna	Matematika
+58736	B	P	4	:PME	szai	:2/12E	karpit	T106	 	Perényiné Miskolczi	Erzsébet	Szakmai alapismeret
+62336	B	P	4	:SGyT	of	:9.B.	Egész osztály	T214	 	Siposné Gyarmati	Teréz	Osztályfőnöki
+61136	B	P	4	:Sztne	mat	:9.A.	Egész osztály	T205	 	Sztankovics	Józsefné	Matematika
+60236	B	P	4	:TKG	mat	:11.A.	Egész osztály	T202		Tolnainé Kern	Gabriella	Matematika
+63236	B	P	4	:VT	inf	:2/12A	1. Csoport	T302	 	Varga	Tamás	Informatika
+60541	B	P	5	.FK	mny	:9/6	1. csoport	T203		Fejes	Katalin Lilla	Magyar nyelv
+55313	B	P	5	.Ho	heg	.1/9/1	klíma	fheg		Hoffmann László		Hegesztés 
+52286	B	P	5	.IK	mat	.9/D	.9/D(eá1), .9/D(eá2)	f107		Izsó	Katalin	Matematika
+53618	B	P	5	.KGK	inf++	.11/C	inf1	fI218		Kálmánné Gát	Klára	Informatika fakultáció
+54863	B	P	5	.PTV	mi	.12/D	Egész osztály	f215		Tompa	Valéria	Magyar irodalom
+53171	B	P	5	.SM	inf	.9/1	c2	I1		Százné S?rés	Márta	Informatika
+52028	B	P	5	.VPZs	of	.10/2	Egész osztály	k203		Vámos-Poljak Zsolt		Osztályfőnöki
+57541	B	P	5	:BA	inf	:12.A.	Inf I	T3	 	Berczik	Andrea	Informatika
+64141	B	P	5	:KoSK	mny	:10.A.	Egész osztály	T309	 	Komárominé Sipos	Katalin	Magyar nyelv
+62341	B	P	5	:LJne	mat	:9.B.	Egész osztály	T214	 	L?rincz	Jánosné	Matematika
+59341	B	P	5	:MM	of	:2/12C	Egész osztály	T108	 	Máté	Mária	Osztályfőnöki
+58741	B	P	5	:PME	szai	:2/12E	karpit	T106	 	Perényiné Miskolczi	Erzsébet	Szakmai alapismeret
+58441	B	P	5	:SGyT	bio	:10.B.	Egész osztály	T7	 	Siposné Gyarmati	Teréz	Biológia
+61141	B	P	5	:Sztne	fiz	:9.A.	Egész osztály	T205	 	Sztankovics	Józsefné	Fizika
+59941	B	P	5	:TI	inf	:12.A.	Inf II	T111	 	Tóth	István János	Informatika
+63241	B	P	5	:VT	inf	:2/12A	1. Csoport	T302	 	Varga	Tamás	Informatika
+62346	B	P	6	.FZs	fiz	:10/6	Egész osztály	T214	dr.	Tóthné Farkas	Zsuzsanna	Fizika
+55319	B	P	6	.Ho	heg	.1/9/1	klíma	fheg		Hoffmann László		Hegesztés 
+53628	B	P	6	.KGK	inf++	.11/C	inf1	fI218		Kálmánné Gát	Klára	Informatika fakultáció
+53177	B	P	6	.SM	inf	.10/3	c1	I1		Százné S?rés	Márta	Informatika
+64446	B	P	6	:CsL	szeri	:2/12F	kerekpar	T310	 	Cseh	László	Szerelési ismeretek
+51766	B	P	6	:HG	rv	.10/2	Egész osztály	k201	 	Herczeg	Gabriella	Rajz és vizuális kultúra
+59946	B	P	6	:MM	inf	:12.B.	Inf II	T111	 	Máté	Mária	Informatika
+59046	B	P	6	:NM	mat	:9/7	1. csoport	T107	 	Németh	Magdolna	Matematika
+57546	B	P	6	:PZ	inf	:12.B.	Inf I	T3		Pataki	Zoltán	Informatika
+64146	B	P	6	:RJ	po	:10/5	2. Csoport	T309	 	Rózsa	János	Pályaorientáció
+61746	B	P	6	:Sztne	mat	:12.A.	Egész osztály	T208	 	Sztankovics	Józsefné	Matematika
+58746	B	P	6	:TKG	mat	:9/7	2. csoport	T106		Tolnainé Kern	Gabriella	Matematika
+55323	B	P	7	.Ho	heg	.1/9/1	klíma	fheg		Hoffmann László		Hegesztés 
+60851	B	P	7	.PTV	po	:10/5	1. Csoport	T204		Tompa	Valéria	Pályaorientáció
+56417	B	P	7	.VeI	heg	.1/9/5	h2	Deri1	 	Vetró	István	Hegesztés 
+61151	B	P	7	:BLne	mat	:9/4	1. csoport	T205	 	Baár	Lászlóné	Matematika
+64451	B	P	7	:CsL	szeri	:2/12F	kerekpar	T310	 	Cseh	László	Szerelési ismeretek
+59951	B	P	7	:MM	inf	:2/12C	fod	T111	 	Máté	Mária	Informatika
+62351	B	P	7	:PL	of	:11.A.	Egész osztály	T214	 	Pozsik	László	Osztályfőnöki
+57551	B	P	7	:PZ	inf	:9/7	2. csoport	T3		Pataki	Zoltán	Informatika
+64151	B	P	7	:RJ	po	:10/5	2. Csoport	T309	 	Rózsa	János	Pályaorientáció
+60251	B	P	7	:SGyT	bio	:10/8	Egész osztály	T202	 	Siposné Gyarmati	Teréz	Biológia
+59351	B	P	7	:Sztne	mat	:10/4	német II	T108	 	Sztankovics	Józsefné	Matematika
+59051	B	P	7	:UM	mny	:9/7	1. csoport	T107	 	Urbán 	Marianna	Magyar nyelv
+58751	B	P	7	:VT	of	:2/12A	Egész osztály	T106	 	Varga	Tamás	Osztályfőnöki
+60856	B	P	8	.PTV	po	:10/5	1. Csoport	T204		Tompa	Valéria	Pályaorientáció
+56422	B	P	8	.VeI	heg	.1/9/5	h2	Deri1	 	Vetró	István	Hegesztés 
+61156	B	P	8	:BLne	mat	:9/4	1. csoport	T205	 	Baár	Lászlóné	Matematika
+59956	B	P	8	:MM	inf	:2/12C	fod	T111	 	Máté	Mária	Informatika
+64156	B	P	8	:RJ	po	:10/5	2. Csoport	T309	 	Rózsa	János	Pályaorientáció
+59356	B	P	8	:TBZS	of	:10/4	Egész osztály	T108	 	Tóthné Bíró	Zsuzsanna	Osztályfőnöki
+60256	B	P	8	:UM	mny	:9/7	1. csoport	T202	 	Urbán 	Marianna	Magyar nyelv
+56427	B	P	9	.VeI	heg	.1/9/5	h2	Deri1	 	Vetró	István	Hegesztés 
+58761	B	P	9	:KoSK	mny	:10/4	német II	T106	 	Komárominé Sipos	Katalin	Magyar nyelv
+59361	B	P	9	:Ne	mat	:10/4	német I	T108	 	Neparáczkiné Kiss	Beatrix	Matematika
+60561	B	P	9	:NyM	mh	:1/11D	gepiro	T203	 	Nyári	Mariann	Magyar helyesírás
+64161	B	P	9	:RJ	po	:10/5	2. Csoport	T309	 	Rózsa	János	Pályaorientáció
+61161	B	P	9	:SGyT	kém	:10/8	Egész osztály	T205	 	Siposné Gyarmati	Teréz	Kémia
+56432	B	P	10	.VeI	heg	.1/9/5	h2	Deri1	 	Vetró	István	Hegesztés 
+58766	B	P	10	:KoSK	mny	:10/4	német II	T106	 	Komárominé Sipos	Katalin	Magyar nyelv
+59966	B	P	10	:MM	inf	:10/8	1. csoport	T111	 	Máté	Mária	Informatika
+59366	B	P	10	:Ne	mat	:10/4	német I	T108	 	Neparáczkiné Kiss	Beatrix	Matematika
+60266	B	P	10	:NyM	mh	:1/11D	gepiro	T202	 	Nyári	Mariann	Magyar helyesírás
+56437	B	P	11	.VeI	heg	.1/9/5	h2	Deri1	 	Vetró	István	Hegesztés 
+63271	B	P	11	:UM	mh	:2/12E	Gepirok	T302	 	Urbán 	Marianna	Magyar helyesírás
+56442	B	P	12	.VeI	heg	.1/9/5	h2	Deri1	 	Vetró	István	Hegesztés 
+58476	B	P	12	:UM	mh	:2/12E	Gepirok	T7	 	Urbán 	Marianna	Magyar helyesírás
+51986	B	Sz	1	.IK	mat	.10/1	Egész osztály	k203		Izsó	Katalin	Matematika
+53575	B	Sz	1	.JG	inf	.9/3	12	fI218		Janzsó	Gábor	Informatika
+53910	B	Sz	1	.KE	mat	.10/3	Egész osztály	f209 		Kosara	Erika	Matematika
+57519	B	Sz	1	:BA	inf	:9.A.	inf 1	T3	 	Berczik	Andrea	Informatika
+61719	B	Sz	1	:BLne	mat	:9/4	1. csoport	T208	 	Baár	Lászlóné	Matematika
+62319	B	Sz	1	:NyM	mny	:9/6	2. csoport	T214	 	Nyári	Mariann	Magyar nyelv
+63219	B	Sz	1	:PA	inf	:9/5	2. csoport	T302	 	Pásztor	Attila	Informatika
+61419	B	Sz	1	:SVI	mny	:10.B.	Egész osztály	T206	 	Székelyné Veres	Ilona	Magyar nyelv
+63519	B	Sz	1	:TI	inf	:9.A.	inf 2	T303	 	Tóth	István János	Informatika
+51999	B	Sz	2	.Hne	mat	.11/D	Egész osztály	f106	dr.	Horváth Gyuláné		Matematika
+54837	B	Sz	2	.IK	mat	.12/D	Egész osztály	f215		Izsó	Katalin	Matematika
+53585	B	Sz	2	.JG	inf	.9/1	c1	fI218		Janzsó	Gábor	Informatika
+53245	B	Sz	2	.KE	mat	.9/3	12	f204 		Kosara	Erika	Matematika
+53145	B	Sz	2	.SM	inf	.9/1	c2	I1		Százné S?rés	Márta	Informatika
+51994	B	Sz	2	.TJ	of	.10/1	Egész osztály	k203		Telek	János	Osztályfőnöki
+57524	B	Sz	2	:BA	inf	:12.A.	Inf I	T3	 	Berczik	Andrea	Informatika
+59624	B	Sz	2	:BLne	of	:9/4	Egész osztály	T109	 	Baár	Lászlóné	Osztályfőnöki
+59324	B	Sz	2	:Bu	mny	:9.B.	Egész osztály	T108	 	Burkovics	Ferenc	Magyar nyelv
+53920	B	Sz	2	:HG	rv	.10/3	Egész osztály	f209 	 	Herczeg	Gabriella	Rajz és vizuális kultúra
+61424	B	Sz	2	:MSM	mny	:12.B.	Egész osztály	T206	 	Máhigné Stefanovits	Márta	Magyar nyelv
+63224	B	Sz	2	:PA	inf	:9/5	2. csoport	T302	 	Pásztor	Attila	Informatika
+62024	B	Sz	2	:SDZs	of	:3/13B	Egész osztály	T212	 	Seb?kné Dobos	Zsuzsanna	Osztályfőnöki
+61724	B	Sz	2	:SVI	mny	:9.A.	Egész osztály	T208	 	Székelyné Veres	Ilona	Magyar nyelv
+63524	B	Sz	2	:TI	inf	:12.A.	Inf II	T303	 	Tóth	István János	Informatika
+52004	B	Sz	3	.Hne	mat	.9/1	c1	k203	dr.	Horváth Gyuláné		Matematika
+54843	B	Sz	3	.IK	mat	.12/D	Egész osztály	f215		Izsó	Katalin	Matematika
+51724	B	Sz	3	.KB	of	.12/C	Egész osztály	k201		Klucsai	Barna	Osztályfőnöki
+52892	B	Sz	3	.KE	mat	.9/C	.9/C(V), .9/C(R2/2)	f112 		Kosara	Erika	Matematika
+51785	B	Sz	3	.MSzA	fizk	.11/C	vegy	f104		Miskolcziné Szilágyi	Andrea	Fizikai kémia
+54135	B	Sz	3	.PTV	po	.9/3	13	f210 		Tompa	Valéria	Pályaorientáció
+60229	B	Sz	3	:AN	kém	:9.A.	Egész osztály	T202	 	Asbóth	Norbert	Kémia
+57529	B	Sz	3	:BA	inf	:9/5	1. csoport	T3	 	Berczik	Andrea	Informatika
+59329	B	Sz	3	:Bu	mny	:9.B.	Egész osztály	T108	 	Burkovics	Ferenc	Magyar nyelv
+61429	B	Sz	3	:HG	rv	:12.B.	Egész osztály	T206	 	Herczeg	Gabriella	Rajz és vizuális kultúra
+60829	B	Sz	3	:KoJo	anym	:11.A.	nyomdász	T204	dr.	Körmendi	József	Anyagmegmunkálások
+59929	B	Sz	3	:MM	inf	:9/4	1. csoport	T111	 	Máté	Mária	Informatika
+63829	B	Sz	3	:NyM	mny	:9/7	2. csoport	T308	 	Nyári	Mariann	Magyar nyelv
+63229	B	Sz	3	:PA	inf	:9/4	2. csoport	T302	 	Pásztor	Attila	Informatika
+62629	B	Sz	3	:PME	anyá	:3/13A	noi	T215	 	Perényiné Miskolczi	Erzsébet	Általános nyomdaipari alapismeretek
+60529	B	Sz	3	:SVI	mny	:11.B.	Egész osztály	T203	 	Székelyné Veres	Ilona	Magyar nyelv
+57829	B	Sz	3	:SzH	ák	:2/14B	elektr	T4	 	Szöll?si	Huba	Alkalmazott kémia
+57829	B	Sz	3	:SzH	ák	:2/14B	elektr	T4	 	Szöll?si	Huba	Általános kémia
+52776	B	Sz	4	.Hne	mat	.11/C	Egész osztály	k207	dr.	Horváth Gyuláné		Matematika
+52272	B	Sz	4	.HT	of	.1/9/4	Egész osztály	f107		Habók	Tamás	Osztályfőnöki
+52900	B	Sz	4	.KE	mat	.9/C	.9/C(V), .9/C(R2/2)	f112 		Kosara	Erika	Matematika
+54851	B	Sz	4	.PTV	mi	.12/D	Egész osztály	f215		Tompa	Valéria	Magyar irodalom
+54145	B	Sz	4	.TM	of	.9/3	Egész osztály	f210 		Törköly	Magdolna	Osztályfőnöki
+57534	B	Sz	4	:BA	inf	:9/5	1. csoport	T3	 	Berczik	Andrea	Informatika
+63834	B	Sz	4	:BLne	mat	:9/5	2. csoport	T308	 	Baár	Lászlóné	Matematika
+61434	B	Sz	4	:HG	rv	:12.B.	Egész osztály	T206	 	Herczeg	Gabriella	Rajz és vizuális kultúra
+60834	B	Sz	4	:KoJo	anym	:11.A.	nyomdász	T204	dr.	Körmendi	József	Anyagmegmunkálások
+59934	B	Sz	4	:MM	inf	:2/12F	1. Csoport	T111	 	Máté	Mária	Informatika
+61134	B	Sz	4	:MSM	mny	:12.A.	Egész osztály	T205	 	Máhigné Stefanovits	Márta	Magyar nyelv
+60234	B	Sz	4	:NyM	of	:9/6	Egész osztály	T202	 	Nyári	Mariann	Osztályfőnöki
+63234	B	Sz	4	:PA	inf	:2/12F	2. Csoport	T302	 	Pásztor	Attila	Informatika
+59034	B	Sz	4	:PME	anyá	:3/13A	noi	T107	 	Perényiné Miskolczi	Erzsébet	Általános nyomdaipari alapismeretek
+60534	B	Sz	4	:SGyT	ak	:11.B.	Egész osztály	T203	 	Siposné Gyarmati	Teréz	Alkalmazott kémia
+60534	B	Sz	4	:SGyT	ak	:11.B.	Egész osztály	T203	 	Siposné Gyarmati	Teréz	Általános kémia
+57834	B	Sz	4	:SzH	ák	:2/14B	elektr	T4	 	Szöll?si	Huba	Alkalmazott kémia
+57834	B	Sz	4	:SzH	ák	:2/14B	elektr	T4	 	Szöll?si	Huba	Általános kémia
+58434	B	Sz	4	:Sztne	of	:9.A.	Egész osztály	T7	 	Sztankovics	Józsefné	Osztályfőnöki
+52908	B	Sz	5	.CsF	of	.2/10/1	Egész osztály	f112 	 	Cseh	Ferenc	Osztályfőnöki
+60539	B	Sz	5	.FK	mny	:9/4	1. csoport	T203		Fejes	Katalin Lilla	Magyar nyelv
+54155	B	Sz	5	.HK	of	.3/11/1	Egész osztály	f210 		Huszár	Károly	Osztályfőnöki
+53074	B	Sz	5	.Hne	mat	.10/D	Egész osztály	f130 	dr.	Horváth Gyuláné		Matematika
+53270	B	Sz	5	.IK	mat	.9/2	elekt	f204 		Izsó	Katalin	Matematika
+53653	B	Sz	5	.KE	mat	.10/C	Egész osztály	f207 		Kosara	Erika	Matematika
+53614	B	Sz	5	.KGK	inf	.1/9/2	a	fI218		Kálmánné Gát	Klára	Informatika
+53169	B	Sz	5	.SM	inf	.10/1	A1 	I1		Százné S?rés	Márta	Informatika
+58739	B	Sz	5	:AN	bio	:9.A.	Egész osztály	T106	 	Asbóth	Norbert	Biológia
+57539	B	Sz	5	:BA	inf	:10.A.	Inf I	T3	 	Berczik	Andrea	Informatika
+60839	B	Sz	5	:KoJo	anym	:11.A.	nyomdász	T204	dr.	Körmendi	József	Anyagmegmunkálások
+61439	B	Sz	5	:LJne	mat	:10.B.	Egész osztály	T206	 	L?rincz	Jánosné	Matematika
+59939	B	Sz	5	:MM	inf	:2/12F	1. Csoport	T111	 	Máté	Mária	Informatika
+63839	B	Sz	5	:MTE	po	:9/6	1. csoport	T308	 	Mucsiné Turu	Erzsébet	Pályaorientáció
+59339	B	Sz	5	:MZ	of	:2/12B	Egész osztály	T108	 	Martincsek	Zoltán	Osztályfőnöki
+58439	B	Sz	5	:Ne	of	:9/5	Egész osztály	T7	 	Neparáczkiné Kiss	Beatrix	Osztályfőnöki
+63239	B	Sz	5	:PA	inf	:2/12F	2. Csoport	T302	 	Pásztor	Attila	Informatika
+62639	B	Sz	5	:PME	anyá	:3/13A	noi	T215	 	Perényiné Miskolczi	Erzsébet	Általános nyomdaipari alapismeretek
+60239	B	Sz	5	:Ra	mat	:9/6	2. csoport	T202	 	Radóczi	Tibor	Matematika
+57839	B	Sz	5	:SzH	ák	:2/14B	elektr	T4	 	Szöll?si	Huba	Alkalmazott kémia
+57839	B	Sz	5	:SzH	ák	:2/14B	elektr	T4	 	Szöll?si	Huba	Általános kémia
+63539	B	Sz	5	:TI	inf	:10.A.	Inf II	T303	 	Tóth	István János	Informatika
+52789	B	Sz	6	.Hne	mat	.12/C	Egész osztály	k207	dr.	Horváth Gyuláné		Matematika
+51817	B	Sz	6	.NT	inf++	.11/D	A1	f222		Németh	Tamás	Informatika fakultáció
+64444	B	Sz	6	:CsL	szeri	:2/12F	kerekpar	T310	 	Cseh	László	Szerelési ismeretek
+60544	B	Sz	6	:GLK	mat	:12.B.	Egész osztály	T203	 	Geráné Lippay 	Klára	Matematika
+60844	B	Sz	6	:KoJo	anym	:11.A.	nyomdász	T204	dr.	Körmendi	József	Anyagmegmunkálások
+58744	B	Sz	6	:LJne	mat	:9.B.	Egész osztály	T106	 	L?rincz	Jánosné	Matematika
+59944	B	Sz	6	:MM	inf	:2/12B	1. Csoport	T111	 	Máté	Mária	Informatika
+63844	B	Sz	6	:MTE	po	:9/6	1. csoport	T308	 	Mucsiné Turu	Erzsébet	Pályaorientáció
+60244	B	Sz	6	:Ne	mat	:9/5	1. csoport	T202	 	Neparáczkiné Kiss	Beatrix	Matematika
+63244	B	Sz	6	:PA	inf	:10/8	2. csoport	T302	 	Pásztor	Attila	Informatika
+57844	B	Sz	6	:SzH	irtec	:2/12F	mchmusz	T4	 	Szöll?si	Huba	Irányítástechnika
+58444	B	Sz	6	:Sztne	mat	:10/5	2. Csoport	T7	 	Sztankovics	Józsefné	Matematika
+57544	B	Sz	6	:TI	inf	:2/12B	2. Csoport	T3	 	Tóth	István János	Informatika
+61444	B	Sz	6	:TKG	mat	:10.A.	Egész osztály	T206		Tolnainé Kern	Gabriella	Matematika
+53183	B	Sz	7	.KGK	inf++	.11/D	A1	I1		Kálmánné Gát	Klára	Informatika fakultáció
+56415	B	Sz	7	.VeI	heg	.1/9/5	h2	Deri1	 	Vetró	István	Hegesztés 
+63849	B	Sz	7	:Bu	mny	:10/5	1. Csoport	T308	 	Burkovics	Ferenc	Magyar nyelv
+64449	B	Sz	7	:CsL	szeri	:2/12F	kerekpar	T310	 	Cseh	László	Szerelési ismeretek
+64149	B	Sz	7	:GLK	mat	:11.B.	Egész osztály	T309	 	Geráné Lippay 	Klára	Matematika
+60849	B	Sz	7	:KoJo	anym	:11.A.	nyomdász	T204	dr.	Körmendi	József	Anyagmegmunkálások
+58749	B	Sz	7	:LJne	mat	:9.B.	Egész osztály	T106	 	L?rincz	Jánosné	Matematika
+59949	B	Sz	7	:MM	inf	:9/6	2. csoport	T111	 	Máté	Mária	Informatika
+60549	B	Sz	7	:Ne	mat	:9/4	2. csoport	T203	 	Neparáczkiné Kiss	Beatrix	Matematika
+57849	B	Sz	7	:SzH	irtec	:2/12F	mchmusz	T4	 	Szöll?si	Huba	Irányítástechnika
+58449	B	Sz	7	:Sztne	mat	:10/5	2. Csoport	T7	 	Sztankovics	Józsefné	Matematika
+61749	B	Sz	7	:UM	mh	:2/12E	Gepirok	T208	 	Urbán 	Marianna	Magyar helyesírás
+53187	B	Sz	8	.KGK	inf	.2/10/3	fest?1	I1		Kálmánné Gát	Klára	Informatika
+56420	B	Sz	8	.VeI	heg	.1/9/5	h2	Deri1	 	Vetró	István	Hegesztés 
+64454	B	Sz	8	:CsL	szeri	:2/12F	kerekpar	T310	 	Cseh	László	Szerelési ismeretek
+60854	B	Sz	8	:KoJo	anym	:11.A.	nyomdász	T204	dr.	Körmendi	József	Anyagmegmunkálások
+60554	B	Sz	8	:Ne	mat	:9/4	2. csoport	T203	 	Neparáczkiné Kiss	Beatrix	Matematika
+59954	B	Sz	8	:WA	bio	:10/7	Egész osztály	T111	 	Weiner	András	Biológia
+56425	B	Sz	9	.VeI	heg	.1/9/5	h2	Deri1	 	Vetró	István	Hegesztés 
+59959	B	Sz	9	:MM	inf	:2/14A	2. Csoport	T111	 	Máté	Mária	Informatika
+58759	B	Sz	9	:Ne	mat	:10/7	Egész osztály	T106	 	Neparáczkiné Kiss	Beatrix	Matematika
+61159	B	Sz	9	:TKG	mat	:10/8	Egész osztály	T205		Tolnainé Kern	Gabriella	Matematika
+56430	B	Sz	10	.VeI	heg	.1/9/5	h2	Deri1	 	Vetró	István	Hegesztés 
+59964	B	Sz	10	:MM	inf	:2/14A	2. Csoport	T111	 	Máté	Mária	Informatika
+58764	B	Sz	10	:Ne	mat	:10/7	Egész osztály	T106	 	Neparáczkiné Kiss	Beatrix	Matematika
+61764	B	Sz	10	:TKG	mat	:10/8	Egész osztály	T208		Tolnainé Kern	Gabriella	Matematika
+56435	B	Sz	11	.VeI	heg	.1/9/5	h2	Deri1	 	Vetró	István	Hegesztés 
+57569	B	Sz	11	:KB	inf	:10/5	2. Csoport	T3	 	Kazi	Balázs Róbert	Informatika
+63269	B	Sz	11	:KLE	gépír	:2/12E	Gepirok	T302	 	Kajáriné Lestár	Erzsébet	Gépírás
+59969	B	Sz	11	:KoSK	mny	:10/4	német II	T111	 	Komárominé Sipos	Katalin	Magyar nyelv
+58469	B	Sz	11	:MSZ	mny	:10/7	Egész osztály	T7	 	Bönditzné Magyar	Szilvia	Magyar nyelv
+58769	B	Sz	11	:MTE	po	:10/4	német I	T106	 	Mucsiné Turu	Erzsébet	Pályaorientáció
+59369	B	Sz	11	:Ne	mat	:10/5	1. Csoport	T108	 	Neparáczkiné Kiss	Beatrix	Matematika
+56440	B	Sz	12	.VeI	heg	.1/9/5	h2	Deri1	 	Vetró	István	Hegesztés 
+57574	B	Sz	12	:KB	inf	:10/5	2. Csoport	T3	 	Kazi	Balázs Róbert	Informatika
+63274	B	Sz	12	:KLE	gépír	:2/12E	Gepirok	T302	 	Kajáriné Lestár	Erzsébet	Gépírás
+58474	B	Sz	12	:MTE	po	:10/4	német I	T7	 	Mucsiné Turu	Erzsébet	Pályaorientáció
+59374	B	Sz	12	:Ne	mat	:10/5	1. Csoport	T108	 	Neparáczkiné Kiss	Beatrix	Matematika
+59074	B	Sz	12	:PME	szai	:2/12A	noi	T107	 	Perényiné Miskolczi	Erzsébet	Szakmai alapismeret
+56445	B	Sz	13	.VeI	heg	.1/9/5	h2	Deri1	 	Vetró	István	Hegesztés 
+63279	B	Sz	13	:KLE	gépír	:2/12E	Gepirok	T302	 	Kajáriné Lestár	Erzsébet	Gépírás
+58479	B	Sz	13	:Ne	mat	:10/4	német I	T7	 	Neparáczkiné Kiss	Beatrix	Matematika
+59079	B	Sz	13	:PME	szai	:2/12A	noi	T107	 	Perényiné Miskolczi	Erzsébet	Szakmai alapismeret
+52053	C	Cs	1	.Hne	mat	.11/D	Egész osztály	k203	dr.	Horváth Gyuláné		Matematika
+54191	C	Cs	1	.IK	mat	.9/3	13	f210 		Izsó	Katalin	Matematika
+53087	C	Cs	1	.KE	mat	.9/C	.9/C(V), .9/C(R2/2)	f130 		Kosara	Erika	Matematika
+59695	C	Cs	1	:HBA	önti	:10.B.	Egész osztály	T109	 	Hajduné Bihari	Ágnes	Ön- és társadalomismeret
+62395	C	Cs	1	:HG	rv	:10/6	Egész osztály	T214	 	Herczeg	Gabriella	Rajz és vizuális kultúra
+59395	C	Cs	1	:KoSK	po	:10/4	német II	T108	 	Komárominé Sipos	Katalin	Pályaorientáció
+60295	C	Cs	1	:LJne	mat	:9.B.	Egész osztály	T202	 	L?rincz	Jánosné	Matematika
+59095	C	Cs	1	:MTE	po	:9/4	1. csoport	T107	 	Mucsiné Turu	Erzsébet	Pályaorientáció
+60895	C	Cs	1	:Ne	mat	:9/4	2. csoport	T204	 	Neparáczkiné Kiss	Beatrix	Matematika
+60595	C	Cs	1	:NyM	mny	:9/5	2. csoport	T203	 	Nyári	Mariann	Magyar nyelv
+63595	C	Cs	1	:PZ	inf	:9/7	2. csoport	T303		Pataki	Zoltán	Informatika
+63895	C	Cs	1	:SzG	mny	:10/4	német I	T308	 	Szabó	Gábor	Magyar nyelv
+55218	C	Cs	2	.Hne	mat	.9/1	c2	f224	dr.	Horváth Gyuláné		Matematika
+53453	C	Cs	2	.JG	inf	.9/C	V	fI216		Janzsó	Gábor	Informatika
+53306	C	Cs	2	.KE	mat	.9/2	épít	f204 		Kosara	Erika	Matematika
+53460	C	Cs	2	.PTV	po	.9/1	c1	f206 		Tompa	Valéria	Pályaorientáció
+53210	C	Cs	2	.SM	inf	.10/3	c1	I1		Százné S?rés	Márta	Informatika
+59700	C	Cs	2	:HBA	önti	:10.B.	Egész osztály	T109	 	Hajduné Bihari	Ágnes	Ön- és társadalomismeret
+62400	C	Cs	2	:HG	rv	:10/6	Egész osztály	T214	 	Herczeg	Gabriella	Rajz és vizuális kultúra
+59400	C	Cs	2	:KoSK	po	:10/4	német II	T108	 	Komárominé Sipos	Katalin	Pályaorientáció
+63000	C	Cs	2	:MI	ak	:1/13B	kozm	T301	dr.	Molnár	István	Alkalmazott kémia
+63000	C	Cs	2	:MI	ak	:1/13B	kozm	T301	dr.	Molnár	István	Általános kémia
+59100	C	Cs	2	:MTE	po	:9/4	1. csoport	T107	 	Mucsiné Turu	Erzsébet	Pályaorientáció
+63900	C	Cs	2	:Ne	mat	:10/4	német I	T308	 	Neparáczkiné Kiss	Beatrix	Matematika
+61800	C	Cs	2	:NM	mat	:9/7	1. csoport	T208	 	Németh	Magdolna	Matematika
+63600	C	Cs	2	:PZ	inf	:9/7	2. csoport	T303		Pataki	Zoltán	Informatika
+60600	C	Cs	2	:Ra	mat	:9/6	2. csoport	T203	 	Radóczi	Tibor	Matematika
+60300	C	Cs	2	:SGyT	of	:9.B.	Egész osztály	T202	 	Siposné Gyarmati	Teréz	Osztályfőnöki
+61500	C	Cs	2	:SVI	mny	:9.A.	Egész osztály	T206	 	Székelyné Veres	Ilona	Magyar nyelv
+60605	C	Cs	3	.CsA	kém	:10/6	Egész osztály	T203		Csorba	Attila	Kémia
+51813	C	Cs	3	.Hne	mat	.12/C	Egész osztály	k201	dr.	Horváth Gyuláné		Matematika
+53973	C	Cs	3	.IK	mat	.9/2	elekt	f209 		Izsó	Katalin	Matematika
+53669	C	Cs	3	.JG	inf	.9/3	12	fI218		Janzsó	Gábor	Informatika
+52825	C	Cs	3	.PFne	rv	.11/C	Egész osztály	k207		Pálvölgyiné Szécsi	Valéria	Rajz és vizuális kultúra
+55714	C	Cs	3	.RZs	of	.2/10/2	Egész osztály	k108		Rabi	Zsolt	Osztályfőnöki
+61505	C	Cs	3	:BLne	mat	:9/5	2. csoport	T206	 	Baár	Lászlóné	Matematika
+64205	C	Cs	3	:GLK	mat	:12.B.	Egész osztály	T309	 	Geráné Lippay 	Klára	Matematika
+58505	C	Cs	3	:HK	mny	:10/8	Egész osztály	T7	dr.	Kertainé Hagyó	Klára	Magyar nyelv
+62405	C	Cs	3	:MSZ	mny	:10/7	Egész osztály	T214	 	Bönditzné Magyar	Szilvia	Magyar nyelv
+57905	C	Cs	3	:Ne	mat	:9/5	1. csoport	T4	 	Neparáczkiné Kiss	Beatrix	Matematika
+61205	C	Cs	3	:NyM	mny	:9/6	2. csoport	T205	 	Nyári	Mariann	Magyar nyelv
+63305	C	Cs	3	:PA	inf	:9/4	2. csoport	T302	 	Pásztor	Attila	Informatika
+58805	C	Cs	3	:PL	mny	:11.A.	Egész osztály	T106	 	Pozsik	László	Magyar nyelv
+63605	C	Cs	3	:PZ	inf	:11.B.	1. Csoport	T303		Pataki	Zoltán	Informatika
+60305	C	Cs	3	:SVI	mny	:9.A.	Egész osztály	T202	 	Székelyné Veres	Ilona	Magyar nyelv
+59405	C	Cs	3	:Sztne	fiz	:9.B.	Egész osztály	T108	 	Sztankovics	Józsefné	Fizika
+64505	C	Cs	3	:UM	mny	:9/7	1. csoport	T310	 	Urbán 	Marianna	Magyar nyelv
+53323	C	Cs	4	.CsA	of	.9/2	Egész osztály	f204 		Csorba	Attila	Osztályfőnöki
+51827	C	Cs	4	.Hne	mat	.12/C	Egész osztály	k201	dr.	Horváth Gyuláné		Matematika
+53704	C	Cs	4	.KE	mat	.10/C	Egész osztály	f207 		Kosara	Erika	Matematika
+52740	C	Cs	4	.MSzA	of	.10/D	Egész osztály	f110 		Miskolcziné Szilágyi	Andrea	Osztályfőnöki
+52519	C	Cs	4	.ZM	of	.1/9/3	Egész osztály	f109		Zimmer	Márta	Osztályfőnöki
+57610	C	Cs	4	:BA	inf	:9/5	1. csoport	T3	 	Berczik	Andrea	Informatika
+59410	C	Cs	4	:BLne	of	:9/4	Egész osztály	T108	 	Baár	Lászlóné	Osztályfőnöki
+60610	C	Cs	4	:HK	of	:10/8	Egész osztály	T203	dr.	Kertainé Hagyó	Klára	Osztályfőnöki
+61210	C	Cs	4	:MSM	mny	:12.B.	Egész osztály	T205	 	Máhigné Stefanovits	Márta	Magyar nyelv
+64510	C	Cs	4	:NyM	mny	:9/5	2. csoport	T310	 	Nyári	Mariann	Magyar nyelv
+63310	C	Cs	4	:PA	inf	:9/7	1. csoport	T302	 	Pásztor	Attila	Informatika
+58810	C	Cs	4	:PL	mny	:11.A.	Egész osztály	T106	 	Pozsik	László	Magyar nyelv
+63610	C	Cs	4	:PZ	inf	:11.B.	1. Csoport	T303		Pataki	Zoltán	Informatika
+57910	C	Cs	4	:SGyT	bio	:1/13B	kozm	T4	 	Siposné Gyarmati	Teréz	Biológia
+58510	C	Cs	4	:SVI	éz	:10/7	Egész osztály	T7	 	Székelyné Veres	Ilona	Ének-zene
+61810	C	Cs	4	:Sztne	mat	:9.A.	Egész osztály	T208	 	Sztankovics	Józsefné	Matematika
+63910	C	Cs	4	:TKG	mat	:9/7	2. csoport	T308		Tolnainé Kern	Gabriella	Matematika
+52748	C	Cs	5	.Hne	mat	.10/D	Egész osztály	f110 	dr.	Horváth Gyuláné		Matematika
+53683	C	Cs	5	.JG	inf	.9/1	c1	fI218		Janzsó	Gábor	Informatika
+53993	C	Cs	5	.KE	mat	.9/3	12	f209 		Kosara	Erika	Matematika
+51855	C	Cs	5	.MSzA	fizk	.12/C	V	f104		Miskolcziné Szilágyi	Andrea	Fizikai kémia
+54644	C	Cs	5	.MV	of	.2/10/5	Egész osztály	f214		Marton	Viktor	Osztályfőnöki
+54914	C	Cs	5	.PTV	mi	.12/D	Egész osztály	f215		Tompa	Valéria	Magyar irodalom
+52527	C	Cs	5	.VKE	köv	.10/3	Egész osztály	f109		Váradiné	Kása Edit	Környezetvédelem
+59415	C	Cs	5	:GLK	mat	:11.B.	Egész osztály	T108	 	Geráné Lippay 	Klára	Matematika
+57615	C	Cs	5	:KB	inf	:1/11E	Inf I	T3	 	Kazi	Balázs Róbert	Informatika
+60015	C	Cs	5	:MM	inf	:1/11C	1. Csoport	T111	 	Máté	Mária	Informatika
+63315	C	Cs	5	:PA	inf	:1/11E	Inf II	T302	 	Pásztor	Attila	Informatika
+63615	C	Cs	5	:PZ	inf	:9/R	Egész osztály	T303		Pataki	Zoltán	Informatika
+58815	C	Cs	5	:SGyT	kém	:9.B.	Egész osztály	T106	 	Siposné Gyarmati	Teréz	Kémia
+63915	C	Cs	5	:SzG	mny	:10/4	német I	T308	 	Szabó	Gábor	Magyar nyelv
+61815	C	Cs	5	:Sztne	mat	:10/4	német II	T208	 	Sztankovics	Józsefné	Matematika
+62415	C	Cs	5	:TKG	mat	:11.A.	Egész osztály	T214		Tolnainé Kern	Gabriella	Matematika
+64215	C	Cs	5	:WA	bio	:10/6	Egész osztály	T309	 	Weiner	András	Biológia
+62120	C	Cs	6	.CsA	kém	:10/7	Egész osztály	T212		Csorba	Attila	Kémia
+54411	C	Cs	6	.IK	mat	.9/D	.9/D(eá1), .9/D(eá2)	f212		Izsó	Katalin	Matematika
+52535	C	Cs	6	.JG	of	.12/D	Egész osztály	f109		Janzsó	Gábor	Osztályfőnöki
+53123	C	Cs	6	.KE	mat	.9/C	.9/C(R1), .9/C(R2/1)	f130 		Kosara	Erika	Matematika
+57620	C	Cs	6	:BA	inf	:10.B.	Inf I	T3	 	Berczik	Andrea	Informatika
+59420	C	Cs	6	:GLK	mat	:11.B.	Egész osztály	T108	 	Geráné Lippay 	Klára	Matematika
+61520	C	Cs	6	:HG	rv	:10/8	Egész osztály	T206	 	Herczeg	Gabriella	Rajz és vizuális kultúra
+63020	C	Cs	6	:JCsE	szai	:1/13A	Egész osztály	T301	 	Jovánné Császár	Edit	Szakmai alapismeret
+60020	C	Cs	6	:MM	inf	:1/11C	1. Csoport	T111	 	Máté	Mária	Informatika
+62420	C	Cs	6	:NM	mat	:9/7	1. csoport	T214	 	Németh	Magdolna	Matematika
+64220	C	Cs	6	:NyM	of	:9/6	Egész osztály	T309	 	Nyári	Mariann	Osztályfőnöki
+63320	C	Cs	6	:PA	inf	:1/11C	2. Csoport	T302	 	Pásztor	Attila	Informatika
+63620	C	Cs	6	:PZ	inf	:9/R	Egész osztály	T303		Pataki	Zoltán	Informatika
+60320	C	Cs	6	:SGyT	bio	:9.B.	Egész osztály	T202	 	Siposné Gyarmati	Teréz	Biológia
+61820	C	Cs	6	:Sztne	fiz	:9.A.	Egész osztály	T208	 	Sztankovics	Józsefné	Fizika
+63920	C	Cs	6	:TKG	mat	:9/7	2. csoport	T308		Tolnainé Kern	Gabriella	Matematika
+54413	C	Cs	7	.PSz	of	.1/9/1	Egész osztály	f212	 	Pappné Pap	Szilvia	Osztályfőnöki
+57625	C	Cs	7	:BA	inf	:10/7	1. csoport	T3	 	Berczik	Andrea	Informatika
+64225	C	Cs	7	:CsL	of	:1/11E	Egész osztály	T309	 	Cseh	László	Osztályfőnöki
+61525	C	Cs	7	:HG	rv	:10/8	Egész osztály	T206	 	Herczeg	Gabriella	Rajz és vizuális kultúra
+63325	C	Cs	7	:KB	inf	:10/7	2. csoport	T302	 	Kazi	Balázs Róbert	Informatika
+59725	C	Cs	7	:MI	ak	:1/13A	Egész osztály	T109	dr.	Molnár	István	Alkalmazott kémia
+59725	C	Cs	7	:MI	ak	:1/13A	Egész osztály	T109	dr.	Molnár	István	Általános kémia
+60025	C	Cs	7	:MM	inf	:12.B.	Inf II	T111	 	Máté	Mária	Informatika
+58525	C	Cs	7	:MSM	mny	:12.A.	Egész osztály	T7	 	Máhigné Stefanovits	Márta	Magyar nyelv
+63625	C	Cs	7	:PZ	inf	:12.B.	Inf I	T303		Pataki	Zoltán	Informatika
+60325	C	Cs	7	:SGyT	ak	:11.B.	Egész osztály	T202	 	Siposné Gyarmati	Teréz	Alkalmazott kémia
+60325	C	Cs	7	:SGyT	ak	:11.B.	Egész osztály	T202	 	Siposné Gyarmati	Teréz	Általános kémia
+58825	C	Cs	7	:UM	of	:9/7	Egész osztály	T106	 	Urbán 	Marianna	Osztályfőnöki
+59430	C	Cs	8	:JCsE	of	:1/11B	Egész osztály	T108	 	Jovánné Császár	Edit	Osztályfőnöki
+60030	C	Cs	8	:MM	inf	:12.B.	Inf II	T111	 	Máté	Mária	Informatika
+63630	C	Cs	8	:PZ	inf	:12.B.	Inf I	T303		Pataki	Zoltán	Informatika
+57635	C	Cs	9	:KB	inf	:1/13B	kiadv	T3	 	Kazi	Balázs Róbert	Informatika
+63335	C	Cs	9	:UM	mh	:2/12E	Gepirok	T302	 	Urbán 	Marianna	Magyar helyesírás
+63040	C	Cs	10	:AN	of	:1/13A	Egész osztály	T301	 	Asbóth	Norbert	Osztályfőnöki
+60040	C	Cs	10	:TBZS	inf	:1/11D	Inf II	T111	 	Tóthné Bíró	Zsuzsanna	Informatika
+63640	C	Cs	10	:TI	inf	:1/11D	Inf I	T303	 	Tóth	István János	Informatika
+63340	C	Cs	10	:UM	mh	:2/12E	Gepirok	T302	 	Urbán 	Marianna	Magyar helyesírás
+63045	C	Cs	11	:AN	bio	:1/13A	Egész osztály	T301	 	Asbóth	Norbert	Biológia
+63345	C	Cs	11	:KLE	gépír	:2/12E	Gepirok	T302	 	Kajáriné Lestár	Erzsébet	Gépírás
+60045	C	Cs	11	:TBZS	inf	:1/11D	Inf II	T111	 	Tóthné Bíró	Zsuzsanna	Informatika
+63645	C	Cs	11	:TI	inf	:1/11D	Inf I	T303	 	Tóth	István János	Informatika
+63350	C	Cs	12	:KLE	gépír	:2/12E	Gepirok	T302	 	Kajáriné Lestár	Erzsébet	Gépírás
+63355	C	Cs	13	:KLE	gépír	:2/12E	Gepirok	T302	 	Kajáriné Lestár	Erzsébet	Gépírás
+55365	C	H	0	.VeI	heg	.1/9/2	bgy	fheg	 	Vetró	István	Hegesztés 
+61192	C	H	1	.CsA	kém	:10/6	Egész osztály	T205		Csorba	Attila	Kémia
+60592	C	H	1	.FK	mny	:9/4	1. csoport	T203		Fejes	Katalin Lilla	Magyar nyelv
+53646	C	H	1	.JG	inf	.1/9/1	.1/9/1(gepl1), .1/9/1(gepl2)	fI218		Janzsó	Gábor	Informatika
+53290	C	H	1	.KE	mat	.9/2	épít	f204 		Kosara	Erika	Matematika
+53451	C	H	1	.KGK	inf++	.11/D	A1	fI216		Kálmánné Gát	Klára	Informatika fakultáció
+51826	C	H	1	.NT	inf++	.12/C	inf1	f222		Németh	Tamás	Informatika fakultáció
+52491	C	H	1	.SET	of	.3/11/2	fest	f109	 	Sáróné Erdei	Tünde	Osztályfőnöki
+53198	C	H	1	.SzJ	inf	.9/3	13	I1		Szikora	János	Informatika
+52054	C	H	1	.TJ	of	.10/1	Egész osztály	f106		Telek	János	Osztályfőnöki
+52924	C	H	1	.TM	po	.9/3	12	f112 		Törköly	Magdolna	Pályaorientáció
+55369	C	H	1	.VeI	heg	.1/9/2	bgy	fheg	 	Vetró	István	Hegesztés 
+58492	C	H	1	:MSZ	of	:10/7	Egész osztály	T7	 	Bönditzné Magyar	Szilvia	Osztályfőnöki
+63292	C	H	1	:PA	inf	:10/8	2. csoport	T302	 	Pásztor	Attila	Informatika
+60292	C	H	1	:SGyT	kém	:10.B.	Egész osztály	T202	 	Siposné Gyarmati	Teréz	Kémia
+61492	C	H	1	:SzG	mny	:10/4	német I	T206	 	Szabó	Gábor	Magyar nyelv
+59692	C	H	1	:Sztne	mat	:10/4	német II	T109	 	Sztankovics	Józsefné	Matematika
+61792	C	H	1	:UM	mny	:9/7	1. csoport	T208	 	Urbán 	Marianna	Magyar nyelv
+61197	C	H	2	.FZs	fiz	:10/6	Egész osztály	T205	dr.	Tóthné Farkas	Zsuzsanna	Fizika
+52926	C	H	2	.Hne	mat	.10/D	Egész osztály	f112 	dr.	Horváth Gyuláné		Matematika
+53957	C	H	2	.IK	mat	.9/D	.9/D(eá1), .9/D(eá2)	f209 		Izsó	Katalin	Matematika
+53456	C	H	2	.KE	mat	.9/3	12	f206 		Kosara	Erika	Matematika
+53656	C	H	2	.KGK	inf	.10/C	R2	fI218		Kálmánné Gát	Klára	Informatika
+54884	C	H	2	.PTV	mi	.12/D	Egész osztály	f215		Tompa	Valéria	Magyar irodalom
+55700	C	H	2	.RZs	of	.2/10/2	Egész osztály	k108		Rabi	Zsolt	Osztályfőnöki
+53204	C	H	2	.SzJ	inf	.10/C	R1	I1		Szikora	János	Informatika
+55375	C	H	2	.VeI	heg	.1/9/2	bgy	fheg	 	Vetró	István	Hegesztés 
+60597	C	H	2	:BLne	mat	:9/4	1. csoport	T203	 	Baár	Lászlóné	Matematika
+52055	C	H	2	:HG	rv	.11/D	Egész osztály	k203	 	Herczeg	Gabriella	Rajz és vizuális kultúra
+59997	C	H	2	:MM	inf	:10/4	német I	T111	 	Máté	Mária	Informatika
+62097	C	H	2	:Ne	mat	:10/7	Egész osztály	T212	 	Neparáczkiné Kiss	Beatrix	Matematika
+63297	C	H	2	:PA	inf	:9/4	2. csoport	T302	 	Pásztor	Attila	Informatika
+60297	C	H	2	:SGyT	bio	:10.A.	Egész osztály	T202	 	Siposné Gyarmati	Teréz	Biológia
+58497	C	H	2	:SVI	éz	:10.B.	Egész osztály	T7	 	Székelyné Veres	Ilona	Ének-zene
+59697	C	H	2	:Sztne	mat	:10/4	német II	T109	 	Sztankovics	Józsefné	Matematika
+64197	C	H	2	:TKG	mat	:10/8	Egész osztály	T309		Tolnainé Kern	Gabriella	Matematika
+61797	C	H	2	:UM	mny	:9/7	1. csoport	T208	 	Urbán 	Marianna	Magyar nyelv
+52063	C	H	3	.Hne	mat	.11/D	Egész osztály	k203	dr.	Horváth Gyuláné		Matematika
+52074	C	H	3	.IK	mat	.10/1	Egész osztály	f106		Izsó	Katalin	Matematika
+54393	C	H	3	.KE	mat	.9/D	.9/D(ég1), .9/D(ég2)	f212		Kosara	Erika	Matematika
+53664	C	H	3	.KGK	inf	.10/C	R2	fI218		Kálmánné Gát	Klára	Informatika
+53095	C	H	3	.MV	of	.2/10/5	Egész osztály	f130 		Marton	Viktor	Osztályfőnöki
+51806	C	H	3	.PFne	rv	.12/C	Egész osztály	k201		Pálvölgyiné Szécsi	Valéria	Rajz és vizuális kultúra
+54894	C	H	3	.PTV	mi	.12/D	Egész osztály	f215		Tompa	Valéria	Magyar irodalom
+53457	C	H	3	.SM	inf	.10/C	V	fI216		Százné S?rés	Márta	Informatika
+53214	C	H	3	.SzJ	inf	.10/C	R1	I1		Szikora	János	Informatika
+55381	C	H	3	.VeI	heg	.1/9/2	bgy	fheg	 	Vetró	István	Hegesztés 
+60302	C	H	3	:AN	bio	:9.A.	Egész osztály	T202	 	Asbóth	Norbert	Biológia
+64202	C	H	3	:BLne	mat	:10/6	Egész osztály	T309	 	Baár	Lászlóné	Matematika
+57602	C	H	3	:KB	inf	:10/5	2. Csoport	T3	 	Kazi	Balázs Róbert	Informatika
+61502	C	H	3	:SVI	mny	:11.B.	Egész osztály	T206	 	Székelyné Veres	Ilona	Magyar nyelv
+59402	C	H	3	:Sztne	mat	:12.A.	Egész osztály	T108	 	Sztankovics	Józsefné	Matematika
+60602	C	H	3	:TBZS	of	:10/4	Egész osztály	T203	 	Tóthné Bíró	Zsuzsanna	Osztályfőnöki
+52073	C	H	4	.Hne	mat	.11/D	Egész osztály	k203	dr.	Horváth Gyuláné		Matematika
+52084	C	H	4	.IK	mat	.10/2	Egész osztály	f106		Izsó	Katalin	Matematika
+53463	C	H	4	.JG	inf	.9/3	12	fI216		Janzsó	Gábor	Informatika
+53977	C	H	4	.KE	mat	.10/3	Egész osztály	f209 		Kosara	Erika	Matematika
+55387	C	H	4	.VeI	heg	.1/9/2	bgy	fheg	 	Vetró	István	Hegesztés 
+53701	C	H	4	.VL	of	.10/C	Egész osztály	f207 		Vér	László	Osztályfőnöki
+58507	C	H	4	:HK	mny	:10/8	Egész osztály	T7	dr.	Kertainé Hagyó	Klára	Magyar nyelv
+57607	C	H	4	:KB	inf	:10/4	német II	T3	 	Kazi	Balázs Róbert	Informatika
+59407	C	H	4	:LO	of	:10/5	Egész osztály	T108	 	Luczay 	Orsolya	Osztályfőnöki
+64207	C	H	4	:MSM	mny	:12.A.	Egész osztály	T309	 	Máhigné Stefanovits	Márta	Magyar nyelv
+63907	C	H	4	:Ne	mat	:10/4	német I	T308	 	Neparáczkiné Kiss	Beatrix	Matematika
+63307	C	H	4	:PA	inf	:9/7	1. csoport	T302	 	Pásztor	Attila	Informatika
+60307	C	H	4	:SGyT	kém	:9.B.	Egész osztály	T202	 	Siposné Gyarmati	Teréz	Kémia
+62107	C	H	4	:Sztne	mat	:9.A.	Egész osztály	T212	 	Sztankovics	Józsefné	Matematika
+57907	C	H	4	:TKG	mat	:9/7	2. csoport	T4		Tolnainé Kern	Gabriella	Matematika
+61807	C	H	4	:TZs	ügyv	:11.B.	Egész osztály	T208	 	Tatár	Zsuzsanna	Ügyvitel
+60007	C	H	4	:WA	bio	:10/7	Egész osztály	T111	 	Weiner	András	Biológia
+52081	C	H	5	.Hne	mat	.12/C	Egész osztály	k203	dr.	Horváth Gyuláné		Matematika
+54910	C	H	5	.IK	mat	.12/D	Egész osztály	f215		Izsó	Katalin	Matematika
+53469	C	H	5	.JG	inf	.10/2	.10/2(eá1), .10/2(eá2)	fI216		Janzsó	Gábor	Informatika
+51851	C	H	5	.MSzA	fizk	.11/C	vegy	f104		Miskolcziné Szilágyi	Andrea	Fizikai kémia
+55391	C	H	5	.VeI	heg	.1/9/2	bgy	fheg	 	Vetró	István	Hegesztés 
+57612	C	H	5	:BA	inf	:9.A.	inf 1	T3	 	Berczik	Andrea	Informatika
+59712	C	H	5	:BLne	fiz	:10/7	Egész osztály	T109	 	Baár	Lászlóné	Fizika
+60612	C	H	5	:KoSK	mny	:10.A.	Egész osztály	T203	 	Komárominé Sipos	Katalin	Magyar nyelv
+60912	C	H	5	:MSM	mny	:10/5	2. Csoport	T204	 	Máhigné Stefanovits	Márta	Magyar nyelv
+63312	C	H	5	:PA	inf	:10/5	1. Csoport	T302	 	Pásztor	Attila	Informatika
+60312	C	H	5	:SGyT	bio	:10/8	Egész osztály	T202	 	Siposné Gyarmati	Teréz	Biológia
+58512	C	H	5	:SVI	mny	:10.B.	Egész osztály	T7	 	Székelyné Veres	Ilona	Magyar nyelv
+63612	C	H	5	:TI	inf	:9.A.	inf 2	T303	 	Tóth	István János	Informatika
+58812	C	H	5	:TKG	mat	:11.A.	Egész osztály	T106		Tolnainé Kern	Gabriella	Matematika
+52847	C	H	6	.Hne	mat	.11/C	Egész osztály	k207	dr.	Horváth Gyuláné		Matematika
+54918	C	H	6	.IK	mat	.12/D	Egész osztály	f215		Izsó	Katalin	Matematika
+53687	C	H	6	.KGK	inf	.10/3	c2	fI218		Kálmánné Gát	Klára	Informatika
+51857	C	H	6	.MSzA	fizk	.12/C	V	f104		Miskolcziné Szilágyi	Andrea	Fizikai kémia
+54221	C	H	6	.PSz	of	.1/9/1	Egész osztály	f210 	 	Pappné Pap	Szilvia	Osztályfőnöki
+59417	C	H	6	.TM	po	:9/7	2. csoport	T108		Törköly	Magdolna	Pályaorientáció
+55397	C	H	6	.VeI	heg	.1/9/2	bgy	fheg	 	Vetró	István	Hegesztés 
+57617	C	H	6	:BA	inf	:9.A.	inf 1	T3	 	Berczik	Andrea	Informatika
+58817	C	H	6	:GLK	mat	:11.B.	Egész osztály	T106	 	Geráné Lippay 	Klára	Matematika
+52091	C	H	6	:HG	rv	.10/2	Egész osztály	k203	 	Herczeg	Gabriella	Rajz és vizuális kultúra
+60017	C	H	6	:KB	inf	:10/4	német II	T111	 	Kazi	Balázs Róbert	Informatika
+60617	C	H	6	:PL	mny	:11.A.	Egész osztály	T203	 	Pozsik	László	Magyar nyelv
+60317	C	H	6	:SGyT	bio	:9.B.	Egész osztály	T202	 	Siposné Gyarmati	Teréz	Biológia
+58517	C	H	6	:SVI	mny	:10.B.	Egész osztály	T7	 	Székelyné Veres	Ilona	Magyar nyelv
+63617	C	H	6	:TI	inf	:9.A.	inf 2	T303	 	Tóth	István János	Informatika
+61517	C	H	6	:TKG	mat	:10.A.	Egész osztály	T206		Tolnainé Kern	Gabriella	Matematika
+61822	C	H	7	.FK	mny	:9/4	1. csoport	T208		Fejes	Katalin Lilla	Magyar nyelv
+61522	C	H	7	.PTV	po	:9/4	2. csoport	T206		Tompa	Valéria	Pályaorientáció
+53693	C	H	7	.SM	inf++	.12/C	inf1	fI218		Százné S?rés	Márta	Informatika fakultáció
+53242	C	H	7	.SzJ	inf++	.12/D, .12/C	.12/D(Szt), .12/C(inf2)	I1		Szikora	János	Informatika fakultáció
+59422	C	H	7	.TM	po	:9/7	2. csoport	T108		Törköly	Magdolna	Pályaorientáció
+55403	C	H	7	.VeI	heg	.1/9/2	bgy	fheg	 	Vetró	István	Hegesztés 
+57622	C	H	7	:BA	inf	:9.B.	Inf I	T3	 	Berczik	Andrea	Informatika
+63922	C	H	7	:CsL	szai	:1/11E	fenyezo	T308	 	Cseh	László	Szakmai alapismeret
+60022	C	H	7	:KB	inf	:9.B.	Inf II	T111	 	Kazi	Balázs Róbert	Informatika
+59722	C	H	7	:KoSK	mny	:10/4	német II	T109	 	Komárominé Sipos	Katalin	Magyar nyelv
+58522	C	H	7	:SVI	éz	:9.A.	Egész osztály	T7	 	Székelyné Veres	Ilona	Ének-zene
+64222	C	H	7	:SzG	mny	:10/4	német I	T309	 	Szabó	Gábor	Magyar nyelv
+51860	C	H	8	.MSzA	köv	.2/14/T	vegy	f104		Miskolcziné Szilágyi	Andrea	Környezetvédelem
+61527	C	H	8	.PTV	po	:9/4	2. csoport	T206		Tompa	Valéria	Pályaorientáció
+53699	C	H	8	.SM	inf++	.12/C	inf1	fI218		Százné S?rés	Márta	Informatika fakultáció
+53248	C	H	8	.SzJ	inf++	.12/D, .12/C	.12/D(Szt), .12/C(inf2)	I1		Szikora	János	Informatika fakultáció
+57627	C	H	8	:BA	inf	:9.B.	Inf I	T3	 	Berczik	Andrea	Informatika
+63927	C	H	8	:CsL	szai	:1/11E	fenyezo	T308	 	Cseh	László	Szakmai alapismeret
+60027	C	H	8	:KB	inf	:10.B.	Inf II	T111	 	Kazi	Balázs Róbert	Informatika
+60327	C	H	8	:NyM	mny	:9/7	2. csoport	T202	 	Nyári	Mariann	Magyar nyelv
+59427	C	H	8	:PME	anyá	:1/11D	karpitos	T108	 	Perényiné Miskolczi	Erzsébet	Általános nyomdaipari alapismeretek
+51861	C	H	9	.MSzA	fizk	.2/14/T	vegy	f104		Miskolcziné Szilágyi	Andrea	Fizikai kémia
+63932	C	H	9	:CsL	szai	:1/11E	fenyezo	T308	 	Cseh	László	Szakmai alapismeret
+51863	C	H	10	.MSzA	fizk	.2/14/T	vegy	f104		Miskolcziné Szilágyi	Andrea	Fizikai kémia
+63937	C	H	10	:CsL	szai	:1/11E	fenyezo	T308	 	Cseh	László	Szakmai alapismeret
+54259	C	H	11	.MSzA	fizk	.1/13/T	vegy	fFsz6		Miskolcziné Szilágyi	Andrea	Fizikai kémia
+63642	C	H	11	:KLE	gépír	:1/11D	gepiro	T303	 	Kajáriné Lestár	Erzsébet	Gépírás
+63647	C	H	12	:KLE	gépír	:1/11D	gepiro	T303	 	Kajáriné Lestár	Erzsébet	Gépírás
+63652	C	H	13	:KLE	gépír	:1/11D	gepiro	T303	 	Kajáriné Lestár	Erzsébet	Gépírás
+59452	C	H	13	:PME	szai	:1/11D	karpitos	T108	 	Perényiné Miskolczi	Erzsébet	Szakmai alapismeret
+57893	C	K	1	.FK	mny	:9/6	1. csoport	T4		Fejes	Katalin Lilla	Magyar nyelv
+52805	C	K	1	.Hne	mat	.11/C	Egész osztály	k207	dr.	Horváth Gyuláné		Matematika
+53648	C	K	1	.JG	inf	.2/10/2	.2/10/2(víz1), .2/10/2(víz2)	fI218		Janzsó	Gábor	Informatika
+53674	C	K	1	.KE	mat	.10/C	Egész osztály	f207 		Kosara	Erika	Matematika
+63593	C	K	1	.SM	inf	:1/11A	2. Csoport	T303		Százné S?rés	Márta	Informatika
+53200	C	K	1	.SzJ	inf	.2/10/2	gáz	I1		Szikora	János	Informatika
+57593	C	K	1	:BA	inf	:10/7	1. csoport	T3	 	Berczik	Andrea	Informatika
+62093	C	K	1	:BLne	mat	:9/5	2. csoport	T212	 	Baár	Lászlóné	Matematika
+61193	C	K	1	:LJne	mat	:10.B.	Egész osztály	T205	 	L?rincz	Jánosné	Matematika
+59093	C	K	1	:MTE	po	:10/4	német I	T107	 	Mucsiné Turu	Erzsébet	Pályaorientáció
+60893	C	K	1	:Ne	mat	:9/5	1. csoport	T204	 	Neparáczkiné Kiss	Beatrix	Matematika
+63893	C	K	1	:NM	mat	:9/7	1. csoport	T308	 	Németh	Magdolna	Matematika
+63293	C	K	1	:PA	inf	:1/11A	1. Csoport	T302	 	Pásztor	Attila	Informatika
+60293	C	K	1	:SGyT	kém	:10.A.	Egész osztály	T202	 	Siposné Gyarmati	Teréz	Kémia
+61793	C	K	1	:SVI	of	:11.B.	Egész osztály	T208	 	Székelyné Veres	Ilona	Osztályfőnöki
+52813	C	K	2	.Hne	mat	.11/C	Egész osztály	k207	dr.	Horváth Gyuláné		Matematika
+53658	C	K	2	.KGK	inf	.2/10/5	vill	fI218		Kálmánné Gát	Klára	Informatika
+54387	C	K	2	.PG	of	.1/9/5	Egész osztály	f212		Prihoda	Gábor	Osztályfőnöki
+53206	C	K	2	.SzJ	inf	.2/10/2	gáz	I1		Szikora	János	Informatika
+57598	C	K	2	:BA	inf	:12.A.	Inf I	T3	 	Berczik	Andrea	Informatika
+57898	C	K	2	:BLne	mat	:9/6	1. csoport	T4	 	Baár	Lászlóné	Matematika
+60898	C	K	2	:Bu	mny	:10/5	1. Csoport	T204	 	Burkovics	Ferenc	Magyar nyelv
+62698	C	K	2	:KoSK	mny	:10/4	német II	T215	 	Komárominé Sipos	Katalin	Magyar nyelv
+61198	C	K	2	:LJne	fiz	:10.B.	Egész osztály	T205	 	L?rincz	Jánosné	Fizika
+59098	C	K	2	:MTE	po	:10/4	német I	T107	 	Mucsiné Turu	Erzsébet	Pályaorientáció
+62398	C	K	2	:Ne	mat	:10/7	Egész osztály	T214	 	Neparáczkiné Kiss	Beatrix	Matematika
+58498	C	K	2	:NyM	mny	:9/6	2. csoport	T7	 	Nyári	Mariann	Magyar nyelv
+63298	C	K	2	:PA	inf	:1/11E	Inf II	T302	 	Pásztor	Attila	Informatika
+60298	C	K	2	:SGyT	kém	:10/8	Egész osztály	T202	 	Siposné Gyarmati	Teréz	Kémia
+61798	C	K	2	:SVI	mny	:11.B.	Egész osztály	T208	 	Székelyné Veres	Ilona	Magyar nyelv
+63598	C	K	2	:TI	inf	:12.A.	Inf II	T303	 	Tóth	István János	Informatika
+58798	C	K	2	:TKG	mat	:10.A.	Egész osztály	T106		Tolnainé Kern	Gabriella	Matematika
+53466	C	K	3	.DT	of	.2/10/4	Egész osztály	f206 		Dani	Tibor	Osztályfőnöki
+52076	C	K	3	.IK	mat	.10/1	Egész osztály	f106		Izsó	Katalin	Matematika
+53666	C	K	3	.KGK	inf	.2/10/5	vill	fI218		Kálmánné Gát	Klára	Informatika
+59103	C	K	3	.PTV	po	:9/5	2. csoport	T107		Tompa	Valéria	Pályaorientáció
+59403	C	K	3	.SM	fiz	:10/8	Egész osztály	T108		Százné S?rés	Márta	Fizika
+60003	C	K	3	:Bu	mny	:10/5	1. Csoport	T111	 	Burkovics	Ferenc	Magyar nyelv
+61503	C	K	3	:HG	rv	:11.A.	Egész osztály	T206	 	Herczeg	Gabriella	Rajz és vizuális kultúra
+64203	C	K	3	:LJne	mat	:9.B.	Egész osztály	T309	 	L?rincz	Jánosné	Matematika
+57903	C	K	3	:MSM	mny	:10/5	2. Csoport	T4	 	Máhigné Stefanovits	Márta	Magyar nyelv
+60303	C	K	3	:SGyT	ak	:11.B.	Egész osztály	T202	 	Siposné Gyarmati	Teréz	Alkalmazott kémia
+60303	C	K	3	:SGyT	ak	:11.B.	Egész osztály	T202	 	Siposné Gyarmati	Teréz	Általános kémia
+61803	C	K	3	:SVI	mi	:10/6	Egész osztály	T208	 	Székelyné Veres	Ilona	Magyar irodalom
+61203	C	K	3	:Sztne	mat	:9.A.	Egész osztály	T205	 	Sztankovics	Józsefné	Matematika
+59708	C	K	4	.CsA	kém	:10/7	Egész osztály	T109		Csorba	Attila	Kémia
+53979	C	K	4	.KE	mat	.10/3	Egész osztály	f209 		Kosara	Erika	Matematika
+53673	C	K	4	.KGK	inf	.2/10/4	k?m	fI218		Kálmánné Gát	Klára	Informatika
+59108	C	K	4	.PTV	po	:9/5	2. csoport	T107		Tompa	Valéria	Pályaorientáció
+53222	C	K	4	.SzJ	inf	.1/9/5	gumi	I1		Szikora	János	Informatika
+57608	C	K	4	:BA	inf	:9/5	1. csoport	T3	 	Berczik	Andrea	Informatika
+62408	C	K	4	:Bu	mny	:9.B.	Egész osztály	T214	 	Burkovics	Ferenc	Magyar nyelv
+60308	C	K	4	:HBA	pszi	:11.B.	Egész osztály	T202	 	Hajduné Bihari	Ágnes	Pszichológia
+61508	C	K	4	:HG	rv	:11.A.	Egész osztály	T206	 	Herczeg	Gabriella	Rajz és vizuális kultúra
+59408	C	K	4	:KoSK	mny	:10.A.	Egész osztály	T108	 	Komárominé Sipos	Katalin	Magyar nyelv
+58808	C	K	4	:MSM	mny	:12.B.	Egész osztály	T106	 	Máhigné Stefanovits	Márta	Magyar nyelv
+63908	C	K	4	:Ne	mat	:10/4	német I	T308	 	Neparáczkiné Kiss	Beatrix	Matematika
+61808	C	K	4	:SGyT	bio	:10.B.	Egész osztály	T208	 	Siposné Gyarmati	Teréz	Biológia
+64208	C	K	4	:SVI	mny	:9.A.	Egész osztály	T309	 	Székelyné Veres	Ilona	Magyar nyelv
+64508	C	K	4	:Sztne	mat	:10/4	német II	T310	 	Sztankovics	Józsefné	Matematika
+61208	C	K	4	:WA	bio	:10/6	Egész osztály	T205	 	Weiner	András	Biológia
+62713	C	K	5	.FK	mny	:9/5	1. csoport	T215		Fejes	Katalin Lilla	Magyar nyelv
+53989	C	K	5	.KE	mat	.10/3	Egész osztály	f209 		Kosara	Erika	Matematika
+53681	C	K	5	.KGK	inf	.2/10/4	k?m	fI218		Kálmánné Gát	Klára	Informatika
+53230	C	K	5	.SzJ	inf	.1/9/5	gumi	I1		Szikora	János	Informatika
+57613	C	K	5	:BA	inf	:10.B.	Inf I	T3	 	Berczik	Andrea	Informatika
+58513	C	K	5	:BLne	mat	:10/6	Egész osztály	T7	 	Baár	Lászlóné	Matematika
+62413	C	K	5	:Bu	mny	:9.B.	Egész osztály	T214	 	Burkovics	Ferenc	Magyar nyelv
+60313	C	K	5	:HBA	pszi	:11.B.	Egész osztály	T202	 	Hajduné Bihari	Ágnes	Pszichológia
+63613	C	K	5	:KB	inf	:10.B.	Inf II	T303	 	Kazi	Balázs Róbert	Informatika
+59413	C	K	5	:KoSK	mny	:10.A.	Egész osztály	T108	 	Komárominé Sipos	Katalin	Magyar nyelv
+60013	C	K	5	:MM	inf	:10/8	1. csoport	T111	 	Máté	Mária	Informatika
+58813	C	K	5	:MSM	mny	:12.B.	Egész osztály	T106	 	Máhigné Stefanovits	Márta	Magyar nyelv
+64513	C	K	5	:MTE	po	:9/7	1. csoport	T310	 	Mucsiné Turu	Erzsébet	Pályaorientáció
+63913	C	K	5	:Ne	mat	:10/4	német I	T308	 	Neparáczkiné Kiss	Beatrix	Matematika
+63313	C	K	5	:PA	inf	:9/5	2. csoport	T302	 	Pásztor	Attila	Informatika
+61213	C	K	5	:PL	mny	:11.A.	Egész osztály	T205	 	Pozsik	László	Magyar nyelv
+52848	C	K	6	.KB	of	.12/C	Egész osztály	k207		Klucsai	Barna	Osztályfőnöki
+53491	C	K	6	.KE	mat	.9/C	.9/C(R1), .9/C(R2/1)	f206 		Kosara	Erika	Matematika
+53689	C	K	6	.KGK	inf++	.11/C	inf1	fI218		Kálmánné Gát	Klára	Informatika fakultáció
+53471	C	K	6	.SM	inf++	.11/C, .11/D	inf2	fI216		Százné S?rés	Márta	Informatika fakultáció
+53236	C	K	6	.SzJ	inf++	.11/D	inf1	I1		Szikora	János	Informatika fakultáció
+57618	C	K	6	:BA	inf	:10.A.	Inf I	T3	 	Berczik	Andrea	Informatika
+58818	C	K	6	:HBA	hpv	:10.B.	Egész osztály	T106	 	Hajduné Bihari	Ágnes	Humán pályák világa
+63618	C	K	6	:MM	inf	:10/4	német I	T303	 	Máté	Mária	Informatika
+64518	C	K	6	:MTE	po	:9/7	1. csoport	T310	 	Mucsiné Turu	Erzsébet	Pályaorientáció
+61518	C	K	6	:Ne	mat	:10/5	1. Csoport	T206	 	Neparáczkiné Kiss	Beatrix	Matematika
+62418	C	K	6	:PL	of	:11.A.	Egész osztály	T214	 	Pozsik	László	Osztályfőnöki
+60018	C	K	6	:PME	of	:1/11D	Egész osztály	T111	 	Perényiné Miskolczi	Erzsébet	Osztályfőnöki
+60318	C	K	6	:SVI	mny	:10/6	Egész osztály	T202	 	Székelyné Veres	Ilona	Magyar nyelv
+53695	C	K	7	.KGK	inf++	.11/C	inf1	fI218		Kálmánné Gát	Klára	Informatika fakultáció
+52110	C	K	7	.MSzA	of	.2/14/T	Egész osztály	f106		Miskolcziné Szilágyi	Andrea	Osztályfőnöki
+53475	C	K	7	.SM	inf++	.11/C, .11/D	inf2	fI216		Százné S?rés	Márta	Informatika fakultáció
+53244	C	K	7	.SzJ	inf++	.11/D	inf1	I1		Szikora	János	Informatika fakultáció
+58823	C	K	7	:HBA	hpv	:10.B.	Egész osztály	T106	 	Hajduné Bihari	Ágnes	Humán pályák világa
+63023	C	K	7	:JCsE	szai	:1/13A	Egész osztály	T301	 	Jovánné Császár	Edit	Szakmai alapismeret
+60023	C	K	7	:MM	inf	:11.B.	2. Csoport	T111	 	Máté	Mária	Informatika
+51858	C	K	8	.CsNE	szk	.12/C	A	k201	dr.	Csotó Nagy	Erzsébet	Szerves kémia I
+52768	C	K	8	.DA	szai	.1/9/5	heg	f110 	 	Dávid	Attila	Szakmai alapismeret
+63628	C	K	8	:KB	inf	:1/11E	Inf I	T303	 	Kazi	Balázs Róbert	Informatika
+60028	C	K	8	:MM	inf	:11.B.	2. Csoport	T111	 	Máté	Mária	Informatika
+54245	C	K	9	.MSzA	fizk	.1/13/T	vegy	fFsz6		Miskolcziné Szilágyi	Andrea	Fizikai kémia
+57633	C	K	9	:KB	inf	:1/13B	tv, vill	T3	 	Kazi	Balázs Róbert	Informatika
+54253	C	K	10	.MSzA	fizk	.1/13/T	vegy	fFsz6		Miskolcziné Szilágyi	Andrea	Fizikai kémia
+54261	C	K	11	.MSzA	köv	.1/13/T	vegy	fFsz6		Miskolcziné Szilágyi	Andrea	Környezetvédelem
+63043	C	K	11	:JCsE	szai	:1/13A	Egész osztály	T301	 	Jovánné Császár	Edit	Szakmai alapismeret
+63343	C	K	11	:KLE	gépír	:2/12E	Gepirok	T302	 	Kajáriné Lestár	Erzsébet	Gépírás
+63348	C	K	12	:KLE	gépír	:2/12E	Gepirok	T302	 	Kajáriné Lestár	Erzsébet	Gépírás
+63353	C	K	13	:KLE	gépír	:2/12E	Gepirok	T302	 	Kajáriné Lestár	Erzsébet	Gépírás
+58796	C	P	1	.FK	mny	:9/4	1. csoport	T106		Fejes	Katalin Lilla	Magyar nyelv
+52303	C	P	1	.Hne	mat	.9/1	c2	f107	dr.	Horváth Gyuláné		Matematika
+54882	C	P	1	.IK	mat	.12/D	Egész osztály	f215		Izsó	Katalin	Matematika
+52714	C	P	1	.KE	mat	.9/C	.9/C(R1), .9/C(R2/1)	f110 		Kosara	Erika	Matematika
+53654	C	P	1	.KGK	inf	.10/2	ép	fI218		Kálmánné Gát	Klára	Informatika
+51789	C	P	1	.PFne	rv	.12/C	Egész osztály	k201		Pálvölgyiné Szécsi	Valéria	Rajz és vizuális kultúra
+53955	C	P	1	.PTV	po	.9/3	13	f209 		Tompa	Valéria	Pályaorientáció
+57596	C	P	1	:BA	inf	:12.A.	Inf I	T3	 	Berczik	Andrea	Informatika
+58496	C	P	1	:Bu	éz	:9.B.	Egész osztály	T7	 	Burkovics	Ferenc	Ének-zene
+59696	C	P	1	:GLK	mat	:12.B.	Egész osztály	T109	 	Geráné Lippay 	Klára	Matematika
+61496	C	P	1	:KoSK	mny	:10.A.	Egész osztály	T206	 	Komárominé Sipos	Katalin	Magyar nyelv
+64196	C	P	1	:MTE	po	:9/6	1. csoport	T309	 	Mucsiné Turu	Erzsébet	Pályaorientáció
+60596	C	P	1	:Ne	mat	:9/4	2. csoport	T203	 	Neparáczkiné Kiss	Beatrix	Matematika
+61196	C	P	1	:SVI	mny	:10.B.	Egész osztály	T205	 	Székelyné Veres	Ilona	Magyar nyelv
+59996	C	P	1	:TI	inf	:12.A.	Inf II	T111	 	Tóth	István János	Informatika
+53462	C	P	2	.Hne	of	.9/1	Egész osztály	f206 	dr.	Horváth Gyuláné		Osztályfőnöki
+55220	C	P	2	.IK	mat	.9/D	.9/D(eá1), .9/D(eá2)	f224		Izsó	Katalin	Matematika
+53455	C	P	2	.JG	inf	.1/9/1	.1/9/1(gepl1), .1/9/1(gepl2)	fI216		Janzsó	Gábor	Informatika
+54892	C	P	2	.KE	mat	.9/D	.9/D(ég1), .9/D(ég2)	f215		Kosara	Erika	Matematika
+53662	C	P	2	.KGK	inf	.10/C	R2	fI218		Kálmánné Gát	Klára	Informatika
+53965	C	P	2	.PTV	po	.9/3	13	f209 		Tompa	Valéria	Pályaorientáció
+63601	C	P	2	.SM	inf	:1/11A	2. Csoport	T303		Százné S?rés	Márta	Informatika
+53212	C	P	2	.SzJ	inf	.10/C	R1	I1		Szikora	János	Informatika
+54203	C	P	2	.TM	po	.9/3	12	f210 		Törköly	Magdolna	Pályaorientáció
+57601	C	P	2	:BA	inf	:12.A.	Inf I	T3	 	Berczik	Andrea	Informatika
+60901	C	P	2	:BLne	mat	:9/4	1. csoport	T204	 	Baár	Lászlóné	Matematika
+60601	C	P	2	:GLK	mat	:12.B.	Egész osztály	T203	 	Geráné Lippay 	Klára	Matematika
+63001	C	P	2	:KoSK	of	:10.A.	Egész osztály	T301	 	Komárominé Sipos	Katalin	Osztályfőnöki
+62101	C	P	2	:MSZ	mny	:10/7	Egész osztály	T212	 	Bönditzné Magyar	Szilvia	Magyar nyelv
+64201	C	P	2	:MTE	po	:9/6	1. csoport	T309	 	Mucsiné Turu	Erzsébet	Pályaorientáció
+63301	C	P	2	:PA	inf	:1/11A	1. Csoport	T302	 	Pásztor	Attila	Informatika
+63901	C	P	2	:PL	mny	:9/4	2. csoport	T308	 	Pozsik	László	Magyar nyelv
+60301	C	P	2	:SGyT	kém	:10/8	Egész osztály	T202	 	Siposné Gyarmati	Teréz	Kémia
+61201	C	P	2	:SVI	mny	:10.B.	Egész osztály	T205	 	Székelyné Veres	Ilona	Magyar nyelv
+60001	C	P	2	:TI	inf	:12.A.	Inf II	T111	 	Tóth	István János	Informatika
+58501	C	P	2	:WA	of	:10/6	Egész osztály	T7	 	Weiner	András	Osztályfőnöki
+63906	C	P	3	.FK	mny	:9/6	1. csoport	T308		Fejes	Katalin Lilla	Magyar nyelv
+55422	C	P	3	.Hne	mat	.10/D	Egész osztály	k106	dr.	Horváth Gyuláné		Matematika
+54212	C	P	3	.IK	mat	.9/2	elekt	f210 		Izsó	Katalin	Matematika
+53461	C	P	3	.JG	inf	.1/9/5	vill	fI216		Janzsó	Gábor	Informatika
+52273	C	P	3	.KE	mat	.9/3	12	k204		Kosara	Erika	Matematika
+53670	C	P	3	.SM	inf	.1/9/5	heg	fI218		Százné S?rés	Márta	Informatika
+53218	C	P	3	.SzJ	inf	.9/3	13	I1		Szikora	János	Informatika
+60306	C	P	3	:AN	kém	:9.A.	Egész osztály	T202	 	Asbóth	Norbert	Kémia
+57606	C	P	3	:BA	inf	:10.A.	Inf I	T3	 	Berczik	Andrea	Informatika
+60906	C	P	3	:BLne	mat	:9/4	1. csoport	T204	 	Baár	Lászlóné	Matematika
+61506	C	P	3	:HG	rv	:10/7	Egész osztály	T206	 	Herczeg	Gabriella	Rajz és vizuális kultúra
+61206	C	P	3	:KoSK	mny	:10/4	német II	T205	 	Komárominé Sipos	Katalin	Magyar nyelv
+59706	C	P	3	:LJne	of	:10.B.	Egész osztály	T109	 	L?rincz	Jánosné	Osztályfőnöki
+59106	C	P	3	:Ra	mat	:9/6	2. csoport	T107	 	Radóczi	Tibor	Matematika
+62106	C	P	3	:SGyT	bio	:10/8	Egész osztály	T212	 	Siposné Gyarmati	Teréz	Biológia
+58506	C	P	3	:SVI	mi	:10/6	Egész osztály	T7	 	Székelyné Veres	Ilona	Magyar irodalom
+58806	C	P	3	:Sztne	mat	:12.A.	Egész osztály	T106	 	Sztankovics	Józsefné	Matematika
+63606	C	P	3	:TI	inf	:10.A.	Inf II	T303	 	Tóth	István János	Informatika
+55232	C	P	4	.BM	of	.9/D	Egész osztály	f224		Gergelyné Bodó	Mária	Osztályfőnöki
+52331	C	P	4	.HK	of	.1/9/2	Egész osztály	f107		Huszár	Károly	Osztályfőnöki
+53479	C	P	4	.Hne	mat	.9/1	c1	f206 	dr.	Horváth Gyuláné		Matematika
+53467	C	P	4	.JG	inf	.1/9/5	vill	fI216		Janzsó	Gábor	Informatika
+53706	C	P	4	.KE	mat	.10/C	Egész osztály	f207 		Kosara	Erika	Matematika
+51849	C	P	4	.MSzA	fizk	.11/C	vegy	f104		Miskolcziné Szilágyi	Andrea	Fizikai kémia
+53677	C	P	4	.SM	inf	.1/9/5	heg	fI218		Százné S?rés	Márta	Informatika
+53226	C	P	4	.SzJ	inf	.9/2	épít	I1		Szikora	János	Informatika
+61211	C	P	4	:BLne	mat	:9/6	1. csoport	T205	 	Baár	Lászlóné	Matematika
+61511	C	P	4	:HG	rv	:10/7	Egész osztály	T206	 	Herczeg	Gabriella	Rajz és vizuális kultúra
+59711	C	P	4	:LJne	mat	:10.B.	Egész osztály	T109	 	L?rincz	Jánosné	Matematika
+60011	C	P	4	:MM	inf	:9/6	2. csoport	T111	 	Máté	Mária	Informatika
+57911	C	P	4	:MTE	po	:9/5	1. csoport	T4	 	Mucsiné Turu	Erzsébet	Pályaorientáció
+63311	C	P	4	:PA	inf	:9/5	2. csoport	T302	 	Pásztor	Attila	Informatika
+60911	C	P	4	:PL	mny	:9/4	2. csoport	T204	 	Pozsik	László	Magyar nyelv
+60311	C	P	4	:SGyT	bio	:10.A.	Egész osztály	T202	 	Siposné Gyarmati	Teréz	Biológia
+58511	C	P	4	:SVI	éz	:10/6	Egész osztály	T7	 	Székelyné Veres	Ilona	Ének-zene
+58811	C	P	4	:Sztne	mat	:9.A.	Egész osztály	T106	 	Sztankovics	Józsefné	Matematika
+64211	C	P	4	:TKG	mat	:10/8	Egész osztály	T309		Tolnainé Kern	Gabriella	Matematika
+52846	C	P	5	.Hne	mat	.11/C	Egész osztály	k207	dr.	Horváth Gyuláné		Matematika
+52089	C	P	5	.IK	mat	.9/3	13	k203		Izsó	Katalin	Matematika
+55240	C	P	5	.KE	of	.9/C	Egész osztály	f224		Kosara	Erika	Osztályfőnöki
+53489	C	P	5	.PTV	po	.9/1	c1	f206 		Tompa	Valéria	Pályaorientáció
+53234	C	P	5	.SzJ	inf	.1/9/1	klíma	I1		Szikora	János	Informatika
+53329	C	P	5	.TM	po	.9/1	c2	f204 		Törköly	Magdolna	Pályaorientáció
+58516	C	P	5	:AN	bio	:9.A.	Egész osztály	T7	 	Asbóth	Norbert	Biológia
+57616	C	P	5	:BA	inf	:10/6	1. csoport	T3	 	Berczik	Andrea	Informatika
+60616	C	P	5	:Bu	mny	:9.B.	Egész osztály	T203	 	Burkovics	Ferenc	Magyar nyelv
+61516	C	P	5	:HG	rv	:12.A.	Egész osztály	T206	 	Herczeg	Gabriella	Rajz és vizuális kultúra
+61216	C	P	5	:HK	mny	:10/8	Egész osztály	T205	dr.	Kertainé Hagyó	Klára	Magyar nyelv
+60016	C	P	5	:MM	inf	:9/4	1. csoport	T111	 	Máté	Mária	Informatika
+57916	C	P	5	:MTE	po	:9/5	1. csoport	T4	 	Mucsiné Turu	Erzsébet	Pályaorientáció
+60316	C	P	5	:Ne	mat	:9/4	2. csoport	T202	 	Neparáczkiné Kiss	Beatrix	Matematika
+63616	C	P	5	:PA	inf	:10/5	1. Csoport	T303	 	Pásztor	Attila	Informatika
+64216	C	P	5	:SVI	mny	:11.B.	Egész osztály	T309	 	Székelyné Veres	Ilona	Magyar nyelv
+63016	C	P	5	:Sztne	mat	:10/5	2. Csoport	T301	 	Sztankovics	Józsefné	Matematika
+59716	C	P	5	:WA	bio	:10/7	Egész osztály	T109	 	Weiner	András	Biológia
+52099	C	P	6	.FE	of	.11/D	Egész osztály	k203		Figura	Eszter	Osztályfőnöki
+52106	C	P	6	.IK	mat	.10/2	Egész osztály	f106		Izsó	Katalin	Matematika
+55248	C	P	6	.KE	mat	.9/C	.9/C(V), .9/C(R2/2)	f224		Kosara	Erika	Matematika
+64521	C	P	6	.PTV	po	:9/6	2. csoport	T310		Tompa	Valéria	Pályaorientáció
+61221	C	P	6	.SM	fiz	:10/8	Egész osztály	T205		Százné S?rés	Márta	Fizika
+53240	C	P	6	.SzJ	inf	.10/D	vill	I1		Szikora	János	Informatika
+64221	C	P	6	:AN	bio	:1/13A	Egész osztály	T309	 	Asbóth	Norbert	Biológia
+60321	C	P	6	:BLne	mat	:10/6	Egész osztály	T202	 	Baár	Lászlóné	Matematika
+57921	C	P	6	:Bu	mny	:10/5	1. Csoport	T4	 	Burkovics	Ferenc	Magyar nyelv
+61521	C	P	6	:HG	rv	:12.A.	Egész osztály	T206	 	Herczeg	Gabriella	Rajz és vizuális kultúra
+59721	C	P	6	:LJne	fiz	:10.A.	Egész osztály	T109	 	L?rincz	Jánosné	Fizika
+60021	C	P	6	:MM	inf	:12.B.	Inf II	T111	 	Máté	Mária	Informatika
+63621	C	P	6	:PA	inf	:1/11C	2. Csoport	T303	 	Pásztor	Attila	Informatika
+59121	C	P	6	:PME	anyá	:1/11D	karpitos	T107	 	Perényiné Miskolczi	Erzsébet	Általános nyomdaipari alapismeretek
+57621	C	P	6	:PZ	inf	:12.B.	Inf I	T3		Pataki	Zoltán	Informatika
+59421	C	P	6	:Sztne	of	:9.A.	Egész osztály	T108	 	Sztankovics	Józsefné	Osztályfőnöki
+62121	C	P	6	:TKG	mat	:11.A.	Egész osztály	T212		Tolnainé Kern	Gabriella	Matematika
+60326	C	P	7	.CsA	kém	:10/6	Egész osztály	T202		Csorba	Attila	Kémia
+54009	C	P	7	.DA	szai	.1/9/5	heg	f209 	 	Dávid	Attila	Szakmai alapismeret
+64526	C	P	7	.PTV	po	:9/6	2. csoport	T310		Tompa	Valéria	Pályaorientáció
+58826	C	P	7	:BLne	mat	:9/5	2. csoport	T106	 	Baár	Lászlóné	Matematika
+58526	C	P	7	:Bu	éz	:10.A.	Egész osztály	T7	 	Burkovics	Ferenc	Ének-zene
+59126	C	P	7	:PME	anyá	:1/11D	karpitos	T107	 	Perényiné Miskolczi	Erzsébet	Általános nyomdaipari alapismeretek
+59426	C	P	7	:Sztne	fiz	:9.A.	Egész osztály	T108	 	Sztankovics	Józsefné	Fizika
+60331	C	P	8	:MI	ak	:1/13B	kozm	T202	dr.	Molnár	István	Alkalmazott kémia
+60331	C	P	8	:MI	ak	:1/13B	kozm	T202	dr.	Molnár	István	Általános kémia
+59131	C	P	8	:PME	szai	:1/11D	karpitos	T107	 	Perényiné Miskolczi	Erzsébet	Szakmai alapismeret
+59431	C	P	8	:VT	of	:1/11C	Egész osztály	T108	 	Varga	Tamás	Osztályfőnöki
+64236	C	P	9	:MI	ak	:1/13A	Egész osztály	T309	dr.	Molnár	István	Alkalmazott kémia
+64236	C	P	9	:MI	ak	:1/13A	Egész osztály	T309	dr.	Molnár	István	Általános kémia
+59136	C	P	9	:PME	szai	:1/11D	karpitos	T107	 	Perényiné Miskolczi	Erzsébet	Szakmai alapismeret
+59141	C	P	10	:PME	szai	:1/11D	karpitos	T107	 	Perényiné Miskolczi	Erzsébet	Szakmai alapismeret
+52058	C	Sz	1	.IK	mat	.12/D	Egész osztály	f106		Izsó	Katalin	Matematika
+53202	C	Sz	1	.JG	inf	.2/10/2	.2/10/2(víz1), .2/10/2(víz2)	I1		Janzsó	Gábor	Informatika
+53085	C	Sz	1	.KE	mat	.9/C	.9/C(V), .9/C(R2/2)	f130 		Kosara	Erika	Matematika
+53650	C	Sz	1	.KGK	inf	.10/D	gé	fI218		Kálmánné Gát	Klára	Informatika
+52925	C	Sz	1	.PG	of	.1/9/5	Egész osztály	f112 		Prihoda	Gábor	Osztályfőnöki
+60594	C	Sz	1	.PTV	po	:10/5	1. Csoport	T203		Tompa	Valéria	Pályaorientáció
+53294	C	Sz	1	.TM	po	.9/1	c2	f204 		Törköly	Magdolna	Pályaorientáció
+57594	C	Sz	1	:BA	inf	:11.A.	Inf I	T3	 	Berczik	Andrea	Informatika
+63594	C	Sz	1	:KB	inf	:9.B.	Inf II	T303	 	Kazi	Balázs Róbert	Informatika
+59994	C	Sz	1	:MSM	mny	:10/5	2. Csoport	T111	 	Máhigné Stefanovits	Márta	Magyar nyelv
+61494	C	Sz	1	:Ne	mat	:9/5	1. csoport	T206	 	Neparáczkiné Kiss	Beatrix	Matematika
+58794	C	Sz	1	:NyM	mny	:9/5	2. csoport	T106	 	Nyári	Mariann	Magyar nyelv
+63294	C	Sz	1	:PA	inf	:11.A.	Inf II	T302	 	Pásztor	Attila	Informatika
+52720	C	Sz	2	.DT	of	.2/10/4	Egész osztály	f110 		Dani	Tibor	Osztályfőnöki
+52501	C	Sz	2	.Hne	mat	.9/1	c1	f109	dr.	Horváth Gyuláné		Matematika
+52928	C	Sz	2	.IK	mat	.9/2	elekt	f112 		Izsó	Katalin	Matematika
+53304	C	Sz	2	.KE	mat	.9/2	épít	f204 		Kosara	Erika	Matematika
+60599	C	Sz	2	.PTV	po	:10/5	1. Csoport	T203		Tompa	Valéria	Pályaorientáció
+53208	C	Sz	2	.SM	inf	.9/1	c2	I1		Százné S?rés	Márta	Informatika
+52815	C	Sz	2	.SzE	of	.11/C	Egész osztály	k207		Szilágyi	Emese	Osztályfőnöki
+57599	C	Sz	2	:BA	inf	:11.A.	Inf I	T3	 	Berczik	Andrea	Informatika
+61199	C	Sz	2	:BLne	fiz	:10/7	Egész osztály	T205	 	Baár	Lászlóné	Fizika
+58499	C	Sz	2	:Bu	mny	:9.B.	Egész osztály	T7	 	Burkovics	Ferenc	Magyar nyelv
+63599	C	Sz	2	:KB	inf	:10/5	2. Csoport	T303	 	Kazi	Balázs Róbert	Informatika
+59999	C	Sz	2	:MM	inf	:9/4	1. csoport	T111	 	Máté	Mária	Informatika
+58799	C	Sz	2	:MSM	mny	:12.A.	Egész osztály	T106	 	Máhigné Stefanovits	Márta	Magyar nyelv
+61799	C	Sz	2	:Ne	of	:9/5	Egész osztály	T208	 	Neparáczkiné Kiss	Beatrix	Osztályfőnöki
+63299	C	Sz	2	:PA	inf	:11.A.	Inf II	T302	 	Pásztor	Attila	Informatika
+60299	C	Sz	2	:PL	mny	:9/4	2. csoport	T202	 	Pozsik	László	Magyar nyelv
+61499	C	Sz	2	:Ra	mat	:9/6	2. csoport	T206	 	Radóczi	Tibor	Matematika
+62399	C	Sz	2	:TKG	mat	:10/8	Egész osztály	T214		Tolnainé Kern	Gabriella	Matematika
+53668	C	Sz	3	.JG	inf	.2/10/4	burk	fI218		Janzsó	Gábor	Informatika
+53459	C	Sz	3	.KGK	inf	.9/C	.9/C(R2/1), .9/C(R2/2)	fI216		Kálmánné Gát	Klára	Informatika
+53216	C	Sz	3	.SzJ	inf	.9/C	R1	I1		Szikora	János	Informatika
+52319	C	Sz	3	.VPZs	of	.10/2	Egész osztály	f107		Vámos-Poljak Zsolt		Osztályfőnöki
+57604	C	Sz	3	:BA	inf	:9/6	1. csoport	T3	 	Berczik	Andrea	Informatika
+61204	C	Sz	3	:BLne	mat	:10/6	Egész osztály	T205	 	Baár	Lászlóné	Matematika
+60304	C	Sz	3	:GLK	mat	:12.B.	Egész osztály	T202	 	Geráné Lippay 	Klára	Matematika
+63604	C	Sz	3	:KB	inf	:10/7	2. csoport	T303	 	Kazi	Balázs Róbert	Informatika
+58504	C	Sz	3	:LJne	fiz	:10.A.	Egész osztály	T7	 	L?rincz	Jánosné	Fizika
+60004	C	Sz	3	:MM	inf	:10/8	1. csoport	T111	 	Máté	Mária	Informatika
+58804	C	Sz	3	:MSM	of	:12.A.	Egész osztály	T106	 	Máhigné Stefanovits	Márta	Osztályfőnöki
+63004	C	Sz	3	:Ne	mat	:10/5	1. Csoport	T301	 	Neparáczkiné Kiss	Beatrix	Matematika
+62404	C	Sz	3	:NyM	mny	:9/7	2. csoport	T214	 	Nyári	Mariann	Magyar nyelv
+63304	C	Sz	3	:PA	inf	:10/8	2. csoport	T302	 	Pásztor	Attila	Informatika
+64204	C	Sz	3	:SGyT	bio	:10.B.	Egész osztály	T309	 	Siposné Gyarmati	Teréz	Biológia
+61504	C	Sz	3	:SVI	mny	:11.B.	Egész osztály	T206	 	Székelyné Veres	Ilona	Magyar nyelv
+59404	C	Sz	3	:Sztne	mat	:10/5	2. Csoport	T108	 	Sztankovics	Józsefné	Matematika
+60604	C	Sz	3	:TKG	mat	:11.A.	Egész osztály	T203		Tolnainé Kern	Gabriella	Matematika
+52329	C	Sz	4	.IK	mat	.10/2	Egész osztály	f107		Izsó	Katalin	Matematika
+53675	C	Sz	4	.JG	inf	.2/10/4	burk	fI218		Janzsó	Gábor	Informatika
+55230	C	Sz	4	.KE	mat	.9/D	.9/D(ég1), .9/D(ég2)	f224		Kosara	Erika	Matematika
+53224	C	Sz	4	.SzJ	inf	.9/D	.9/D(eá1), .9/D(eá2)	I1		Szikora	János	Informatika
+57609	C	Sz	4	:BA	inf	:10/6	1. csoport	T3	 	Berczik	Andrea	Informatika
+64209	C	Sz	4	:GLK	mat	:11.B.	Egész osztály	T309	 	Geráné Lippay 	Klára	Matematika
+62409	C	Sz	4	:KA	of	:1/11A	Egész osztály	T214	 	Kovács	Attila	Osztályfőnöki
+63609	C	Sz	4	:KB	inf	:10/6	2. csoport	T303	 	Kazi	Balázs Róbert	Informatika
+60009	C	Sz	4	:MM	inf	:9/6	2. csoport	T111	 	Máté	Mária	Informatika
+59409	C	Sz	4	:MSM	mny	:12.B.	Egész osztály	T108	 	Máhigné Stefanovits	Márta	Magyar nyelv
+61209	C	Sz	4	:Ne	mat	:10/7	Egész osztály	T205	 	Neparáczkiné Kiss	Beatrix	Matematika
+60309	C	Sz	4	:SGyT	kém	:10.B.	Egész osztály	T202	 	Siposné Gyarmati	Teréz	Kémia
+58509	C	Sz	4	:SVI	éz	:10/8	Egész osztály	T7	 	Székelyné Veres	Ilona	Ének-zene
+61509	C	Sz	4	:Sztne	mat	:12.A.	Egész osztály	T206	 	Sztankovics	Józsefné	Matematika
+63914	C	Sz	5	.FK	mny	:9/6	1. csoport	T308		Fejes	Katalin Lilla	Magyar nyelv
+51837	C	Sz	5	.Hne	mat	.12/C	Egész osztály	k201	dr.	Horváth Gyuláné		Matematika
+58514	C	Sz	5	.SM	fiz	:10/8	Egész osztály	T7		Százné S?rés	Márta	Fizika
+53232	C	Sz	5	.SzJ	inf	.1/9/1	klíma	I1		Szikora	János	Informatika
+54219	C	Sz	5	.TM	of	.9/3	Egész osztály	f210 		Törköly	Magdolna	Osztályfőnöki
+64514	C	Sz	5	:Bu	mny	:10/5	1. Csoport	T310	 	Burkovics	Ferenc	Magyar nyelv
+61214	C	Sz	5	:GLK	of	:12.B.	Egész osztály	T205	 	Geráné Lippay 	Klára	Osztályfőnöki
+63614	C	Sz	5	:KB	inf	:1/11B	1. Csoport	T303	 	Kazi	Balázs Róbert	Informatika
+60314	C	Sz	5	:LJne	mat	:9.B.	Egész osztály	T202	 	L?rincz	Jánosné	Matematika
+59414	C	Sz	5	:MSM	mny	:10/5	2. Csoport	T108	 	Máhigné Stefanovits	Márta	Magyar nyelv
+59714	C	Sz	5	:MSZ	mny	:10/7	Egész osztály	T109	 	Bönditzné Magyar	Szilvia	Magyar nyelv
+60614	C	Sz	5	:NyM	mny	:9/7	2. csoport	T203	 	Nyári	Mariann	Magyar nyelv
+57614	C	Sz	5	:PA	inf	:1/11B	2. Csoport	T3	 	Pásztor	Attila	Informatika
+61514	C	Sz	5	:Sztne	mat	:12.A.	Egész osztály	T206	 	Sztankovics	Józsefné	Matematika
+58814	C	Sz	5	:TKG	mat	:10.A.	Egész osztály	T106		Tolnainé Kern	Gabriella	Matematika
+64519	C	Sz	6	.FK	mny	:9/5	1. csoport	T310		Fejes	Katalin Lilla	Magyar nyelv
+58519	C	Sz	6	.FZs	fiz	:10/6	Egész osztály	T7	dr.	Tóthné Farkas	Zsuzsanna	Fizika
+52850	C	Sz	6	.Hne	mat	.11/D	Egész osztály	k207	dr.	Horváth Gyuláné		Matematika
+53691	C	Sz	6	.JG	inf	.1/9/3	n2	fI218		Janzsó	Gábor	Informatika
+53999	C	Sz	6	.PTV	of	.10/3	Egész osztály	f209 		Tompa	Valéria	Osztályfőnöki
+53473	C	Sz	6	.SM	inf	.9/D	.9/D(ég1), .9/D(ég2)	fI216		Százné S?rés	Márta	Informatika
+53238	C	Sz	6	.SzJ	inf	.1/9/3	n1	I1		Szikora	János	Informatika
+60019	C	Sz	6	:BA	inf	:9/6	1. csoport	T111	 	Berczik	Andrea	Informatika
+63019	C	Sz	6	:Bu	of	:1/13B	tv, vill	T301	 	Burkovics	Ferenc	Osztályfőnöki
+63619	C	Sz	6	:KB	inf	:1/11B	1. Csoport	T303	 	Kazi	Balázs Róbert	Informatika
+60319	C	Sz	6	:LJne	fiz	:10.B.	Egész osztály	T202	 	L?rincz	Jánosné	Fizika
+61519	C	Sz	6	:MSM	mny	:12.A.	Egész osztály	T206	 	Máhigné Stefanovits	Márta	Magyar nyelv
+59119	C	Sz	6	:Ne	mat	:10/5	1. Csoport	T107	 	Neparáczkiné Kiss	Beatrix	Matematika
+57919	C	Sz	6	:NyM	mny	:9/6	2. csoport	T4	 	Nyári	Mariann	Magyar nyelv
+57619	C	Sz	6	:PA	inf	:1/11B	2. Csoport	T3	 	Pásztor	Attila	Informatika
+60619	C	Sz	6	:Sztne	mat	:10/5	2. Csoport	T203	 	Sztankovics	Józsefné	Matematika
+63319	C	Sz	6	:TI	inf	:10.A.	Inf II	T302	 	Tóth	István János	Informatika
+51852	C	Sz	7	.CsNE	szk	.12/C	A	k201	dr.	Csotó Nagy	Erzsébet	Szerves kémia I
+64524	C	Sz	7	.FK	mny	:9/5	1. csoport	T310		Fejes	Katalin Lilla	Magyar nyelv
+53697	C	Sz	7	.JG	inf	.1/9/3	n2	fI218		Janzsó	Gábor	Informatika
+52537	C	Sz	7	.SET	of	.3/11/2	fest	f109	 	Sáróné Erdei	Tünde	Osztályfőnöki
+55252	C	Sz	7	.SzE	of	.1/13/T	Egész osztály	f224		Szilágyi	Emese	Osztályfőnöki
+53246	C	Sz	7	.SzJ	inf	.1/9/3	n1	I1		Szikora	János	Informatika
+59124	C	Sz	7	:BLne	mat	:9/6	1. csoport	T107	 	Baár	Lászlóné	Matematika
+54007	C	Sz	7	:HG	rv	.10/3	Egész osztály	f209 	 	Herczeg	Gabriella	Rajz és vizuális kultúra
+57624	C	Sz	7	:KB	inf	:10/6	2. csoport	T3	 	Kazi	Balázs Róbert	Informatika
+58824	C	Sz	7	:NyM	mh	:1/11D	gepiro	T106	 	Nyári	Mariann	Magyar helyesírás
+59724	C	Sz	7	:Sztne	fiz	:9.B.	Egész osztály	T109	 	Sztankovics	Józsefné	Fizika
+63029	C	Sz	8	:JCsE	szai	:1/13A	Egész osztály	T301	 	Jovánné Császár	Edit	Szakmai alapismeret
+61829	C	Sz	8	:LJne	mat	:10.B.	Egész osztály	T208	 	L?rincz	Jánosné	Matematika
+59129	C	Sz	8	:PME	anyá	:1/11D	karpitos	T107	 	Perényiné Miskolczi	Erzsébet	Általános nyomdaipari alapismeretek
+61229	C	Sz	8	:SGyT	bio	:1/13B	kozm	T205	 	Siposné Gyarmati	Teréz	Biológia
+63934	C	Sz	9	:CsL	szai	:1/11E	fenyezo	T308	 	Cseh	László	Szakmai alapismeret
+63034	C	Sz	9	:JCsE	szai	:1/13A	Egész osztály	T301	 	Jovánné Császár	Edit	Szakmai alapismeret
+59134	C	Sz	9	:PME	szai	:1/11D	karpitos	T107	 	Perényiné Miskolczi	Erzsébet	Szakmai alapismeret
+63939	C	Sz	10	:CsL	szai	:1/11E	fenyezo	T308	 	Cseh	László	Szakmai alapismeret
+63039	C	Sz	10	:JCsE	szai	:1/13A	Egész osztály	T301	 	Jovánné Császár	Edit	Szakmai alapismeret
+59139	C	Sz	10	:PME	szai	:1/11D	karpitos	T107	 	Perényiné Miskolczi	Erzsébet	Szakmai alapismeret
+63339	C	Sz	10	:UM	mh	:2/12E	Gepirok	T302	 	Urbán 	Marianna	Magyar helyesírás
+63944	C	Sz	11	:CsL	szai	:1/11E	fenyezo	T308	 	Cseh	László	Szakmai alapismeret
+63644	C	Sz	11	:KLE	gépír	:1/11D	gepiro	T303	 	Kajáriné Lestár	Erzsébet	Gépírás
+59144	C	Sz	11	:PME	szai	:1/11D	karpitos	T107	 	Perényiné Miskolczi	Erzsébet	Szakmai alapismeret
+63949	C	Sz	12	:CsL	szai	:1/11E	fenyezo	T308	 	Cseh	László	Szakmai alapismeret
+63649	C	Sz	12	:KLE	gépír	:1/11D	gepiro	T303	 	Kajáriné Lestár	Erzsébet	Gépírás
+63654	C	Sz	13	:KLE	gépír	:1/11D	gepiro	T303	 	Kajáriné Lestár	Erzsébet	Gépírás
+52961	D	Cs	1	.CsF	of	.2/10/1	Egész osztály	f112 	 	Cseh	Ferenc	Osztályfőnöki
+55805	D	Cs	1	.HK	of	.1/9/2	Egész osztály	k108		Huszár	Károly	Osztályfőnöki
+53339	D	Cs	1	.IK	mat	.9/D	.9/D(eá1), .9/D(eá2)	f204 		Izsó	Katalin	Matematika
+53738	D	Cs	1	.KE	mat	.9/D	.9/D(ég1), .9/D(ég2)	f207 		Kosara	Erika	Matematika
+53482	D	Cs	1	.KGK	inf++	.12/C	R	fI216		Kálmánné Gát	Klára	Informatika fakultáció
+54932	D	Cs	1	.PFne	rv	.12/D	Egész osztály	f215		Pálvölgyiné Szécsi	Valéria	Rajz és vizuális kultúra
+64570	D	Cs	1	.PTV	po	:9/5	2. csoport	T310		Tompa	Valéria	Pályaorientáció
+53263	D	Cs	1	.SM	inf	.10/1	A1 	I1		Százné S?rés	Márta	Informatika
+61570	D	Cs	1	:HBA	önti	:10.B.	Egész osztály	T206	 	Hajduné Bihari	Ágnes	Ön- és társadalomismeret
+60670	D	Cs	1	:MTE	po	:9/5	1. csoport	T203	 	Mucsiné Turu	Erzsébet	Pályaorientáció
+63670	D	Cs	1	:PZ	inf	:9/R	Egész osztály	T303		Pataki	Zoltán	Informatika
+64270	D	Cs	1	:SGyT	bio	:10.A.	Egész osztály	T309	 	Siposné Gyarmati	Teréz	Biológia
+60370	D	Cs	1	:SVI	mny	:9.A.	Egész osztály	T202	 	Székelyné Veres	Ilona	Magyar nyelv
+52881	D	Cs	2	.Hne	mat	.11/C	Egész osztály	k207	dr.	Horváth Gyuláné		Matematika
+54940	D	Cs	2	.IK	mat	.12/D	Egész osztály	f215		Izsó	Katalin	Matematika
+53273	D	Cs	2	.JG	inf	.2/10/3	fest?2	I1		Janzsó	Gábor	Informatika
+53343	D	Cs	2	.KE	mat	.9/2	épít	f204 		Kosara	Erika	Matematika
+53488	D	Cs	2	.KGK	inf	.2/10/3	fest?1	fI216		Kálmánné Gát	Klára	Informatika
+64575	D	Cs	2	.PTV	po	:9/5	2. csoport	T310		Tompa	Valéria	Pályaorientáció
+53748	D	Cs	2	.VL	of	.10/C	Egész osztály	f207 		Vér	László	Osztályfőnöki
+61875	D	Cs	2	:AN	bio	:9.A.	Egész osztály	T208	 	Asbóth	Norbert	Biológia
+61575	D	Cs	2	:HBA	önti	:10.B.	Egész osztály	T206	 	Hajduné Bihari	Ágnes	Ön- és társadalomismeret
+57675	D	Cs	2	:MM	inf	:9/4	1. csoport	T3	 	Máté	Mária	Informatika
+60675	D	Cs	2	:MTE	po	:9/5	1. csoport	T203	 	Mucsiné Turu	Erzsébet	Pályaorientáció
+60075	D	Cs	2	:PA	inf	:9/4	2. csoport	T111	 	Pásztor	Attila	Informatika
+63675	D	Cs	2	:PZ	inf	:9/R	Egész osztály	T303		Pataki	Zoltán	Informatika
+58575	D	Cs	2	:Ra	of	:3/13A	Egész osztály	T7	 	Radóczi	Tibor	Osztályfőnöki
+60375	D	Cs	2	:SGyT	bio	:9.B.	Egész osztály	T202	 	Siposné Gyarmati	Teréz	Biológia
+64275	D	Cs	2	:TKG	mat	:10.A.	Egész osztály	T309		Tolnainé Kern	Gabriella	Matematika
+61280	D	Cs	3	.FK	mny	:9/5	1. csoport	T205		Fejes	Katalin Lilla	Magyar nyelv
+54262	D	Cs	3	.IK	mat	.9/3	13	f210 		Izsó	Katalin	Matematika
+53283	D	Cs	3	.JG	inf	.2/10/3	fest?2	I1		Janzsó	Gábor	Informatika
+53148	D	Cs	3	.KE	mat	.9/3	12	f130 		Kosara	Erika	Matematika
+52368	D	Cs	3	.PTV	po	.9/1	c1	f107		Tompa	Valéria	Pályaorientáció
+53729	D	Cs	3	.SM	inf	.9/1	c2	fI218		Százné S?rés	Márta	Informatika
+63980	D	Cs	3	:BLne	mat	:9/5	2. csoport	T308	 	Baár	Lászlóné	Matematika
+59480	D	Cs	3	:CsL	szai	:2/12F	fenyezo	T108	 	Cseh	László	Szakmai alapismeret
+61880	D	Cs	3	:GLK	mat	:11.B.	Egész osztály	T208	 	Geráné Lippay 	Klára	Matematika
+57680	D	Cs	3	:MM	inf	:12.B.	Inf II	T3	 	Máté	Mária	Informatika
+63380	D	Cs	3	:PA	inf	:9/7	1. csoport	T302	 	Pásztor	Attila	Informatika
+63680	D	Cs	3	:PZ	inf	:12.B.	Inf I	T303		Pataki	Zoltán	Informatika
+60380	D	Cs	3	:SGyT	kém	:10.A.	Egész osztály	T202	 	Siposné Gyarmati	Teréz	Kémia
+58580	D	Cs	3	:SVI	éz	:9.A.	Egész osztály	T7	 	Székelyné Veres	Ilona	Ének-zene
+59180	D	Cs	3	:TKG	mat	:9/7	2. csoport	T107		Tolnainé Kern	Gabriella	Matematika
+51888	D	Cs	4	.Hne	mat	.12/C	Egész osztály	k201	dr.	Horváth Gyuláné		Matematika
+54271	D	Cs	4	.IK	mat	.9/3	13	f210 		Izsó	Katalin	Matematika
+53764	D	Cs	4	.KE	mat	.10/C	Egész osztály	f207 		Kosara	Erika	Matematika
+53735	D	Cs	4	.KGK	inf	.10/1	A2 	fI218		Kálmánné Gát	Klára	Informatika
+52806	D	Cs	4	.TM	po	.9/3	12	f110 		Törköly	Magdolna	Pályaorientáció
+58585	D	Cs	4	:Bu	éz	:9.B.	Egész osztály	T7	 	Burkovics	Ferenc	Ének-zene
+59485	D	Cs	4	:CsL	szai	:2/12F	fenyezo	T108	 	Cseh	László	Szakmai alapismeret
+61885	D	Cs	4	:GLK	mat	:11.B.	Egész osztály	T208	 	Geráné Lippay 	Klára	Matematika
+64285	D	Cs	4	:KoSK	mny	:10.A.	Egész osztály	T309	 	Komárominé Sipos	Katalin	Magyar nyelv
+57685	D	Cs	4	:MM	inf	:12.B.	Inf II	T3	 	Máté	Mária	Informatika
+58285	D	Cs	4	:NM	mat	:9/7	1. csoport	T6	 	Németh	Magdolna	Matematika
+61285	D	Cs	4	:NyM	mny	:9/6	2. csoport	T205	 	Nyári	Mariann	Magyar nyelv
+63685	D	Cs	4	:PZ	inf	:12.B.	Inf I	T303		Pataki	Zoltán	Informatika
+63085	D	Cs	4	:SGyT	bio	:2/14B	:2/14B(kozm1), :2/14B(kozm2)	T301	 	Siposné Gyarmati	Teréz	Biológia
+60385	D	Cs	4	:SVI	mny	:10.B.	Egész osztály	T202	 	Székelyné Veres	Ilona	Magyar nyelv
+57985	D	Cs	4	:SzH	ák	:2/14B	elektr	T4	 	Szöll?si	Huba	Alkalmazott kémia
+57985	D	Cs	4	:SzH	ák	:2/14B	elektr	T4	 	Szöll?si	Huba	Általános kémia
+51892	D	Cs	5	.Hne	mat	.12/C	Egész osztály	k201	dr.	Horváth Gyuláné		Matematika
+53357	D	Cs	5	.IK	mat	.9/2	elekt	f204 		Izsó	Katalin	Matematika
+54961	D	Cs	5	.KE	mat	.9/C	.9/C(R1), .9/C(R2/1)	f215		Kosara	Erika	Matematika
+53745	D	Cs	5	.KGK	inf	.10/2	ép	fI218		Kálmánné Gát	Klára	Informatika
+67290	D	Cs	5	.SM	fiz	:10/8	Egész osztály	k209		Százné S?rés	Márta	Fizika
+52576	D	Cs	5	.TM	po	.9/1	c2	f109		Törköly	Magdolna	Pályaorientáció
+54052	D	Cs	5	.VKE	köv	.10/3	Egész osztály	f209 		Váradiné	Kása Edit	Környezetvédelem
+58890	D	Cs	5	:Bu	mny	:9.B.	Egész osztály	T106	 	Burkovics	Ferenc	Magyar nyelv
+59490	D	Cs	5	:CsL	szai	:2/12F	fenyezo	T108	 	Cseh	László	Szakmai alapismeret
+60390	D	Cs	5	:LJne	fiz	:10.B.	Egész osztály	T202	 	L?rincz	Jánosné	Fizika
+57690	D	Cs	5	:MM	inf	:3/13A	1. Csoport	T3	 	Máté	Mária	Informatika
+64290	D	Cs	5	:MSM	mny	:12.B.	Egész osztály	T309	 	Máhigné Stefanovits	Márta	Magyar nyelv
+63390	D	Cs	5	:PA	inf	:3/13A	2. Csoport	T302	 	Pásztor	Attila	Informatika
+62490	D	Cs	5	:PL	mny	:11.A.	Egész osztály	T214	 	Pozsik	László	Magyar nyelv
+63690	D	Cs	5	:PZ	inf	:9/7	2. csoport	T303		Pataki	Zoltán	Informatika
+60690	D	Cs	5	:SGyT	bio	:2/14A	Egész osztály	T203	 	Siposné Gyarmati	Teréz	Biológia
+61890	D	Cs	5	:SVI	mny	:11.B.	Egész osztály	T208	 	Székelyné Veres	Ilona	Magyar nyelv
+63990	D	Cs	5	:SzG	mny	:10/4	német I	T308	 	Szabó	Gábor	Magyar nyelv
+53361	D	Cs	6	.CsA	of	.9/2	Egész osztály	f204 		Csorba	Attila	Osztályfőnöki
+54452	D	Cs	6	.IK	mat	.10/1	Egész osztály	f212		Izsó	Katalin	Matematika
+54965	D	Cs	6	.JG	of	.12/D	Egész osztály	f215		Janzsó	Gábor	Osztályfőnöki
+58595	D	Cs	6	:Bu	éz	:10.A.	Egész osztály	T7	 	Burkovics	Ferenc	Ének-zene
+59495	D	Cs	6	:CsL	szai	:2/12F	fenyezo	T108	 	Cseh	László	Szakmai alapismeret
+64295	D	Cs	6	:GLK	mat	:12.B.	Egész osztály	T309	 	Geráné Lippay 	Klára	Matematika
+60395	D	Cs	6	:LJne	mat	:10.B.	Egész osztály	T202	 	L?rincz	Jánosné	Matematika
+57695	D	Cs	6	:MM	inf	:3/13A	1. Csoport	T3	 	Máté	Mária	Informatika
+63395	D	Cs	6	:PA	inf	:3/13A	2. Csoport	T302	 	Pásztor	Attila	Informatika
+63695	D	Cs	6	:PZ	inf	:9/7	2. csoport	T303		Pataki	Zoltán	Informatika
+60695	D	Cs	6	:SGyT	bio	:10/8	Egész osztály	T203	 	Siposné Gyarmati	Teréz	Biológia
+63095	D	Cs	6	:Si	of	:2/14A	Egész osztály	T301	dr.	Simoncsics Jánosné		Osztályfőnöki
+63995	D	Cs	6	:SzG	mny	:10/4	német I	T308	 	Szabó	Gábor	Magyar nyelv
+61295	D	Cs	6	:TKG	mat	:11.A.	Egész osztály	T205		Tolnainé Kern	Gabriella	Matematika
+58900	D	Cs	7	.CsA	kém	:10/7	Egész osztály	T106		Csorba	Attila	Kémia
+53763	D	Cs	7	.KGK	inf	.1/9/2	n	fI218		Kálmánné Gát	Klára	Informatika
+58000	D	Cs	7	.TM	po	:9/7	2. csoport	T4		Törköly	Magdolna	Pályaorientáció
+56450	D	Cs	7	.VeI	heg	.1/9/5	h2	Deri1	 	Vetró	István	Hegesztés 
+60100	D	Cs	7	:BLne	mat	:10/6	Egész osztály	T111	 	Baár	Lászlóné	Matematika
+59500	D	Cs	7	:CsL	szai	:2/12F	fenyezo	T108	 	Cseh	László	Szakmai alapismeret
+58600	D	Cs	7	:HK	mny	:10/8	Egész osztály	T7	dr.	Kertainé Hagyó	Klára	Magyar nyelv
+58300	D	Cs	7	:KoSK	mny	:10/4	német II	T6	 	Komárominé Sipos	Katalin	Magyar nyelv
+59200	D	Cs	7	:PME	anyá	:2/12E	karpit	T107	 	Perényiné Miskolczi	Erzsébet	Általános nyomdaipari alapismeretek
+63700	D	Cs	7	:PZ	inf	:11.B.	Inf I	T303		Pataki	Zoltán	Informatika
+62500	D	Cs	7	:SGyT	bio	:10.B.	Egész osztály	T214	 	Siposné Gyarmati	Teréz	Biológia
+64000	D	Cs	7	:SzG	mny	:10/4	német I	T308	 	Szabó	Gábor	Magyar nyelv
+61300	D	Cs	7	:TKG	mat	:11.A.	Egész osztály	T205		Tolnainé Kern	Gabriella	Matematika
+53769	D	Cs	8	.KGK	inf	.1/9/2	n	fI218		Kálmánné Gát	Klára	Informatika
+58005	D	Cs	8	.TM	po	:9/7	2. csoport	T4		Törköly	Magdolna	Pályaorientáció
+56455	D	Cs	8	.VeI	heg	.1/9/5	h2	Deri1	 	Vetró	István	Hegesztés 
+58605	D	Cs	8	:BLne	fiz	:10/7	Egész osztály	T7	 	Baár	Lászlóné	Fizika
+60105	D	Cs	8	:KB	inf	:10/4	német II	T111	 	Kazi	Balázs Róbert	Informatika
+59205	D	Cs	8	:MTE	anyá	:2/12A	noi	T107	 	Mucsiné Turu	Erzsébet	Általános nyomdaipari alapismeretek
+64605	D	Cs	8	:NyM	mh	:1/11D	gepiro	T310	 	Nyári	Mariann	Magyar helyesírás
+58905	D	Cs	8	:PL	mny	:11.A.	Egész osztály	T106	 	Pozsik	László	Magyar nyelv
+60405	D	Cs	8	:PME	anyá	:2/12E	karpit	T202	 	Perényiné Miskolczi	Erzsébet	Általános nyomdaipari alapismeretek
+63705	D	Cs	8	:PZ	inf	:11.B.	Inf I	T303		Pataki	Zoltán	Informatika
+59505	D	Cs	8	:TKG	mat	:10/8	Egész osztály	T108		Tolnainé Kern	Gabriella	Matematika
+56460	D	Cs	9	.VeI	heg	.1/9/5	h2	Deri1	 	Vetró	István	Hegesztés 
+58910	D	Cs	9	:Bu	of	:2/14B	Egész osztály	T106	 	Burkovics	Ferenc	Osztályfőnöki
+60110	D	Cs	9	:KB	inf	:10/6	2. csoport	T111	 	Kazi	Balázs Róbert	Informatika
+58610	D	Cs	9	:MSZ	mny	:10/7	Egész osztály	T7	 	Bönditzné Magyar	Szilvia	Magyar nyelv
+62810	D	Cs	9	:MTE	anyá	:2/12A	noi	T215	 	Mucsiné Turu	Erzsébet	Általános nyomdaipari alapismeretek
+64610	D	Cs	9	:NyM	mh	:1/11D	gepiro	T310	 	Nyári	Mariann	Magyar helyesírás
+60410	D	Cs	9	:PME	anyá	:2/12E	karpit	T202	 	Perényiné Miskolczi	Erzsébet	Általános nyomdaipari alapismeretek
+56465	D	Cs	10	.VeI	heg	.1/9/5	h2	Deri1	 	Vetró	István	Hegesztés 
+57715	D	Cs	10	:BA	inf	:10/6	1. csoport	T3	 	Berczik	Andrea	Informatika
+63415	D	Cs	10	:KB	inf	:10/6	2. csoport	T302	 	Kazi	Balázs Róbert	Informatika
+60115	D	Cs	10	:MM	inf	:2/12B	1. Csoport	T111	 	Máté	Mária	Informatika
+58615	D	Cs	10	:MSZ	of	:10/7	Egész osztály	T7	 	Bönditzné Magyar	Szilvia	Osztályfőnöki
+56470	D	Cs	11	.VeI	heg	.1/9/5	h2	Deri1	 	Vetró	István	Hegesztés 
+57720	D	Cs	11	:BA	inf	:10/7	1. csoport	T3	 	Berczik	Andrea	Informatika
+63420	D	Cs	11	:KB	inf	:10/7	2. csoport	T302	 	Kazi	Balázs Róbert	Informatika
+63720	D	Cs	11	:KLE	gépír	:1/11D	gepiro	T303	 	Kajáriné Lestár	Erzsébet	Gépírás
+58620	D	Cs	11	:Sztne	mat	:10/4	német II	T7	 	Sztankovics	Józsefné	Matematika
+59520	D	Cs	11	:WA	bio	:10/6	Egész osztály	T108	 	Weiner	András	Biológia
+56475	D	Cs	12	.VeI	heg	.1/9/5	h2	Deri1	 	Vetró	István	Hegesztés 
+57725	D	Cs	12	:BA	inf	:10/7	1. csoport	T3	 	Berczik	Andrea	Informatika
+63425	D	Cs	12	:KB	inf	:10/7	2. csoport	T302	 	Kazi	Balázs Róbert	Informatika
+63725	D	Cs	12	:KLE	gépír	:1/11D	gepiro	T303	 	Kajáriné Lestár	Erzsébet	Gépírás
+59225	D	Cs	12	:PME	szai	:2/12A	noi	T107	 	Perényiné Miskolczi	Erzsébet	Szakmai alapismeret
+58625	D	Cs	12	:Sztne	mat	:10/4	német II	T7	 	Sztankovics	Józsefné	Matematika
+59525	D	Cs	12	:WA	of	:10/6	Egész osztály	T108	 	Weiner	András	Osztályfőnöki
+56480	D	Cs	13	.VeI	heg	.1/9/5	h2	Deri1	 	Vetró	István	Hegesztés 
+63730	D	Cs	13	:KLE	gépír	:1/11D	gepiro	T303	 	Kajáriné Lestár	Erzsébet	Gépírás
+58930	D	Cs	13	:PME	szai	:2/12A	noi	T106	 	Perényiné Miskolczi	Erzsébet	Szakmai alapismeret
+51868	D	H	1	.CsNE	szk	.12/C	R	k201	dr.	Csotó Nagy	Erzsébet	Szerves kémia I
+53131	D	H	1	.Hne	mat	.9/1	c1	f130 	dr.	Horváth Gyuláné		Matematika
+52782	D	H	1	.HT	of	.1/9/4	Egész osztály	f110 		Habók	Tamás	Osztályfőnöki
+53732	D	H	1	.KE	mat	.10/C	Egész osztály	f207 		Kosara	Erika	Matematika
+64267	D	H	1	:BLne	mat	:9/6	1. csoport	T309	 	Baár	Lászlóné	Matematika
+63367	D	H	1	:PA	inf	:2/14A	1. Csoport	T302	 	Pásztor	Attila	Informatika
+61267	D	H	1	:PL	mny	:9/4	2. csoport	T205	 	Pozsik	László	Magyar nyelv
+53136	D	H	2	.Hne	of	.9/1	Egész osztály	f130 	dr.	Horváth Gyuláné		Osztályfőnöki
+54936	D	H	2	.IK	mat	.12/D	Egész osztály	f215		Izsó	Katalin	Matematika
+53484	D	H	2	.JG	inf	.1/9/4	burk	fI216		Janzsó	Gábor	Informatika
+53742	D	H	2	.KE	mat	.9/D	.9/D(ég1), .9/D(ég2)	f207 		Kosara	Erika	Matematika
+51831	D	H	2	.NT	inf++	.12/C	inf1	f222		Németh	Tamás	Informatika fakultáció
+64272	D	H	2	:BLne	mat	:9/6	1. csoport	T309	 	Baár	Lászlóné	Matematika
+59472	D	H	2	:GLK	of	:12.B.	Egész osztály	T108	 	Geráné Lippay 	Klára	Osztályfőnöki
+52115	D	H	2	:HG	rv	.10/1	Egész osztály	k203	 	Herczeg	Gabriella	Rajz és vizuális kultúra
+60072	D	H	2	:MM	inf	:9/6	2. csoport	T111	 	Máté	Mária	Informatika
+60372	D	H	2	:NyM	mny	:9/7	2. csoport	T202	 	Nyári	Mariann	Magyar nyelv
+63372	D	H	2	:PA	inf	:2/14A	1. Csoport	T302	 	Pásztor	Attila	Informatika
+61572	D	H	2	:SVI	mny	:10.B.	Egész osztály	T206	 	Székelyné Veres	Ilona	Magyar nyelv
+59772	D	H	2	:Sztne	mat	:12.A.	Egész osztály	T109	 	Sztankovics	Józsefné	Matematika
+61872	D	H	2	:UM	mny	:9/7	1. csoport	T208	 	Urbán 	Marianna	Magyar nyelv
+59477	D	H	3	.FK	mny	:9/4	1. csoport	T108		Fejes	Katalin Lilla	Magyar nyelv
+52885	D	H	3	.Hne	mat	.11/C	Egész osztály	k207	dr.	Horváth Gyuláné		Matematika
+53492	D	H	3	.JG	inf	.9/1	c1	fI216		Janzsó	Gábor	Informatika
+52798	D	H	3	.KA	of	.3/11/3	Egész osztály	f110 		Kiss	Antal	Osztályfőnöki
+54029	D	H	3	.PTV	po	.9/3	13	f209 		Tompa	Valéria	Pályaorientáció
+64277	D	H	3	:GLK	mat	:12.B.	Egész osztály	T309	 	Geráné Lippay 	Klára	Matematika
+60377	D	H	3	:NyM	mny	:9/7	2. csoport	T202	 	Nyári	Mariann	Magyar nyelv
+63377	D	H	3	:PA	inf	:9/7	1. csoport	T302	 	Pásztor	Attila	Informatika
+60677	D	H	3	:PL	mny	:11.A.	Egész osztály	T203	 	Pozsik	László	Magyar nyelv
+61577	D	H	3	:SVI	mny	:10.B.	Egész osztály	T206	 	Székelyné Veres	Ilona	Magyar nyelv
+59777	D	H	3	:Sztne	mat	:12.A.	Egész osztály	T109	 	Sztankovics	Józsefné	Matematika
+61582	D	H	4	.FK	mny	:9/6	1. csoport	T206		Fejes	Katalin Lilla	Magyar nyelv
+53349	D	H	4	.Hne	mat	.9/1	c2	f204 	dr.	Horváth Gyuláné		Matematika
+52130	D	H	4	.IK	mat	.10/1	Egész osztály	k203		Izsó	Katalin	Matematika
+53731	D	H	4	.KGK	inf	.9/2	elekt	fI218		Kálmánné Gát	Klára	Informatika
+52979	D	H	4	.PTV	po	.9/1	c1	f112 		Tompa	Valéria	Pályaorientáció
+53287	D	H	4	.SzJ	inf	.9/3	13	I1		Szikora	János	Informatika
+54432	D	H	4	.TM	po	.9/3	12	f212		Törköly	Magdolna	Pályaorientáció
+61282	D	H	4	:Bu	mny	:9.B.	Egész osztály	T205	 	Burkovics	Ferenc	Magyar nyelv
+64282	D	H	4	:GLK	mat	:12.B.	Egész osztály	T309	 	Geráné Lippay 	Klára	Matematika
+52372	D	H	4	:HG	rv	.11/D	Egész osztály	f107	 	Herczeg	Gabriella	Rajz és vizuális kultúra
+60082	D	H	4	:MM	inf	:3/13B	2. Csoport	T111	 	Máté	Mária	Informatika
+60382	D	H	4	:MSM	mny	:12.A.	Egész osztály	T202	 	Máhigné Stefanovits	Márta	Magyar nyelv
+63982	D	H	4	:NyM	mny	:9/6	2. csoport	T308	 	Nyári	Mariann	Magyar nyelv
+63382	D	H	4	:PA	inf	:3/13B	1. Csoport	T302	 	Pásztor	Attila	Informatika
+60682	D	H	4	:PL	mny	:11.A.	Egész osztály	T203	 	Pozsik	László	Magyar nyelv
+59782	D	H	4	:SVI	mny	:11.B.	Egész osztály	T109	 	Székelyné Veres	Ilona	Magyar nyelv
+59482	D	H	4	:Sztne	fiz	:9.A.	Egész osztály	T108	 	Sztankovics	Józsefné	Fizika
+52378	D	H	5	.Hne	mat	.11/D	Egész osztály	f107	dr.	Horváth Gyuláné		Matematika
+53293	D	H	5	.JG	inf	.9/3	12	I1		Janzsó	Gábor	Informatika
+53354	D	H	5	.KE	mat	.9/2	épít	f204 		Kosara	Erika	Matematika
+53739	D	H	5	.KGK	inf	.10/1	A2 	fI218		Kálmánné Gát	Klára	Informatika
+51906	D	H	5	.MSzA	fizk	.11/C	vegy	f104		Miskolcziné Szilágyi	Andrea	Fizikai kémia
+63987	D	H	5	.PTV	po	:9/6	2. csoport	T308		Tompa	Valéria	Pályaorientáció
+52572	D	H	5	.VI	of	.2/10/3	Egész osztály	f109		Vidákovics	István	Osztályfőnöki
+53535	D	H	5	.ZM	of	.1/9/3	Egész osztály	f206 		Zimmer	Márta	Osztályfőnöki
+57687	D	H	5	:BA	inf	:9/6	1. csoport	T3	 	Berczik	Andrea	Informatika
+64287	D	H	5	:GLK	mat	:11.B.	Egész osztály	T309	 	Geráné Lippay 	Klára	Matematika
+61587	D	H	5	:LJne	mat	:9.B.	Egész osztály	T206	 	L?rincz	Jánosné	Matematika
+60087	D	H	5	:MM	inf	:3/13B	2. Csoport	T111	 	Máté	Mária	Informatika
+61887	D	H	5	:MSM	of	:12.A.	Egész osztály	T208	 	Máhigné Stefanovits	Márta	Osztályfőnöki
+62487	D	H	5	:MSZ	mny	:10/7	Egész osztály	T214	 	Bönditzné Magyar	Szilvia	Magyar nyelv
+63387	D	H	5	:PA	inf	:3/13B	1. Csoport	T302	 	Pásztor	Attila	Informatika
+62187	D	H	5	:RJ	of	:2/12F	Egész osztály	T212	 	Rózsa	János	Osztályfőnöki
+58587	D	H	5	:SVI	éz	:10.B.	Egész osztály	T7	 	Székelyné Veres	Ilona	Ének-zene
+59487	D	H	5	:Sztne	mat	:9.A.	Egész osztály	T108	 	Sztankovics	Józsefné	Matematika
+53359	D	H	6	.IK	mat	.9/3	13	f204 		Izsó	Katalin	Matematika
+53749	D	H	6	.KGK	inf	.9/2	elekt	fI218		Kálmánné Gát	Klára	Informatika
+63992	D	H	6	.PTV	po	:9/6	2. csoport	T308		Tompa	Valéria	Pályaorientáció
+53299	D	H	6	.SzJ	inf	.9/2	épít	I1		Szikora	János	Informatika
+61892	D	H	6	:AN	kém	:9.A.	Egész osztály	T208	 	Asbóth	Norbert	Kémia
+57692	D	H	6	:BA	inf	:12.A.	Inf I	T3	 	Berczik	Andrea	Informatika
+61592	D	H	6	:MSM	mny	:12.B.	Egész osztály	T206	 	Máhigné Stefanovits	Márta	Magyar nyelv
+60092	D	H	6	:PA	inf	:10/5	1. Csoport	T111	 	Pásztor	Attila	Informatika
+60392	D	H	6	:SGyT	kém	:10/8	Egész osztály	T202	 	Siposné Gyarmati	Teréz	Kémia
+63392	D	H	6	:TI	inf	:12.A.	Inf II	T302	 	Tóth	István János	Informatika
+53759	D	H	7	.JG	inf	.2/10/1	szell	fI218		Janzsó	Gábor	Informatika
+51836	D	H	7	.NT	inf++	.11/D	inf1	f222		Németh	Tamás	Informatika fakultáció
+53504	D	H	7	.SM	inf++	.12/C	inf1	fI216		Százné S?rés	Márta	Informatika fakultáció
+53305	D	H	7	.SzJ	inf++	.12/D, .12/C	.12/D(Szt), .12/C(inf2)	I1		Szikora	János	Informatika fakultáció
+56447	D	H	7	.VeI	heg	.1/9/5	h2	Deri1	 	Vetró	István	Hegesztés 
+57697	D	H	7	:PA	inf	:10/5	1. Csoport	T3	 	Pásztor	Attila	Informatika
+63997	D	H	7	:Ra	mat	:9/6	2. csoport	T308	 	Radóczi	Tibor	Matematika
+61597	D	H	7	:SVI	mi	:10/6	Egész osztály	T206	 	Székelyné Veres	Ilona	Magyar irodalom
+60397	D	H	7	:Sztne	mat	:10/5	2. Csoport	T202	 	Sztankovics	Józsefné	Matematika
+51908	D	H	8	.MSzA	fizk	.2/14/T	vegy	f104		Miskolcziné Szilágyi	Andrea	Fizikai kémia
+53508	D	H	8	.SM	inf++	.12/C	inf1	fI216		Százné S?rés	Márta	Informatika fakultáció
+53311	D	H	8	.SzJ	inf++	.12/D, .12/C	.12/D(Szt), .12/C(inf2)	I1		Szikora	János	Informatika fakultáció
+56452	D	H	8	.VeI	heg	.1/9/5	h2	Deri1	 	Vetró	István	Hegesztés 
+60102	D	H	8	:BA	inf	:9.B.	Inf I	T111	 	Berczik	Andrea	Informatika
+61302	D	H	8	:Ne	mat	:10/5	1. Csoport	T205	 	Neparáczkiné Kiss	Beatrix	Matematika
+61602	D	H	8	:SVI	mi	:10/6	Egész osztály	T206	 	Székelyné Veres	Ilona	Magyar irodalom
+60402	D	H	8	:Sztne	mat	:10/5	2. Csoport	T202	 	Sztankovics	Józsefné	Matematika
+57702	D	H	8	:TI	inf	:9.A.	inf 2	T3	 	Tóth	István János	Informatika
+58602	D	H	8	:TKG	mat	:10/8	Egész osztály	T7		Tolnainé Kern	Gabriella	Matematika
+58907	D	H	9	.FZs	fiz	:10/6	Egész osztály	T106	dr.	Tóthné Farkas	Zsuzsanna	Fizika
+51909	D	H	9	.MSzA	fizk	.2/14/T	vegy	f104		Miskolcziné Szilágyi	Andrea	Fizikai kémia
+56457	D	H	9	.VeI	heg	.1/9/5	h2	Deri1	 	Vetró	István	Hegesztés 
+59507	D	H	9	:MSM	mny	:10/5	2. Csoport	T108	 	Máhigné Stefanovits	Márta	Magyar nyelv
+61307	D	H	9	:Ne	mat	:10/5	1. Csoport	T205	 	Neparáczkiné Kiss	Beatrix	Matematika
+58607	D	H	9	:SVI	éz	:10/8	Egész osztály	T7	 	Székelyné Veres	Ilona	Ének-zene
+60112	D	H	10	.CsA	kém	:10/6	Egész osztály	T111		Csorba	Attila	Kémia
+54302	D	H	10	.MSzA	köv	.1/13/T	vegy	fFsz6		Miskolcziné Szilágyi	Andrea	Környezetvédelem
+56462	D	H	10	.VeI	heg	.1/9/5	h2	Deri1	 	Vetró	István	Hegesztés 
+60712	D	H	10	:HK	of	:10/8	Egész osztály	T203	dr.	Kertainé Hagyó	Klára	Osztályfőnöki
+58612	D	H	10	:Ne	mat	:10/7	Egész osztály	T7	 	Neparáczkiné Kiss	Beatrix	Matematika
+54308	D	H	11	.MSzA	fizk	.1/13/T	vegy	fFsz6		Miskolcziné Szilágyi	Andrea	Fizikai kémia
+56467	D	H	11	.VeI	heg	.1/9/5	h2	Deri1	 	Vetró	István	Hegesztés 
+60717	D	H	11	:HK	mny	:10/8	Egész osztály	T203	dr.	Kertainé Hagyó	Klára	Magyar nyelv
+63417	D	H	11	:KLE	gépír	:2/12E	Gepirok	T302	 	Kajáriné Lestár	Erzsébet	Gépírás
+59517	D	H	11	:LO	of	:10/5	Egész osztály	T108	 	Luczay 	Orsolya	Osztályfőnöki
+58617	D	H	11	:Ne	mat	:10/7	Egész osztály	T7	 	Neparáczkiné Kiss	Beatrix	Matematika
+54314	D	H	12	.MSzA	fizk	.1/13/T	vegy	fFsz6		Miskolcziné Szilágyi	Andrea	Fizikai kémia
+56472	D	H	12	.VeI	heg	.1/9/5	h2	Deri1	 	Vetró	István	Hegesztés 
+60722	D	H	12	:HK	mny	:10/8	Egész osztály	T203	dr.	Kertainé Hagyó	Klára	Magyar nyelv
+63422	D	H	12	:KLE	gépír	:2/12E	Gepirok	T302	 	Kajáriné Lestár	Erzsébet	Gépírás
+56477	D	H	13	.VeI	heg	.1/9/5	h2	Deri1	 	Vetró	István	Hegesztés 
+63427	D	H	13	:KLE	gépír	:2/12E	Gepirok	T302	 	Kajáriné Lestár	Erzsébet	Gépírás
+53259	D	K	0	.KGK	inf++	.12/C	inf1	I1		Kálmánné Gát	Klára	Informatika fakultáció
+52348	D	K	1	.CsNE	szk	.12/C	R	f107	dr.	Csotó Nagy	Erzsébet	Szerves kémia I
+61268	D	K	1	.FK	mny	:9/5	1. csoport	T205		Fejes	Katalin Lilla	Magyar nyelv
+52125	D	K	1	.Hne	mat	.10/D	Egész osztály	f106	dr.	Horváth Gyuláné		Matematika
+52109	D	K	1	.IK	mat	.10/1	Egész osztály	k203		Izsó	Katalin	Matematika
+53480	D	K	1	.JG	inf	.1/9/4	burk	fI216		Janzsó	Gábor	Informatika
+53705	D	K	1	.KGK	inf	.2/10/1	gépl	fI218		Kálmánné Gát	Klára	Informatika
+53261	D	K	1	.SzJ	inf	.9/C	R1	I1		Szikora	János	Informatika
+57668	D	K	1	:BA	inf	:10.A.	Inf I	T3	 	Berczik	Andrea	Informatika
+64568	D	K	1	:CsL	szai	:2/12F	fenyezo	T310	 	Cseh	László	Szakmai alapismeret
+63668	D	K	1	:KB	inf	:10.B.	Inf II	T303	 	Kazi	Balázs Róbert	Informatika
+59168	D	K	1	:MTE	po	:9/7	1. csoport	T107	 	Mucsiné Turu	Erzsébet	Pályaorientáció
+58868	D	K	1	:Ne	mat	:9/4	2. csoport	T106	 	Neparáczkiné Kiss	Beatrix	Matematika
+63368	D	K	1	:PA	inf	:9/5	2. csoport	T302	 	Pásztor	Attila	Informatika
+60068	D	K	1	:TI	inf	:10.A.	Inf II	T111	 	Tóth	István János	Informatika
+52965	D	K	2	.Hne	mat	.11/D	Egész osztály	f112 	dr.	Horváth Gyuláné		Matematika
+52356	D	K	2	.IK	mat	.10/2	Egész osztály	f107		Izsó	Katalin	Matematika
+53269	D	K	2	.JG	inf	.9/C	V	I1		Janzsó	Gábor	Informatika
+53715	D	K	2	.KGK	inf	.2/10/1	gépl	fI218		Kálmánné Gát	Klára	Informatika
+51900	D	K	2	.MSzA	fizk	.12/C	V	f104		Miskolcziné Szilágyi	Andrea	Fizikai kémia
+52877	D	K	2	.PFne	rv	.11/C	Egész osztály	k207		Pálvölgyiné Szécsi	Valéria	Rajz és vizuális kultúra
+53486	D	K	2	.SM	inf	.1/9/4	k?m	fI216		Százné S?rés	Márta	Informatika
+52550	D	K	2	.VI	of	.2/10/3	Egész osztály	f109		Vidákovics	István	Osztályfőnöki
+57673	D	K	2	:BA	inf	:10.B.	Inf I	T3	 	Berczik	Andrea	Informatika
+60073	D	K	2	:KB	inf	:10.B.	Inf II	T111	 	Kazi	Balázs Róbert	Informatika
+59473	D	K	2	:LJne	fiz	:10.A.	Egész osztály	T108	 	L?rincz	Jánosné	Fizika
+59173	D	K	2	:MTE	po	:9/7	1. csoport	T107	 	Mucsiné Turu	Erzsébet	Pályaorientáció
+63373	D	K	2	:PA	inf	:9/4	2. csoport	T302	 	Pásztor	Attila	Informatika
+62173	D	K	2	:Sztne	mat	:12.A.	Egész osztály	T212	 	Sztankovics	Józsefné	Matematika
+51882	D	K	3	.Hne	mat	.12/C	Egész osztály	k201	dr.	Horváth Gyuláné		Matematika
+52364	D	K	3	.IK	mat	.10/2	Egész osztály	f107		Izsó	Katalin	Matematika
+52143	D	K	3	.KE	mat	.9/C	.9/C(V), .9/C(R2/2)	f106		Kosara	Erika	Matematika
+53725	D	K	3	.KGK	inf	.1/9/2	a	fI218		Kálmánné Gát	Klára	Informatika
+54031	D	K	3	.PTV	of	.10/3	Egész osztály	f209 		Tompa	Valéria	Osztályfőnöki
+53494	D	K	3	.SM	inf	.1/9/4	k?m	fI216		Százné S?rés	Márta	Informatika
+52887	D	K	3	.SzE	of	.11/C	Egész osztály	k207		Szilágyi	Emese	Osztályfőnöki
+53279	D	K	3	.SzJ	inf	.9/D	.9/D(eá1), .9/D(eá2)	I1		Szikora	János	Informatika
+57678	D	K	3	:BA	inf	:9/6	1. csoport	T3	 	Berczik	Andrea	Informatika
+60378	D	K	3	:LJne	mat	:10.B.	Egész osztály	T202	 	L?rincz	Jánosné	Matematika
+60078	D	K	3	:MM	inf	:11.B.	Inf II	T111	 	Máté	Mária	Informatika
+61578	D	K	3	:MSM	mny	:12.A.	Egész osztály	T206	 	Máhigné Stefanovits	Márta	Magyar nyelv
+63378	D	K	3	:PA	inf	:9/7	1. csoport	T302	 	Pásztor	Attila	Informatika
+61878	D	K	3	:SGyT	bio	:10.A.	Egész osztály	T208	 	Siposné Gyarmati	Teréz	Biológia
+64278	D	K	3	:SVI	mny	:9.A.	Egész osztály	T309	 	Székelyné Veres	Ilona	Magyar nyelv
+57978	D	K	3	:SzH	ák	:2/14B	elektr	T4	 	Szöll?si	Huba	Alkalmazott kémia
+57978	D	K	3	:SzH	ák	:2/14B	elektr	T4	 	Szöll?si	Huba	Általános kémia
+61278	D	K	3	:TKG	mat	:11.A.	Egész osztály	T205		Tolnainé Kern	Gabriella	Matematika
+53527	D	K	4	.Hne	mat	.9/1	c2	f206 	dr.	Horváth Gyuláné		Matematika
+53500	D	K	4	.JG	inf	.2/10/1	szell	fI216		Janzsó	Gábor	Informatika
+54040	D	K	4	.KE	mat	.10/3	Egész osztály	f209 		Kosara	Erika	Matematika
+53733	D	K	4	.KGK	inf	.10/C	R2	fI218		Kálmánné Gát	Klára	Informatika
+52153	D	K	4	.MSzA	of	.10/D	Egész osztály	f106		Miskolcziné Szilágyi	Andrea	Osztályfőnöki
+53289	D	K	4	.SzJ	inf	.10/C	R1	I1		Szikora	János	Informatika
+57683	D	K	4	:BA	inf	:11.A.	Inf I	T3	 	Berczik	Andrea	Informatika
+52132	D	K	4	:HG	rv	.10/1	Egész osztály	k203	 	Herczeg	Gabriella	Rajz és vizuális kultúra
+60083	D	K	4	:MM	inf	:11.B.	Inf II	T111	 	Máté	Mária	Informatika
+63383	D	K	4	:PA	inf	:11.A.	Inf II	T302	 	Pásztor	Attila	Informatika
+62183	D	K	4	:PL	mny	:9/4	2. csoport	T212	 	Pozsik	László	Magyar nyelv
+60383	D	K	4	:SGyT	kém	:10.A.	Egész osztály	T202	 	Siposné Gyarmati	Teréz	Kémia
+57983	D	K	4	:SzH	ák	:2/14B	elektr	T4	 	Szöll?si	Huba	Alkalmazott kémia
+57983	D	K	4	:SzH	ák	:2/14B	elektr	T4	 	Szöll?si	Huba	Általános kémia
+58583	D	K	4	:Sztne	fiz	:9.B.	Egész osztály	T7	 	Sztankovics	Józsefné	Fizika
+59183	D	K	4	:TKG	mat	:9/7	2. csoport	T107		Tolnainé Kern	Gabriella	Matematika
+58888	D	K	5	.FK	mny	:9/6	1. csoport	T106		Fejes	Katalin Lilla	Magyar nyelv
+55294	D	K	5	.IK	mat	.9/D	.9/D(eá1), .9/D(eá2)	f224		Izsó	Katalin	Matematika
+52812	D	K	5	.KA	of	.3/11/3	Egész osztály	f110 		Kiss	Antal	Osztályfőnöki
+54277	D	K	5	.KE	mat	.9/D	.9/D(ég1), .9/D(ég2)	f210 		Kosara	Erika	Matematika
+53741	D	K	5	.KGK	inf	.10/3	c2	fI218		Kálmánné Gát	Klára	Informatika
+60088	D	K	5	:BA	inf	:9.B.	Inf I	T111	 	Berczik	Andrea	Informatika
+63688	D	K	5	:KB	inf	:9.B.	Inf II	T303	 	Kazi	Balázs Róbert	Informatika
+61888	D	K	5	:MSM	mny	:12.B.	Egész osztály	T208	 	Máhigné Stefanovits	Márta	Magyar nyelv
+59188	D	K	5	:MTE	anyá	:2/12A	noi	T107	 	Mucsiné Turu	Erzsébet	Általános nyomdaipari alapismeretek
+62788	D	K	5	:NyM	mny	:9/5	2. csoport	T215	 	Nyári	Mariann	Magyar nyelv
+63388	D	K	5	:PA	inf	:2/12E	2. Csoport	T302	 	Pásztor	Attila	Informatika
+63088	D	K	5	:SGyT	bio	:2/14B	:2/14B(kozm1), :2/14B(kozm2)	T301	 	Siposné Gyarmati	Teréz	Biológia
+62188	D	K	5	:SVI	mny	:11.B.	Egész osztály	T212	 	Székelyné Veres	Ilona	Magyar nyelv
+57988	D	K	5	:SzH	ák	:2/14B	elektr	T4	 	Szöll?si	Huba	Alkalmazott kémia
+57988	D	K	5	:SzH	ák	:2/14B	elektr	T4	 	Szöll?si	Huba	Általános kémia
+59488	D	K	5	:Sztne	mat	:9.A.	Egész osztály	T108	 	Sztankovics	Józsefné	Matematika
+60388	D	K	5	:TKG	mat	:10.A.	Egész osztály	T202		Tolnainé Kern	Gabriella	Matematika
+52171	D	K	6	.Hne	mat	.9/1	c1	f106	dr.	Horváth Gyuláné		Matematika
+53166	D	K	6	.KE	of	.9/C	Egész osztály	f130 		Kosara	Erika	Osztályfőnöki
+53751	D	K	6	.KGK	inf	.10/D	gé	fI218		Kálmánné Gát	Klára	Informatika
+53502	D	K	6	.SM	inf++	.11/C, .11/D	inf2	fI216		Százné S?rés	Márta	Informatika fakultáció
+53301	D	K	6	.SzJ	inf++	.11/D	inf1	I1		Szikora	János	Informatika fakultáció
+57693	D	K	6	:BA	inf	:9.A.	inf 1	T3	 	Berczik	Andrea	Informatika
+64593	D	K	6	:CsL	szai	:2/12F	fenyezo	T310	 	Cseh	László	Szakmai alapismeret
+63693	D	K	6	:KB	inf	:9.B.	Inf II	T303	 	Kazi	Balázs Róbert	Informatika
+60093	D	K	6	:MM	inf	:9/4	1. csoport	T111	 	Máté	Mária	Informatika
+61293	D	K	6	:MSM	mny	:12.A.	Egész osztály	T205	 	Máhigné Stefanovits	Márta	Magyar nyelv
+59193	D	K	6	:MTE	anyá	:2/12A	noi	T107	 	Mucsiné Turu	Erzsébet	Általános nyomdaipari alapismeretek
+63393	D	K	6	:PA	inf	:2/12E	2. Csoport	T302	 	Pásztor	Attila	Informatika
+62193	D	K	6	:SVI	of	:11.B.	Egész osztály	T212	 	Székelyné Veres	Ilona	Osztályfőnöki
+57993	D	K	6	:SzH	ák	:2/14B	elektr	T4	 	Szöll?si	Huba	Alkalmazott kémia
+57993	D	K	6	:SzH	ák	:2/14B	elektr	T4	 	Szöll?si	Huba	Általános kémia
+61898	D	K	7	.CsA	kém	:10/7	Egész osztály	T208		Csorba	Attila	Kémia
+54731	D	K	7	.HK	of	.3/11/1	Egész osztály	f214		Huszár	Károly	Osztályfőnöki
+53761	D	K	7	.KGK	inf	.9/C	.9/C(R2/1), .9/C(R2/2)	fI218		Kálmánné Gát	Klára	Informatika
+53506	D	K	7	.SM	inf++	.11/C, .11/D	inf2	fI216		Százné S?rés	Márta	Informatika fakultáció
+53307	D	K	7	.SzJ	inf++	.11/D	inf1	I1		Szikora	János	Informatika fakultáció
+56448	D	K	7	.VeI	heg	.1/9/5	h2	Deri1	 	Vetró	István	Hegesztés 
+57698	D	K	7	:BA	inf	:10/6	1. csoport	T3	 	Berczik	Andrea	Informatika
+60098	D	K	7	:MM	inf	:10/8	1. csoport	T111	 	Máté	Mária	Informatika
+63398	D	K	7	:PA	inf	:10/8	2. csoport	T302	 	Pásztor	Attila	Informatika
+60698	D	K	7	:PME	anyá	:3/13A	noi	T203	 	Perényiné Miskolczi	Erzsébet	Általános nyomdaipari alapismeretek
+60398	D	K	7	:SGyT	kém	:10.B.	Egész osztály	T202	 	Siposné Gyarmati	Teréz	Kémia
+58598	D	K	7	:TKG	mat	:10.A.	Egész osztály	T7		Tolnainé Kern	Gabriella	Matematika
+56453	D	K	8	.VeI	heg	.1/9/5	h2	Deri1	 	Vetró	István	Hegesztés 
+63403	D	K	8	:KB	inf	:10/4	német II	T302	 	Kazi	Balázs Róbert	Informatika
+58603	D	K	8	:KoSK	mny	:10.A.	Egész osztály	T7	 	Komárominé Sipos	Katalin	Magyar nyelv
+60103	D	K	8	:MM	inf	:10/4	német I	T111	 	Máté	Mária	Informatika
+59503	D	K	8	:SVI	mny	:10/6	Egész osztály	T108	 	Székelyné Veres	Ilona	Magyar nyelv
+64303	D	K	8	:WA	bio	:10/7	Egész osztály	T309	 	Weiner	András	Biológia
+56458	D	K	9	.VeI	heg	.1/9/5	h2	Deri1	 	Vetró	István	Hegesztés 
+61908	D	K	9	:BLne	fiz	:10/7	Egész osztály	T208	 	Baár	Lászlóné	Fizika
+61308	D	K	9	:KoSK	po	:10/4	német II	T205	 	Komárominé Sipos	Katalin	Pályaorientáció
+60108	D	K	9	:MM	inf	:10/4	német I	T111	 	Máté	Mária	Informatika
+61608	D	K	9	:MSM	mny	:10/5	2. Csoport	T206	 	Máhigné Stefanovits	Márta	Magyar nyelv
+58608	D	K	9	:SVI	éz	:10/6	Egész osztály	T7	 	Székelyné Veres	Ilona	Ének-zene
+58908	D	K	9	:TZs	of	:2/12E	Egész osztály	T106	 	Tatár	Zsuzsanna	Osztályfőnöki
+56463	D	K	10	.VeI	heg	.1/9/5	h2	Deri1	 	Vetró	István	Hegesztés 
+58913	D	K	10	:Bu	mny	:10/5	1. Csoport	T106	 	Burkovics	Ferenc	Magyar nyelv
+61313	D	K	10	:KoSK	po	:10/4	német II	T205	 	Komárominé Sipos	Katalin	Pályaorientáció
+60113	D	K	10	:MM	inf	:2/12C	aszt	T111	 	Máté	Mária	Informatika
+61613	D	K	10	:MSM	mny	:10/5	2. Csoport	T206	 	Máhigné Stefanovits	Márta	Magyar nyelv
+58613	D	K	10	:SVI	éz	:10/7	Egész osztály	T7	 	Székelyné Veres	Ilona	Ének-zene
+56468	D	K	11	.VeI	heg	.1/9/5	h2	Deri1	 	Vetró	István	Hegesztés 
+58918	D	K	11	:Bu	mny	:10/5	1. Csoport	T106	 	Burkovics	Ferenc	Magyar nyelv
+63718	D	K	11	:KLE	gépír	:1/11D	gepiro	T303	 	Kajáriné Lestár	Erzsébet	Gépírás
+60118	D	K	11	:TBZS	inf	:2/12E	1. Csoport	T111	 	Tóthné Bíró	Zsuzsanna	Informatika
+58618	D	K	11	:WA	bio	:10/6	Egész osztály	T7	 	Weiner	András	Biológia
+56473	D	K	12	.VeI	heg	.1/9/5	h2	Deri1	 	Vetró	István	Hegesztés 
+58923	D	K	12	:BLne	mat	:10/6	Egész osztály	T106	 	Baár	Lászlóné	Matematika
+63723	D	K	12	:KLE	gépír	:1/11D	gepiro	T303	 	Kajáriné Lestár	Erzsébet	Gépírás
+60123	D	K	12	:TBZS	inf	:2/12E	1. Csoport	T111	 	Tóthné Bíró	Zsuzsanna	Informatika
+57723	D	K	12	:TI	inf	:2/12B	2. Csoport	T3	 	Tóth	István János	Informatika
+63423	D	K	12	:VT	inf	:2/12A	2. Csoport	T302	 	Varga	Tamás	Informatika
+56478	D	K	13	.VeI	heg	.1/9/5	h2	Deri1	 	Vetró	István	Hegesztés 
+58928	D	K	13	:BLne	mat	:10/6	Egész osztály	T106	 	Baár	Lászlóné	Matematika
+63728	D	K	13	:KLE	gépír	:1/11D	gepiro	T303	 	Kajáriné Lestár	Erzsébet	Gépírás
+63428	D	K	13	:VT	inf	:2/12A	2. Csoport	T302	 	Varga	Tamás	Informatika
+55432	D	P	0	.Ho	heg	.1/9/1	klíma	fheg		Hoffmann László		Hegesztés 
+61271	D	P	1	.FK	mny	:9/5	1. csoport	T205		Fejes	Katalin Lilla	Magyar nyelv
+52873	D	P	1	.Hne	mat	.11/C	Egész osztály	k207	dr.	Horváth Gyuláné		Matematika
+55440	D	P	1	.Ho	heg	.1/9/1	klíma	fheg		Hoffmann László		Hegesztés 
+52129	D	P	1	.IK	mat	.10/2	Egész osztály	f106		Izsó	Katalin	Matematika
+52788	D	P	1	.KE	mat	.9/C	.9/C(R1), .9/C(R2/1)	f110 		Kosara	Erika	Matematika
+59171	D	P	1	.PTV	po	:9/4	2. csoport	T107		Tompa	Valéria	Pályaorientáció
+53711	D	P	1	.SM	inf	.10/C	V	fI218		Százné S?rés	Márta	Informatika
+53265	D	P	1	.SzJ	inf	.10/D	vill	I1		Szikora	János	Informatika
+53505	D	P	1	.TM	po	.9/1	c2	f206 		Törköly	Magdolna	Pályaorientáció
+57671	D	P	1	:BA	inf	:10.B.	Inf I	T3	 	Berczik	Andrea	Informatika
+61571	D	P	1	:HBA	pszi	:11.B.	Egész osztály	T206	 	Hajduné Bihari	Ágnes	Pszichológia
+58571	D	P	1	:LJne	fiz	:10.A.	Egész osztály	T7	 	L?rincz	Jánosné	Fizika
+63071	D	P	1	:MTE	po	:9/4	1. csoport	T301	 	Mucsiné Turu	Erzsébet	Pályaorientáció
+63371	D	P	1	:PA	inf	:2/14B	kozm1	T302	 	Pásztor	Attila	Informatika
+58871	D	P	1	:PME	szai	:2/12E	karpit	T106	 	Perényiné Miskolczi	Erzsébet	Szakmai alapismeret
+60371	D	P	1	:SGyT	bio	:9.B.	Egész osztály	T202	 	Siposné Gyarmati	Teréz	Biológia
+63671	D	P	1	:TI	inf	:2/14B	kozm2	T303	 	Tóth	István János	Informatika
+52139	D	P	2	.Hne	mat	.11/D	Egész osztály	f106	dr.	Horváth Gyuláné		Matematika
+55445	D	P	2	.Ho	heg	.1/9/1	klíma	fheg		Hoffmann László		Hegesztés 
+53490	D	P	2	.JG	inf	.10/2	.10/2(eá1), .10/2(eá2)	fI216		Janzsó	Gábor	Informatika
+52796	D	P	2	.KE	mat	.9/C	.9/C(R1), .9/C(R2/1)	f110 		Kosara	Erika	Matematika
+54942	D	P	2	.PFne	rv	.12/D	Egész osztály	f215		Pálvölgyiné Szécsi	Valéria	Rajz és vizuális kultúra
+59176	D	P	2	.PTV	po	:9/4	2. csoport	T107		Tompa	Valéria	Pályaorientáció
+53721	D	P	2	.SM	inf	.9/D	.9/D(ég1), .9/D(ég2)	fI218		Százné S?rés	Márta	Informatika
+53275	D	P	2	.SzJ	inf	.9/3	13	I1		Szikora	János	Informatika
+57676	D	P	2	:BA	inf	:9/5	1. csoport	T3	 	Berczik	Andrea	Informatika
+61576	D	P	2	:HBA	pszi	:11.B.	Egész osztály	T206	 	Hajduné Bihari	Ágnes	Pszichológia
+64276	D	P	2	:KoSK	of	:10.A.	Egész osztály	T309	 	Komárominé Sipos	Katalin	Osztályfőnöki
+61276	D	P	2	:LJne	mat	:10.B.	Egész osztály	T205	 	L?rincz	Jánosné	Matematika
+60076	D	P	2	:MM	inf	:2/12C	aszt	T111	 	Máté	Mária	Informatika
+63076	D	P	2	:MTE	po	:9/4	1. csoport	T301	 	Mucsiné Turu	Erzsébet	Pályaorientáció
+62776	D	P	2	:NyM	mny	:9/5	2. csoport	T215	 	Nyári	Mariann	Magyar nyelv
+63376	D	P	2	:PA	inf	:2/14B	kozm1	T302	 	Pásztor	Attila	Informatika
+58876	D	P	2	:PME	szai	:2/12E	karpit	T106	 	Perényiné Miskolczi	Erzsébet	Szakmai alapismeret
+62476	D	P	2	:Ra	mat	:9/6	2. csoport	T214	 	Radóczi	Tibor	Matematika
+60376	D	P	2	:SGyT	kém	:9.B.	Egész osztály	T202	 	Siposné Gyarmati	Teréz	Kémia
+58576	D	P	2	:SVI	mny	:9.A.	Egész osztály	T7	 	Székelyné Veres	Ilona	Magyar nyelv
+63676	D	P	2	:TI	inf	:2/14B	kozm2	T303	 	Tóth	István János	Informatika
+60081	D	P	3	.FK	mny	:9/4	1. csoport	T111		Fejes	Katalin Lilla	Magyar nyelv
+54264	D	P	3	.Hne	mat	.10/D	Egész osztály	f210 	dr.	Horváth Gyuláné		Matematika
+55450	D	P	3	.Ho	heg	.1/9/1	klíma	fheg		Hoffmann László		Hegesztés 
+55098	D	P	3	.IK	mat	.9/2	elekt	f217		Izsó	Katalin	Matematika
+53498	D	P	3	.JG	inf	.9/1	c1	fI216		Janzsó	Gábor	Informatika
+53523	D	P	3	.KE	mat	.9/2	épít	f206 		Kosara	Erika	Matematika
+53730	D	P	3	.KGK	inf	.10/C	R2	fI218		Kálmánné Gát	Klára	Informatika
+53285	D	P	3	.SzJ	inf	.10/C	R1	I1		Szikora	János	Informatika
+57681	D	P	3	:BA	inf	:11.A.	Inf I	T3	 	Berczik	Andrea	Informatika
+61881	D	P	3	:BLne	mat	:9/6	1. csoport	T208	 	Baár	Lászlóné	Matematika
+61581	D	P	3	:HG	rv	:11.B.	Egész osztály	T206	 	Herczeg	Gabriella	Rajz és vizuális kultúra
+64281	D	P	3	:KoSK	mny	:10.A.	Egész osztály	T309	 	Komárominé Sipos	Katalin	Magyar nyelv
+62481	D	P	3	:LJne	of	:10.B.	Egész osztály	T214	 	L?rincz	Jánosné	Osztályfőnöki
+62781	D	P	3	:Ne	mat	:9/5	1. csoport	T215	 	Neparáczkiné Kiss	Beatrix	Matematika
+63981	D	P	3	:NyM	mny	:9/5	2. csoport	T308	 	Nyári	Mariann	Magyar nyelv
+63381	D	P	3	:PA	inf	:11.A.	Inf II	T302	 	Pásztor	Attila	Informatika
+63081	D	P	3	:PL	mny	:9/4	2. csoport	T301	 	Pozsik	László	Magyar nyelv
+58881	D	P	3	:PME	szai	:2/12E	karpit	T106	 	Perényiné Miskolczi	Erzsébet	Szakmai alapismeret
+60381	D	P	3	:SGyT	bio	:2/14A	Egész osztály	T202	 	Siposné Gyarmati	Teréz	Biológia
+62181	D	P	3	:SVI	mny	:9.A.	Egész osztály	T212	 	Székelyné Veres	Ilona	Magyar nyelv
+61281	D	P	3	:Sztne	fiz	:9.B.	Egész osztály	T205	 	Sztankovics	Józsefné	Fizika
+58581	D	P	3	:UM	of	:9/7	Egész osztály	T7	 	Urbán 	Marianna	Osztályfőnöki
+52377	D	P	4	.BM	of	.9/D	Egész osztály	f107		Gergelyné Bodó	Mária	Osztályfőnöki
+52159	D	P	4	.FE	of	.11/D	Egész osztály	f106		Figura	Eszter	Osztályfőnöki
+53353	D	P	4	.Hne	mat	.9/1	c2	f204 	dr.	Horváth Gyuláné		Matematika
+55454	D	P	4	.Ho	heg	.1/9/1	klíma	fheg		Hoffmann László		Hegesztés 
+54046	D	P	4	.KE	mat	.10/3	Egész osztály	f209 		Kosara	Erika	Matematika
+53737	D	P	4	.KGK	inf	.10/C	R2	fI218		Kálmánné Gát	Klára	Informatika
+51905	D	P	4	.MSzA	fizk	.12/C	V	f104		Miskolcziné Szilágyi	Andrea	Fizikai kémia
+54955	D	P	4	.PTV	mi	.12/D	Egész osztály	f215		Tompa	Valéria	Magyar irodalom
+53291	D	P	4	.SzJ	inf	.10/C	R1	I1		Szikora	János	Informatika
+57686	D	P	4	:BA	inf	:9/6	1. csoport	T3	 	Berczik	Andrea	Informatika
+63986	D	P	4	:BLne	mat	:9/5	2. csoport	T308	 	Baár	Lászlóné	Matematika
+61586	D	P	4	:HG	rv	:11.B.	Egész osztály	T206	 	Herczeg	Gabriella	Rajz és vizuális kultúra
+63086	D	P	4	:LJne	fiz	:10.B.	Egész osztály	T301	 	L?rincz	Jánosné	Fizika
+60086	D	P	4	:MM	inf	:9/6	2. csoport	T111	 	Máté	Mária	Informatika
+62186	D	P	4	:Ne	mat	:9/5	1. csoport	T212	 	Neparáczkiné Kiss	Beatrix	Matematika
+59186	D	P	4	:NM	mat	:9/7	1. csoport	T107	 	Németh	Magdolna	Matematika
+58886	D	P	4	:PME	szai	:2/12E	karpit	T106	 	Perényiné Miskolczi	Erzsébet	Szakmai alapismeret
+62486	D	P	4	:SGyT	of	:9.B.	Egész osztály	T214	 	Siposné Gyarmati	Teréz	Osztályfőnöki
+61286	D	P	4	:Sztne	mat	:9.A.	Egész osztály	T205	 	Sztankovics	Józsefné	Matematika
+60386	D	P	4	:TKG	mat	:11.A.	Egész osztály	T202		Tolnainé Kern	Gabriella	Matematika
+63386	D	P	4	:VT	inf	:2/12A	1. Csoport	T302	 	Varga	Tamás	Informatika
+60691	D	P	5	.FK	mny	:9/6	1. csoport	T203		Fejes	Katalin Lilla	Magyar nyelv
+55459	D	P	5	.Ho	heg	.1/9/1	klíma	fheg		Hoffmann László		Hegesztés 
+52382	D	P	5	.IK	mat	.9/D	.9/D(eá1), .9/D(eá2)	f107		Izsó	Katalin	Matematika
+53747	D	P	5	.KGK	inf++	.11/C	inf1	fI218		Kálmánné Gát	Klára	Informatika fakultáció
+54963	D	P	5	.PTV	mi	.12/D	Egész osztály	f215		Tompa	Valéria	Magyar irodalom
+53297	D	P	5	.SM	inf	.9/1	c2	I1		Százné S?rés	Márta	Informatika
+52148	D	P	5	.VPZs	of	.10/2	Egész osztály	k203		Vámos-Poljak Zsolt		Osztályfőnöki
+57691	D	P	5	:BA	inf	:12.A.	Inf I	T3	 	Berczik	Andrea	Informatika
+64291	D	P	5	:KoSK	mny	:10.A.	Egész osztály	T309	 	Komárominé Sipos	Katalin	Magyar nyelv
+62491	D	P	5	:LJne	mat	:9.B.	Egész osztály	T214	 	L?rincz	Jánosné	Matematika
+59491	D	P	5	:MM	of	:2/12C	Egész osztály	T108	 	Máté	Mária	Osztályfőnöki
+58891	D	P	5	:PME	szai	:2/12E	karpit	T106	 	Perényiné Miskolczi	Erzsébet	Szakmai alapismeret
+58591	D	P	5	:SGyT	bio	:10.B.	Egész osztály	T7	 	Siposné Gyarmati	Teréz	Biológia
+61291	D	P	5	:Sztne	fiz	:9.A.	Egész osztály	T205	 	Sztankovics	Józsefné	Fizika
+60091	D	P	5	:TI	inf	:12.A.	Inf II	T111	 	Tóth	István János	Informatika
+63391	D	P	5	:VT	inf	:2/12A	1. Csoport	T302	 	Varga	Tamás	Informatika
+62496	D	P	6	.FZs	fiz	:10/6	Egész osztály	T214	dr.	Tóthné Farkas	Zsuzsanna	Fizika
+55464	D	P	6	.Ho	heg	.1/9/1	klíma	fheg		Hoffmann László		Hegesztés 
+53757	D	P	6	.KGK	inf++	.11/C	inf1	fI218		Kálmánné Gát	Klára	Informatika fakultáció
+53303	D	P	6	.SM	inf	.10/3	c1	I1		Százné S?rés	Márta	Informatika
+64596	D	P	6	:CsL	szeri	:2/12F	kerekpar	T310	 	Cseh	László	Szerelési ismeretek
+51897	D	P	6	:HG	rv	.10/2	Egész osztály	k201	 	Herczeg	Gabriella	Rajz és vizuális kultúra
+60096	D	P	6	:MM	inf	:12.B.	Inf II	T111	 	Máté	Mária	Informatika
+59196	D	P	6	:NM	mat	:9/7	1. csoport	T107	 	Németh	Magdolna	Matematika
+57696	D	P	6	:PZ	inf	:12.B.	Inf I	T3		Pataki	Zoltán	Informatika
+64296	D	P	6	:RJ	po	:10/5	2. Csoport	T309	 	Rózsa	János	Pályaorientáció
+61896	D	P	6	:Sztne	mat	:12.A.	Egész osztály	T208	 	Sztankovics	Józsefné	Matematika
+58896	D	P	6	:TKG	mat	:9/7	2. csoport	T106		Tolnainé Kern	Gabriella	Matematika
+55468	D	P	7	.Ho	heg	.1/9/1	klíma	fheg		Hoffmann László		Hegesztés 
+61001	D	P	7	.PTV	po	:10/5	1. Csoport	T204		Tompa	Valéria	Pályaorientáció
+56451	D	P	7	.VeI	heg	.1/9/5	h2	Deri1	 	Vetró	István	Hegesztés 
+61301	D	P	7	:BLne	mat	:9/4	1. csoport	T205	 	Baár	Lászlóné	Matematika
+64601	D	P	7	:CsL	szeri	:2/12F	kerekpar	T310	 	Cseh	László	Szerelési ismeretek
+60101	D	P	7	:MM	inf	:2/12C	fod	T111	 	Máté	Mária	Informatika
+62501	D	P	7	:PL	of	:11.A.	Egész osztály	T214	 	Pozsik	László	Osztályfőnöki
+57701	D	P	7	:PZ	inf	:9/7	2. csoport	T3		Pataki	Zoltán	Informatika
+64301	D	P	7	:RJ	po	:10/5	2. Csoport	T309	 	Rózsa	János	Pályaorientáció
+60401	D	P	7	:SGyT	bio	:10/8	Egész osztály	T202	 	Siposné Gyarmati	Teréz	Biológia
+59501	D	P	7	:Sztne	mat	:10/4	német II	T108	 	Sztankovics	Józsefné	Matematika
+59201	D	P	7	:UM	mny	:9/7	1. csoport	T107	 	Urbán 	Marianna	Magyar nyelv
+58901	D	P	7	:VT	of	:2/12A	Egész osztály	T106	 	Varga	Tamás	Osztályfőnöki
+61006	D	P	8	.PTV	po	:10/5	1. Csoport	T204		Tompa	Valéria	Pályaorientáció
+56456	D	P	8	.VeI	heg	.1/9/5	h2	Deri1	 	Vetró	István	Hegesztés 
+61306	D	P	8	:BLne	mat	:9/4	1. csoport	T205	 	Baár	Lászlóné	Matematika
+60106	D	P	8	:MM	inf	:2/12C	fod	T111	 	Máté	Mária	Informatika
+64306	D	P	8	:RJ	po	:10/5	2. Csoport	T309	 	Rózsa	János	Pályaorientáció
+59506	D	P	8	:TBZS	of	:10/4	Egész osztály	T108	 	Tóthné Bíró	Zsuzsanna	Osztályfőnöki
+60406	D	P	8	:UM	mny	:9/7	1. csoport	T202	 	Urbán 	Marianna	Magyar nyelv
+56461	D	P	9	.VeI	heg	.1/9/5	h2	Deri1	 	Vetró	István	Hegesztés 
+58911	D	P	9	:KoSK	mny	:10/4	német II	T106	 	Komárominé Sipos	Katalin	Magyar nyelv
+59511	D	P	9	:Ne	mat	:10/4	német I	T108	 	Neparáczkiné Kiss	Beatrix	Matematika
+60711	D	P	9	:NyM	mh	:1/11D	gepiro	T203	 	Nyári	Mariann	Magyar helyesírás
+64311	D	P	9	:RJ	po	:10/5	2. Csoport	T309	 	Rózsa	János	Pályaorientáció
+61311	D	P	9	:SGyT	kém	:10/8	Egész osztály	T205	 	Siposné Gyarmati	Teréz	Kémia
+56466	D	P	10	.VeI	heg	.1/9/5	h2	Deri1	 	Vetró	István	Hegesztés 
+58916	D	P	10	:KoSK	mny	:10/4	német II	T106	 	Komárominé Sipos	Katalin	Magyar nyelv
+60116	D	P	10	:MM	inf	:10/8	1. csoport	T111	 	Máté	Mária	Informatika
+59516	D	P	10	:Ne	mat	:10/4	német I	T108	 	Neparáczkiné Kiss	Beatrix	Matematika
+60416	D	P	10	:NyM	mh	:1/11D	gepiro	T202	 	Nyári	Mariann	Magyar helyesírás
+56471	D	P	11	.VeI	heg	.1/9/5	h2	Deri1	 	Vetró	István	Hegesztés 
+63421	D	P	11	:UM	mh	:2/12E	Gepirok	T302	 	Urbán 	Marianna	Magyar helyesírás
+56476	D	P	12	.VeI	heg	.1/9/5	h2	Deri1	 	Vetró	István	Hegesztés 
+58626	D	P	12	:UM	mh	:2/12E	Gepirok	T7	 	Urbán 	Marianna	Magyar helyesírás
+52111	D	Sz	1	.IK	mat	.10/1	Egész osztály	k203		Izsó	Katalin	Matematika
+53707	D	Sz	1	.JG	inf	.9/3	12	fI218		Janzsó	Gábor	Informatika
+54013	D	Sz	1	.KE	mat	.10/3	Egész osztály	f209 		Kosara	Erika	Matematika
+57669	D	Sz	1	:BA	inf	:9.A.	inf 1	T3	 	Berczik	Andrea	Informatika
+61869	D	Sz	1	:BLne	mat	:9/4	1. csoport	T208	 	Baár	Lászlóné	Matematika
+62469	D	Sz	1	:NyM	mny	:9/6	2. csoport	T214	 	Nyári	Mariann	Magyar nyelv
+63369	D	Sz	1	:PA	inf	:9/5	2. csoport	T302	 	Pásztor	Attila	Informatika
+61569	D	Sz	1	:SVI	mny	:10.B.	Egész osztály	T206	 	Székelyné Veres	Ilona	Magyar nyelv
+63669	D	Sz	1	:TI	inf	:9.A.	inf 2	T303	 	Tóth	István János	Informatika
+52135	D	Sz	2	.Hne	mat	.11/D	Egész osztály	f106	dr.	Horváth Gyuláné		Matematika
+54938	D	Sz	2	.IK	mat	.12/D	Egész osztály	f215		Izsó	Katalin	Matematika
+53717	D	Sz	2	.JG	inf	.9/1	c1	fI218		Janzsó	Gábor	Informatika
+53342	D	Sz	2	.KE	mat	.9/3	12	f204 		Kosara	Erika	Matematika
+53271	D	Sz	2	.SM	inf	.9/1	c2	I1		Százné S?rés	Márta	Informatika
+52118	D	Sz	2	.TJ	of	.10/1	Egész osztály	k203		Telek	János	Osztályfőnöki
+57674	D	Sz	2	:BA	inf	:12.A.	Inf I	T3	 	Berczik	Andrea	Informatika
+59774	D	Sz	2	:BLne	of	:9/4	Egész osztály	T109	 	Baár	Lászlóné	Osztályfőnöki
+59474	D	Sz	2	:Bu	mny	:9.B.	Egész osztály	T108	 	Burkovics	Ferenc	Magyar nyelv
+54023	D	Sz	2	:HG	rv	.10/3	Egész osztály	f209 	 	Herczeg	Gabriella	Rajz és vizuális kultúra
+61574	D	Sz	2	:MSM	mny	:12.B.	Egész osztály	T206	 	Máhigné Stefanovits	Márta	Magyar nyelv
+63374	D	Sz	2	:PA	inf	:9/5	2. csoport	T302	 	Pásztor	Attila	Informatika
+62174	D	Sz	2	:SDZs	of	:3/13B	Egész osztály	T212	 	Seb?kné Dobos	Zsuzsanna	Osztályfőnöki
+61874	D	Sz	2	:SVI	mny	:9.A.	Egész osztály	T208	 	Székelyné Veres	Ilona	Magyar nyelv
+63674	D	Sz	2	:TI	inf	:12.A.	Inf II	T303	 	Tóth	István János	Informatika
+52124	D	Sz	3	.Hne	mat	.9/1	c1	k203	dr.	Horváth Gyuláné		Matematika
+54944	D	Sz	3	.IK	mat	.12/D	Egész osztály	f215		Izsó	Katalin	Matematika
+51883	D	Sz	3	.KB	of	.12/C	Egész osztály	k201		Klucsai	Barna	Osztályfőnöki
+52975	D	Sz	3	.KE	mat	.9/C	.9/C(V), .9/C(R2/2)	f112 		Kosara	Erika	Matematika
+51902	D	Sz	3	.MSzA	fizk	.11/C	vegy	f104		Miskolcziné Szilágyi	Andrea	Fizikai kémia
+54260	D	Sz	3	.PTV	po	.9/3	13	f210 		Tompa	Valéria	Pályaorientáció
+60379	D	Sz	3	:AN	kém	:9.A.	Egész osztály	T202	 	Asbóth	Norbert	Kémia
+57679	D	Sz	3	:BA	inf	:9/5	1. csoport	T3	 	Berczik	Andrea	Informatika
+59479	D	Sz	3	:Bu	mny	:9.B.	Egész osztály	T108	 	Burkovics	Ferenc	Magyar nyelv
+61579	D	Sz	3	:HG	rv	:12.B.	Egész osztály	T206	 	Herczeg	Gabriella	Rajz és vizuális kultúra
+60979	D	Sz	3	:KoJo	anym	:11.A.	nyomdász	T204	dr.	Körmendi	József	Anyagmegmunkálások
+60079	D	Sz	3	:MM	inf	:9/4	1. csoport	T111	 	Máté	Mária	Informatika
+63979	D	Sz	3	:NyM	mny	:9/7	2. csoport	T308	 	Nyári	Mariann	Magyar nyelv
+63379	D	Sz	3	:PA	inf	:9/4	2. csoport	T302	 	Pásztor	Attila	Informatika
+62779	D	Sz	3	:PME	anyá	:3/13A	noi	T215	 	Perényiné Miskolczi	Erzsébet	Általános nyomdaipari alapismeretek
+60679	D	Sz	3	:SVI	mny	:11.B.	Egész osztály	T203	 	Székelyné Veres	Ilona	Magyar nyelv
+57979	D	Sz	3	:SzH	ák	:2/14B	elektr	T4	 	Szöll?si	Huba	Alkalmazott kémia
+57979	D	Sz	3	:SzH	ák	:2/14B	elektr	T4	 	Szöll?si	Huba	Általános kémia
+52899	D	Sz	4	.Hne	mat	.11/C	Egész osztály	k207	dr.	Horváth Gyuláné		Matematika
+52375	D	Sz	4	.HT	of	.1/9/4	Egész osztály	f107		Habók	Tamás	Osztályfőnöki
+52983	D	Sz	4	.KE	mat	.9/C	.9/C(V), .9/C(R2/2)	f112 		Kosara	Erika	Matematika
+54951	D	Sz	4	.PTV	mi	.12/D	Egész osztály	f215		Tompa	Valéria	Magyar irodalom
+54270	D	Sz	4	.TM	of	.9/3	Egész osztály	f210 		Törköly	Magdolna	Osztályfőnöki
+57684	D	Sz	4	:BA	inf	:9/5	1. csoport	T3	 	Berczik	Andrea	Informatika
+63984	D	Sz	4	:BLne	mat	:9/5	2. csoport	T308	 	Baár	Lászlóné	Matematika
+61584	D	Sz	4	:HG	rv	:12.B.	Egész osztály	T206	 	Herczeg	Gabriella	Rajz és vizuális kultúra
+60984	D	Sz	4	:KoJo	anym	:11.A.	nyomdász	T204	dr.	Körmendi	József	Anyagmegmunkálások
+60084	D	Sz	4	:MM	inf	:2/12F	1. Csoport	T111	 	Máté	Mária	Informatika
+61284	D	Sz	4	:MSM	mny	:12.A.	Egész osztály	T205	 	Máhigné Stefanovits	Márta	Magyar nyelv
+60384	D	Sz	4	:NyM	of	:9/6	Egész osztály	T202	 	Nyári	Mariann	Osztályfőnöki
+63384	D	Sz	4	:PA	inf	:2/12F	2. Csoport	T302	 	Pásztor	Attila	Informatika
+59184	D	Sz	4	:PME	anyá	:3/13A	noi	T107	 	Perényiné Miskolczi	Erzsébet	Általános nyomdaipari alapismeretek
+60684	D	Sz	4	:SGyT	ak	:11.B.	Egész osztály	T203	 	Siposné Gyarmati	Teréz	Alkalmazott kémia
+60684	D	Sz	4	:SGyT	ak	:11.B.	Egész osztály	T203	 	Siposné Gyarmati	Teréz	Általános kémia
+57984	D	Sz	4	:SzH	ák	:2/14B	elektr	T4	 	Szöll?si	Huba	Alkalmazott kémia
+57984	D	Sz	4	:SzH	ák	:2/14B	elektr	T4	 	Szöll?si	Huba	Általános kémia
+58584	D	Sz	4	:Sztne	of	:9.A.	Egész osztály	T7	 	Sztankovics	Józsefné	Osztályfőnöki
+52991	D	Sz	5	.CsF	of	.2/10/1	Egész osztály	f112 	 	Cseh	Ferenc	Osztályfőnöki
+60689	D	Sz	5	.FK	mny	:9/4	1. csoport	T203		Fejes	Katalin Lilla	Magyar nyelv
+54279	D	Sz	5	.HK	of	.3/11/1	Egész osztály	f210 		Huszár	Károly	Osztályfőnöki
+53160	D	Sz	5	.Hne	mat	.10/D	Egész osztály	f130 	dr.	Horváth Gyuláné		Matematika
+53356	D	Sz	5	.IK	mat	.9/2	elekt	f204 		Izsó	Katalin	Matematika
+53772	D	Sz	5	.KE	mat	.10/C	Egész osztály	f207 		Kosara	Erika	Matematika
+53743	D	Sz	5	.KGK	inf	.1/9/2	a	fI218		Kálmánné Gát	Klára	Informatika
+53295	D	Sz	5	.SM	inf	.10/1	A1 	I1		Százné S?rés	Márta	Informatika
+58889	D	Sz	5	:AN	bio	:9.A.	Egész osztály	T106	 	Asbóth	Norbert	Biológia
+57689	D	Sz	5	:BA	inf	:10.A.	Inf I	T3	 	Berczik	Andrea	Informatika
+60989	D	Sz	5	:KoJo	anym	:11.A.	nyomdász	T204	dr.	Körmendi	József	Anyagmegmunkálások
+61589	D	Sz	5	:LJne	mat	:10.B.	Egész osztály	T206	 	L?rincz	Jánosné	Matematika
+60089	D	Sz	5	:MM	inf	:2/12F	1. Csoport	T111	 	Máté	Mária	Informatika
+63989	D	Sz	5	:MTE	po	:9/6	1. csoport	T308	 	Mucsiné Turu	Erzsébet	Pályaorientáció
+59489	D	Sz	5	:MZ	of	:2/12B	Egész osztály	T108	 	Martincsek	Zoltán	Osztályfőnöki
+58589	D	Sz	5	:Ne	of	:9/5	Egész osztály	T7	 	Neparáczkiné Kiss	Beatrix	Osztályfőnöki
+63389	D	Sz	5	:PA	inf	:2/12F	2. Csoport	T302	 	Pásztor	Attila	Informatika
+62789	D	Sz	5	:PME	anyá	:3/13A	noi	T215	 	Perényiné Miskolczi	Erzsébet	Általános nyomdaipari alapismeretek
+60389	D	Sz	5	:Ra	mat	:9/6	2. csoport	T202	 	Radóczi	Tibor	Matematika
+57989	D	Sz	5	:SzH	ák	:2/14B	elektr	T4	 	Szöll?si	Huba	Alkalmazott kémia
+57989	D	Sz	5	:SzH	ák	:2/14B	elektr	T4	 	Szöll?si	Huba	Általános kémia
+63689	D	Sz	5	:TI	inf	:10.A.	Inf II	T303	 	Tóth	István János	Informatika
+52913	D	Sz	6	.Hne	mat	.12/C	Egész osztály	k207	dr.	Horváth Gyuláné		Matematika
+51834	D	Sz	6	.NT	inf++	.11/D	A1	f222		Németh	Tamás	Informatika fakultáció
+64594	D	Sz	6	:CsL	szeri	:2/12F	kerekpar	T310	 	Cseh	László	Szerelési ismeretek
+60694	D	Sz	6	:GLK	mat	:12.B.	Egész osztály	T203	 	Geráné Lippay 	Klára	Matematika
+60994	D	Sz	6	:KoJo	anym	:11.A.	nyomdász	T204	dr.	Körmendi	József	Anyagmegmunkálások
+58894	D	Sz	6	:LJne	mat	:9.B.	Egész osztály	T106	 	L?rincz	Jánosné	Matematika
+60094	D	Sz	6	:MM	inf	:2/12B	1. Csoport	T111	 	Máté	Mária	Informatika
+63994	D	Sz	6	:MTE	po	:9/6	1. csoport	T308	 	Mucsiné Turu	Erzsébet	Pályaorientáció
+60394	D	Sz	6	:Ne	mat	:9/5	1. csoport	T202	 	Neparáczkiné Kiss	Beatrix	Matematika
+63394	D	Sz	6	:PA	inf	:10/8	2. csoport	T302	 	Pásztor	Attila	Informatika
+57994	D	Sz	6	:SzH	irtec	:2/12F	mchmusz	T4	 	Szöll?si	Huba	Irányítástechnika
+58594	D	Sz	6	:Sztne	mat	:10/5	2. Csoport	T7	 	Sztankovics	Józsefné	Matematika
+57694	D	Sz	6	:TI	inf	:2/12B	2. Csoport	T3	 	Tóth	István János	Informatika
+61594	D	Sz	6	:TKG	mat	:10.A.	Egész osztály	T206		Tolnainé Kern	Gabriella	Matematika
+53309	D	Sz	7	.KGK	inf++	.11/D	A1	I1		Kálmánné Gát	Klára	Informatika fakultáció
+56449	D	Sz	7	.VeI	heg	.1/9/5	h2	Deri1	 	Vetró	István	Hegesztés 
+63999	D	Sz	7	:Bu	mny	:10/5	1. Csoport	T308	 	Burkovics	Ferenc	Magyar nyelv
+64599	D	Sz	7	:CsL	szeri	:2/12F	kerekpar	T310	 	Cseh	László	Szerelési ismeretek
+64299	D	Sz	7	:GLK	mat	:11.B.	Egész osztály	T309	 	Geráné Lippay 	Klára	Matematika
+60999	D	Sz	7	:KoJo	anym	:11.A.	nyomdász	T204	dr.	Körmendi	József	Anyagmegmunkálások
+58899	D	Sz	7	:LJne	mat	:9.B.	Egész osztály	T106	 	L?rincz	Jánosné	Matematika
+60099	D	Sz	7	:MM	inf	:9/6	2. csoport	T111	 	Máté	Mária	Informatika
+60699	D	Sz	7	:Ne	mat	:9/4	2. csoport	T203	 	Neparáczkiné Kiss	Beatrix	Matematika
+57999	D	Sz	7	:SzH	irtec	:2/12F	mchmusz	T4	 	Szöll?si	Huba	Irányítástechnika
+58599	D	Sz	7	:Sztne	mat	:10/5	2. Csoport	T7	 	Sztankovics	Józsefné	Matematika
+61899	D	Sz	7	:UM	mh	:2/12E	Gepirok	T208	 	Urbán 	Marianna	Magyar helyesírás
+53313	D	Sz	8	.KGK	inf	.2/10/3	fest?1	I1		Kálmánné Gát	Klára	Informatika
+56454	D	Sz	8	.VeI	heg	.1/9/5	h2	Deri1	 	Vetró	István	Hegesztés 
+64604	D	Sz	8	:CsL	szeri	:2/12F	kerekpar	T310	 	Cseh	László	Szerelési ismeretek
+61004	D	Sz	8	:KoJo	anym	:11.A.	nyomdász	T204	dr.	Körmendi	József	Anyagmegmunkálások
+60704	D	Sz	8	:Ne	mat	:9/4	2. csoport	T203	 	Neparáczkiné Kiss	Beatrix	Matematika
+60104	D	Sz	8	:WA	bio	:10/7	Egész osztály	T111	 	Weiner	András	Biológia
+56459	D	Sz	9	.VeI	heg	.1/9/5	h2	Deri1	 	Vetró	István	Hegesztés 
+60109	D	Sz	9	:MM	inf	:2/14A	2. Csoport	T111	 	Máté	Mária	Informatika
+58909	D	Sz	9	:Ne	mat	:10/7	Egész osztály	T106	 	Neparáczkiné Kiss	Beatrix	Matematika
+61309	D	Sz	9	:TKG	mat	:10/8	Egész osztály	T205		Tolnainé Kern	Gabriella	Matematika
+56464	D	Sz	10	.VeI	heg	.1/9/5	h2	Deri1	 	Vetró	István	Hegesztés 
+60114	D	Sz	10	:MM	inf	:2/14A	2. Csoport	T111	 	Máté	Mária	Informatika
+58914	D	Sz	10	:Ne	mat	:10/7	Egész osztály	T106	 	Neparáczkiné Kiss	Beatrix	Matematika
+61914	D	Sz	10	:TKG	mat	:10/8	Egész osztály	T208		Tolnainé Kern	Gabriella	Matematika
+56469	D	Sz	11	.VeI	heg	.1/9/5	h2	Deri1	 	Vetró	István	Hegesztés 
+57719	D	Sz	11	:KB	inf	:10/5	2. Csoport	T3	 	Kazi	Balázs Róbert	Informatika
+63419	D	Sz	11	:KLE	gépír	:2/12E	Gepirok	T302	 	Kajáriné Lestár	Erzsébet	Gépírás
+60119	D	Sz	11	:KoSK	mny	:10/4	német II	T111	 	Komárominé Sipos	Katalin	Magyar nyelv
+58619	D	Sz	11	:MSZ	mny	:10/7	Egész osztály	T7	 	Bönditzné Magyar	Szilvia	Magyar nyelv
+58919	D	Sz	11	:MTE	po	:10/4	német I	T106	 	Mucsiné Turu	Erzsébet	Pályaorientáció
+59519	D	Sz	11	:Ne	mat	:10/5	1. Csoport	T108	 	Neparáczkiné Kiss	Beatrix	Matematika
+56474	D	Sz	12	.VeI	heg	.1/9/5	h2	Deri1	 	Vetró	István	Hegesztés 
+57724	D	Sz	12	:KB	inf	:10/5	2. Csoport	T3	 	Kazi	Balázs Róbert	Informatika
+63424	D	Sz	12	:KLE	gépír	:2/12E	Gepirok	T302	 	Kajáriné Lestár	Erzsébet	Gépírás
+58624	D	Sz	12	:MTE	po	:10/4	német I	T7	 	Mucsiné Turu	Erzsébet	Pályaorientáció
+59524	D	Sz	12	:Ne	mat	:10/5	1. Csoport	T108	 	Neparáczkiné Kiss	Beatrix	Matematika
+59224	D	Sz	12	:PME	szai	:2/12A	noi	T107	 	Perényiné Miskolczi	Erzsébet	Szakmai alapismeret
+56479	D	Sz	13	.VeI	heg	.1/9/5	h2	Deri1	 	Vetró	István	Hegesztés 
+63429	D	Sz	13	:KLE	gépír	:2/12E	Gepirok	T302	 	Kajáriné Lestár	Erzsébet	Gépírás
+58629	D	Sz	13	:Ne	mat	:10/4	német I	T7	 	Neparáczkiné Kiss	Beatrix	Matematika
+59229	D	Sz	13	:PME	szai	:2/12A	noi	T107	 	Perényiné Miskolczi	Erzsébet	Szakmai alapismeret
