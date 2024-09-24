@@ -83,7 +83,6 @@ const data = [
 	</tr>
     {/each}
 </table>
-
 <style>
 	:global(body) {
 		background-color: #d6dba9;
@@ -93,7 +92,9 @@ const data = [
 	h1 {
 		font-family: 'Courier New', Courier, monospace;
 		padding: 20px;
+		font-size: 25px;
 	}
+
 	table#t1 {
 		margin: auto;
 		border-collapse: collapse;

@@ -21,5 +21,9 @@
 		"svelte": "^4.0.5",
 		"vite": "^4.4.2"
 	},
-	"type": "module"
+	"type": "module",
+	"dependencies": {
+		"highlight.js": "^11.10.0",
+		"markdown-it": "^14.1.0"
+	}
 }
