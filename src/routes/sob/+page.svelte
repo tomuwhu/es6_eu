@@ -28,7 +28,10 @@
 			id: 4,
 			sz: [8, 10],
 			date: '2024.09.12.',
-			theme: 'SvelteKit Static Site Generator'
+			theme: `<a 
+				href="https://kit.svelte.dev/docs/adapter-static" 
+				target="sssg">
+				SvelteKit Static Site Generator</a>`
 		},
 		{
 			id: 5,
