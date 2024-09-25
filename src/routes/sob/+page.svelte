@@ -53,6 +53,14 @@
 			theme: '<a href="https://vite.new/svelte" target="_blank">Vite-Svelte</a> Órarend generator',
 			source: 'https://github.com/tomuwhu/orarend_generator_svelte/blob/master/src/App.svelte',
 			online: 'https://tomuwhu.github.io/orarend_generator_svelte/'
+		},
+		{
+			id: 7,
+			sz: [18, 21],
+			date: '2024.09.25.',
+			theme: '<a href="https://vite.new/svelte" target="_blank">Vite-Svelte</a> Routing',
+			source: 'https://github.com/tomuwhu/App-routing/tree/master/src',
+			online: 'https://tomuwhu.github.io/App-routing'
 		}
 	]
 </script>
