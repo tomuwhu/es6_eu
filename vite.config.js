@@ -3,7 +3,7 @@ import { defineConfig } from 'vite';
 
 export default defineConfig({
 	plugins: [sveltekit()],
-	base: '/fetchex',
+	base: '/',
 	build: {
 		outDir: 'docs',
 		emptyOutDir: true
