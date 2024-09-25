@@ -8,7 +8,7 @@
 	]
 </script>
 
-<div>
+<div class="cont">
 	{#each menu as item}
 		<a class={currentRoute === item.href ? 'selected' : 'norm'} href={item.href}>{item.name}</a>
 	{/each}
@@ -16,12 +16,18 @@
 <slot />
 
 <style>
+	div.cont {
+		display: inline-flex;
+		flex-wrap: wrap;
+		justify-content: center;
+	}
 	a {
 		padding: 5px;
 		margin: 3px;
 		border-radius: 7px;
 		background-color: rgb(186, 217, 207);
 		box-shadow: 1px 1px 4px black;
+		white-space: nowrap;
 	}
 	a.selected {
 		background-color: black;
