@@ -22,8 +22,12 @@
 		justify-content: center;
 	}
 	a {
-		padding: 5px;
-		margin: 3px;
+		padding: 0px;
+		padding-left: 10px;
+		padding-right: 10px;
+		margin-left: 3px;
+		margin-right: 3px;
+		margin-bottom: 10px;
 		border-radius: 7px;
 		background-color: rgb(186, 217, 207);
 		box-shadow: 1px 1px 4px black;
