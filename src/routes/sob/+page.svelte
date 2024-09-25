@@ -64,6 +64,14 @@
 			theme: '<a href="https://vite.new/svelte" target="_blank">Vite-Svelte</a> Routing',
 			source: 'https://github.com/tomuwhu/App-routing/tree/master/src',
 			online: 'https://tomuwhu.github.io/App-routing'
+		},
+		{
+			id: 8,
+			sz: [22, 24],
+			date: '2024.09.26.',
+			theme: '<a href="https://vite.new/svelte" target="_blank">Vite-Svelte</a> Osztályórarend',
+			source: 'https://github.com/tomuwhu/fetchex',
+			online: 'https://tomuwhu.github.io/fetchex'
 		}
 	]
 </script>
