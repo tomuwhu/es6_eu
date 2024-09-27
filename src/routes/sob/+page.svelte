@@ -72,6 +72,14 @@
 			theme: '<a href="https://vite.new/svelte" target="_blank">Vite-Svelte</a> Osztályórarend',
 			source: 'https://github.com/tomuwhu/fetchex',
 			online: 'https://tomuwhu.github.io/fetchex'
+		},
+		{
+			id: 9,
+			sz: ['Esti tag'],
+			date: '2024.09.27.',
+			theme: '<a href="https://vite.new/svelte" target="_blank">Vite-Svelte</a> Aknakereső',
+			source: 'https://github.com/tomuwhu/svelte-aknakereso',
+			online: 'https://tomuwhu.github.io/svelte-aknakereso/'
 		}
 	]
 </script>
