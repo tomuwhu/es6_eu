@@ -3,7 +3,6 @@ import { defineConfig } from 'vite';
 
 export default defineConfig({
 	plugins: [sveltekit()],
-	base: '/',
 	build: {
 		outDir: 'docs',
 		emptyOutDir: true
