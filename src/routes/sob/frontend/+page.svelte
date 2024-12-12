@@ -107,7 +107,7 @@
     text-align: left;
 }
 
-div.tv {
+:globa(div.tv) {
     padding-top: 20px;
     text-align: center;
     font-size: 18px;
@@ -115,7 +115,7 @@ div.tv {
     color: rgb(13, 13, 58);
 }
 
-div.tv select {
+:global(div.tv select) {
     border-radius: 10px;
     background-color: antiquewhite;
     color: rgb(22, 60, 47);
