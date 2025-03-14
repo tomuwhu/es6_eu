@@ -4,7 +4,7 @@
 			<h4>2024/25</h4>
 			<a class="btn btn-outline-success btn-sm" href="https://szte.es6.eu" target="_blank">Egyetemi oktatás</a>
 			<a class="btn btn-outline-primary btn-sm" href="https://tomuwhu.github.io/frontend2425/peldaprog" target="_blank">Szakképzés: Frontend alkalmazásfejlesztés</a>
-			<a class="btn btn-outline-danger btn-sm" href="https://sobes.netlify.app/" target="_blank">Szakképzés: Backend/FullStack alkalmazásfejlesztés</a>
+			<a class="btn btn-outline-danger btn-sm" href="https://sveltekitwithturso.netlify.app/" target="_blank">Szakképzés: Backend/FullStack alkalmazásfejlesztés</a>
 			<a class="btn btn-outline-secondary btn-sm" href="https://iamlaszlokelemen.hu/" title="Az év legjobb portfóliója - minta" target="_blank">Kelemen László Ádám Weboldala</a>
 			<a class="btn btn-outline-secondary btn-sm" href="https://richardkorom.hu/" title="Egy tanítványom oktatási oldala" target="_blank">Korom Richárd Weboldala</a>
 			<h4>2023/24</h4>
