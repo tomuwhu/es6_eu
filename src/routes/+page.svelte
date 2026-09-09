@@ -1,6 +1,9 @@
 <h1 class="text-center mb-5 mt-4">ES6.EU</h1>
 
 <div class="container text-center">
+			<h4>2025/26</h4>
+			<a class="btn btn-outline-success btn-sm" href="https://www.icloud.com/keynote/0al55X6yQU90o7JcwDDjBvtZg#faa_2026" target="_blank">Fejlett Algoritmusok és adatszerkezetek diák</a>
+			<a class="btn btn-outline-primary btn-sm" href="https://tomuwhu.github.io/OTIR2026/" target="_blank">Oktatást Támogató Informatikai Rendszerek - Oldal</a>
 			<h4>2024/25</h4>
 			<a class="btn btn-outline-success btn-sm" href="https://szte.es6.eu" target="_blank">Egyetemi oktatás</a>
 			<a class="btn btn-outline-primary btn-sm" href="https://tomuwhu.github.io/frontend2425/peldaprog" target="_blank">Szakképzés: Frontend alkalmazásfejlesztés</a>
